@@ -2,7 +2,7 @@ import { type MetadataRoute } from 'next';
 import { articles } from '@/data/articles';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://luminous-flan-533099.netlify.app';
+  const baseUrl = 'https://peoplealsoask.netlify.app';
 
   // Generate article URLs
   const articleUrls = Object.keys(articles).map((slug) => ({

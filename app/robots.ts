@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/api/', '/admin/']
     },
-    sitemap: 'https://luminous-flan-533099.netlify.app/sitemap.xml'
+    sitemap: 'https://peoplealsoask.netlify.app/sitemap.xml'
   };
 }
