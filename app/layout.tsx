@@ -32,6 +32,9 @@ export const metadata: Metadata = {
   },
   verification: {
     google: 'your-google-verification-code',
+    other: {
+      'msvalidate.01': 'FED4E424C265702D43135DD8C7338545'
+    }
   },
   alternates: {
     canonical: 'https://peoplealsoask.netlify.app'
