@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     description: 'Find comprehensive answers to your most pressing questions. Expert insights and detailed explanations on various topics.'
   },
   verification: {
-    google: 'your-google-verification-code',
+    google: 'd23by8QOGnw_inlpGsIXqIwZsrUANYSt3523AiLHN7w',
     other: {
       'msvalidate.01': 'FED4E424C265702D43135DD8C7338545'
     }
