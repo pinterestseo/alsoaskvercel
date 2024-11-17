@@ -1,6 +1,8 @@
 import { type MetadataRoute } from 'next';
 
 export default function robots(): MetadataRoute.Robots {
+  const baseUrl = 'https://peoplealsoask.netlify.app';
+  
   return {
     rules: {
       userAgent: '*',
@@ -9,11 +11,11 @@ export default function robots(): MetadataRoute.Robots {
         '/api/',
         '/admin/',
         '/private/',
-        '/search', // Prevent crawling of search results pages
-        '/*?*', // Prevent crawling of URLs with query parameters
+        '/search?*', // Only block search with parameters
+        '/*?*q=*' // Block query parameters containing searches
       ]
     },
-    sitemap: 'https://peoplealsoask.netlify.app/sitemap.xml',
-    host: 'https://peoplealsoask.netlify.app'
+    sitemap: `${baseUrl}/sitemap.xml`,
+    host: baseUrl
   };
 }
