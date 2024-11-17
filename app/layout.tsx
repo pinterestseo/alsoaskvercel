@@ -49,7 +49,8 @@ export const metadata: Metadata = {
       'max-image-preview': 'large',
       'max-snippet': -1,
     },
-  },
+    nocache: true,
+  }
 };
 
 export default function RootLayout({
@@ -62,13 +63,13 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify(websiteStructuredData)
           }}
         />
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
       </head>
       <body className={cn(inter.className, "min-h-screen bg-background antialiased flex flex-col")}>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>

@@ -12,19 +12,12 @@ const nextConfig = {
   },
   output: 'export',
   distDir: 'out',
-  compress: true, // Enable Gzip compression
-  poweredByHeader: false, // Remove X-Powered-By header
-  headers: async () => [
-    {
-      source: '/:path*',
-      headers: [
-        {
-          key: 'X-DNS-Prefetch-Control',
-          value: 'on'
-        }
-      ]
-    }
-  ]
-}
+  compress: true,
+  poweredByHeader: false,
+  experimental: {
+    optimizeFonts: true,
+    optimizeImages: true
+  }
+};
 
 module.exports = nextConfig;
