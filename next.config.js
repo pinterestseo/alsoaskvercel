@@ -11,7 +11,20 @@ const nextConfig = {
     ignoreBuildErrors: true
   },
   output: 'export',
-  distDir: 'out'
-};
+  distDir: 'out',
+  compress: true, // Enable Gzip compression
+  poweredByHeader: false, // Remove X-Powered-By header
+  headers: async () => [
+    {
+      source: '/:path*',
+      headers: [
+        {
+          key: 'X-DNS-Prefetch-Control',
+          value: 'on'
+        }
+      ]
+    }
+  ]
+}
 
 module.exports = nextConfig;

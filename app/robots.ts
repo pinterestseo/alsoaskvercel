@@ -5,8 +5,15 @@ export default function robots(): MetadataRoute.Robots {
     rules: {
       userAgent: '*',
       allow: '/',
-      disallow: ['/api/', '/admin/']
+      disallow: [
+        '/api/',
+        '/admin/',
+        '/private/',
+        '/search', // Prevent crawling of search results pages
+        '/*?*', // Prevent crawling of URLs with query parameters
+      ]
     },
-    sitemap: 'https://peoplealsoask.netlify.app/sitemap.xml'
+    sitemap: 'https://peoplealsoask.netlify.app/sitemap.xml',
+    host: 'https://peoplealsoask.netlify.app'
   };
 }

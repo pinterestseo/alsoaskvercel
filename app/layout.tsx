@@ -38,7 +38,18 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: 'https://peoplealsoask.netlify.app'
-  }
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
 };
 
 export default function RootLayout({
@@ -57,6 +68,7 @@ export default function RootLayout({
             __html: JSON.stringify(websiteStructuredData)
           }}
         />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
       </head>
       <body className={cn(inter.className, "min-h-screen bg-background antialiased flex flex-col")}>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
