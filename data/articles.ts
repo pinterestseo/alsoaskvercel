@@ -7010,4 +7010,2709 @@ Sign up today and get your first month free at Itchpet.com</div>
     { id: 'Plan ahead', text: 'Plan ahead', level: 2 },
   ]
 },
+'is-christmas-dinner-safe-for-your-dog': {
+  title: 'Is Christmas dinner safe for your dog?',
+  category: 'Pets',
+  snippet: "Christmas dinner can be unsafe for dogs if it includes foods like onions, garlic, raisins, or chocolate. Avoid giving your dog fatty meats, bones, or rich sauces that can cause digestive upset. Stick to safe treats like plain turkey or vegetables in moderation.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/08-11-23_BLOG_CHRISTMAS_DINNER_HEADER_2000X1120_71fcb580-7fcb-41b3-8e9c-1278780d9450_500x_crop_center.jpg?v=1702296860",
+    alt: "Is Christmas dinner safe for your dog?",
+    caption: "Can dogs eat Christmas dinner?"
+  },
+  content: `
+<p>There’s a dual answer to this: yes, your dog can safely eat a Christmas dinner, but no, your human Christmas dinner is not recommended, as delicious as it may be! Read on for our full rundown of what can be in a Christmas dinner for dogs, and which festive foods are safer to eat than others.</p>
+      <h2 id="Can dogs eat Christmas dinner?">Can dogs eat Christmas dinner?</h2>
+      <p>When it’s Christmas Day and grub’s up, there’s no doubt your dog will be well aware of a feast - especially with all those amazing smells - so you might want to treat them to a Christmas dinner of their own. Hold your horses, though! Rather than scraping from your own plates into their bowl, you’ll want to check whether their sensitive tums can handle all those rich, gravy-soaked treats.</p>
+      <h2 id="What can dogs eat from a Christmas dinner?">What can dogs eat from a Christmas dinner?</h2>
+      <p>A traditional Christmas dinner is usually full of tasty whole foods and a satisfying mix of high-quality meat, veggies and carbohydrates - not a bad combo for a dog’s meal. However, some components of a Crimbo dinner are a no-go for hungry dogs - whereas for the safe ingredients, there’s a knack to how you prepare them.</p>
+      <p>To avoid a sick dog on Christmas day, here’s the lowdown on each specific dinner element, arranged into tasty courses! Starters It’s the first course of the Christmas meal, knives and forks are primed, and you’re wondering, what Christmas foods can my dog eat?</p>
+      <h2 id="Christmas dinner starters">Christmas dinner starters</h2>
+      <p>Here is the dog-based recommendation for each traditional starter:</p>
+      <h3 id="Can dogs eat a prawn cocktail?">Can dogs eat a prawn cocktail?</h3>
+      <p>Yes and no! Dogs can eat prawns, so long as they’re de-shelled and deveined, cooked without added seasoning and served in bite-size pieces. Prawns are a great protein source, and contain omegas 3 and 6; essential fatty acids that contribute to good coat and skin condition, and joint health.</p>
+      <p>Dogs can also eat the plain iceberg lettuce with the prawns, if they like it. Avoid the tangy Marie Rose sauce that usually comes with a prawn cocktail, however, as this is high in fat, salt and sugar, so could cause a stomach upset.</p>
+      <h3 id="Can dogs eat soup?">Can dogs eat soup?</h3>
+      <p>No - at least, not the soup that humans would eat. Soup is likely to contain ingredients not suitable for a dog, such as cream, extra salt, chilli, onions, garlic and other seasonings and spices. You might want to make a broth or soup containing only dog-friendly ingredients, but dogs like to chew and would probably prefer a meal with more substance.</p>
+      <h3 id="Can dogs eat pate?">Can dogs eat pate?</h3>
+      <p>No. Pate is an indulgent treat for humans, especially at Christmas - but it isn’t good for a dog’s health or digestion due to its high fat content, which could cause pancreatitis - as well as high levels of salt and seasoning. You could make your own pate from lean chicken, turkey or fish - without seasoning.</p>
+      <h3 id="Can dogs eat smoked salmon?">Can dogs eat smoked salmon?</h3>
+      <p>Another iffy one for dogs! Though fresh salmon can be a healthy, nutrient-rich food for dogs, smoked salmon is trickier due to that dastardly high salt content. A small, single piece of smoked salmon in your dog’s bowl as a treat is unlikely to do any harm, but don’t feed it to them as a regular food.</p>
+      <p>You could serve fresh salmon instead. Serve baked, poached or steamed, without seasoning and with all the bones removed, for a delicious source of protein and omega fatty acids for your pooch (great for coat, skin, joint health and immunity).</p>
+      <h2 id="Christmas dinner main course">Christmas dinner main course</h2>
+      <p>Main courses It’s time for the main event with all the trimmings - and your dog is more than ready! Let’s go into detail over whether dogs can eat roast turkey and all the extras of a Christmas main course:</p>
+      <h3 id="Can dogs eat roast turkey or roast chicken?">Can dogs eat roast turkey or roast chicken?</h3>
+      <p>Yes! Your dog can eat chicken or turkey - just make sure it’s lean, white meat that doesn’t contain bones, and there’s no extra seasoning or flavouring. Chicken and turkey are both high in protein as well as low in fat (when prepared correctly), so either meat makes for a juicy, healthy option for a dog’s lunch. Avoid the darker pieces of meat, which will be harder for them to digest; cut off the fatty pieces, and avoid the heavily seasoned skin. These parts of the poultry are high in fat which could cause sickness or trigger pancreatitis in some dogs. If you wrap your Christmas turkey in bacon or other extras, keep that for the people plates.</p>
+      <h3 id="Can dogs eat stuffing?">Can dogs eat stuffing?</h3>
+      <p>No - avoid adding stuffing to your dog’s Christmas bowl. Though delicious, stuffing contains a lot of fats as well as garlic and onions, both of which can wreak havoc with your dog’s stomach and even cause anaemia.</p>
+      <h3 id="Can dogs eat roast potatoes?">Can dogs eat roast potatoes?</h3>
+      <p>Not really… dogs can eat potatoes in moderation, but roast potatoes are slightly too fatty and starchy for them to digest. As an alternative, when cooking up the roast, boil some potatoes or mash a small amount for your dog, without adding any salt or butter. Serve a small portion, as most of the meal should be made of meat and veg to avoid your dog being bloated and lethargic later.</p>
+      <h3 id="Can dogs eat mashed potatoes?">Can dogs eat mashed potatoes?</h3>
+      <p>In moderation. Feed your dog a small amount of unseasoned mashed potato as a substitute for those rich roasties. Just make sure it’s not the main component of the meal - take up the space with veggies instead.</p>
+      <h3 id="Can dogs eat pigs in blankets?">Can dogs eat pigs in blankets?</h3>
+      <p>No. No matter how much your pooch might love them (and they will), pigs in blankets - those dinky sausages wrapped in bacon - are just too high in fat and salt for your pooch’s delicate tum. Instead, try some high protein meaty treats specifically made for dogs.</p>
+      <h3 id="Can dogs eat Brussel sprouts?">Can dogs eat Brussel sprouts?</h3>
+      <p>Yes! Whether you're a lover or hater, lots of dogs love a brussel sprout or two. They're packed full of fibre, vitamins and minerals, are low fat, and are even thought to have cancer-fighting properties. But beware: they do cause doggy farts! Be sure to steam or boil your dog’s sprouts and chop them up to avoid choking hazards, with no added salt, oil or butter for seasoning.</p>
+      <h3 id="Can dogs eat parsnips?">Can dogs eat parsnips?</h3>
+      <p>Yes. Parsnips are fine for dogs to eat, raw or cooked, and provide B vitamins, vitamins C and K, and potassium. They’re also digestible and a good source of dietary fibre. If cooking them for your pooch, make sure they’re boiled and don’t add any flavourings like honey glaze, oil, butter or salt. Serve them chopped or mashed in your lucky pooch's bowl.</p>
+      <h3 id="Can dogs eat swede?">Can dogs eat swede?</h3>
+      <p>Yes! Swede is a healthy and tasty food for your pooch’s Christmas lunch. Similar to parsnips, they contain beneficial vitamins and potassium, and are highly digestible. Swede can be served to your dog raw or cooked, so long as you boil and serve chopped or mashed without any glaze, oil, butter or salt.</p>
+      <h3 id="Can dogs eat broccoli?">Can dogs eat broccoli?</h3>
+      <p>Yes! In moderation, broccoli is a fantastic dog food at any time of year - it's super healthy, with tons of vitamins C, K and some B vitamins, as well as being high in fibre. It also contains antioxidants, to boost anti-inflammatory properties and fight harmful free radicals. Serve broccoli steamed or boiled with no extra salt or oil.</p>
+      <p>Broccoli can come in big pieces, so be sure to chop into bite-sized chunks to avoid the risk of your dog choking. Just like with sprouts, broccoli can make your dog gassy! If you find they’re too farty after eating, perhaps reduce the portion size next time.</p>
+      <h3 id="Can dogs eat cauliflower cheese?">Can dogs eat cauliflower cheese?</h3>
+      <p>Ideally no - creamy cauliflower cheese is too rich for a dog, and could cause a stomach upset. Cauliflower on its own is a preferable option, steamed or boiled with no added salt. Served this way, it’s a tasty side for your dog packed with vitamins C, K and B, and it’s high in fibre.</p>
+      <p>Remember to chop cauliflower florets into bite-sized chunks. We all know that dogs love a cheesy hit, so if you think they’re missing out on cauliflower cheese, try some cheese fondue Christmas dog treats instead.</p>
+      <h3 id="Can dogs eat Yorkshire puddings?">Can dogs eat Yorkshire puddings?</h3>
+      <p>No. Though Yorkshire puddings are truly scrumptious for most humans, they are made of flour, eggs and milk and offer no nutritional value to a hungry pooch. As they're cooked in oil, they're also very rich and likely to cause your dog bloatedness, lethargy or a stomach upset.</p>
+      <h3 id="Can dogs eat red cabbage?">Can dogs eat red cabbage?</h3>
+      <p>Yes. Red cabbage adds a burst of colour to a Christmas dinner plate, as well as a boost of vitamins and antioxidants. If you feed it to your dog, make sure it's boiled or steamed until soft; not fried in lots of oil or butter. Don't add any extra salt or seasoning and chop it into munchable pieces, as it can have some parts that are tough to chew.</p>
+      <p>Also feed in moderation, as it contains a lot of fibre that can cause digestive problems if overeaten. Condiments We humans love slathering on the sauces come Christmas, but what, if any, Christmas dinner condiments are safe for a dog to eat?</p>
+      <h3 id="Can dogs eat gravy?">Can dogs eat gravy?</h3>
+      <p>Sadly no! Most human gravy is very high in fat and salt. It's just too rich for your hungry pooch, and could cause a stomach upset. It could also contain onions and garlic, which is another no-no for dogs. If you’ve made the gravy yourself and know exactly what ingredients have been used, a small amount might be ok to drizzle onto their meal - but err on the side of caution.</p>
+      <h3 id="Can dogs eat cranberry sauce?">Can dogs eat cranberry sauce?</h3>
+      <p>Maybe. A small dollop of cranberry sauce is ok for a dog to eat, especially if you’ve made it yourself with cranberries and water. If you’ve bought it, check the label. If it contains grapes or raisins it should definitely be avoided - and be wary if it’s sugar-free, as it may contain artificial sweeteners such as Xylitol which is lethal to dogs. If you aren't sure, better give cranberry sauce a miss.</p>
+      <h3 id="Can dogs eat mustard?">Can dogs eat mustard?</h3>
+      <p>No. It’s too potent in flavour for a dog and offers no nutritional value. As a general rule, keep it plain when it comes to your dog’s Christmas lunch, sticking to whole foods like lean meat and veggies.</p>
+      <h2 id="Christmas dinner dessert">Christmas dinner dessert</h2>
+      <p>Desserts time for the finale! By now, you and your dog will be suitably stuffed, but there might be room for more. So what can a dog eat for Christmas dessert?</p>
+      <h3 id="Can dogs eat Christmas pudding or Christmas cake?">Can dogs eat Christmas pudding or Christmas cake?</h3>
+      <p>It’s a no for dogs and most traditional Christmas puds. Christmas pudding and cake are usually packed with raisins, alcohol, chocolate and other strong flavourings that a dog gets no benefit from. Grapes, raisins and other fruits found in Christmas puddings are toxic to a dog’s kidneys and could cause renal failure, so it’s safer to avoid altogether. Remember, dogs don’t really have a sweet tooth, so they’re not missing out.</p>
+      <h3 id="Can dogs eat gingerbread?">Can dogs eat gingerbread?</h3>
+      <p>No. Gingerbread is high in sugar and fats, making it one to avoid as a dog treat. Lots of gingerbread also contains nutmeg, which is toxic to pooches and can even cause seizures and hallucinations.</p>
+      <h3 id="Can dogs eat satsumas?">Can dogs eat satsumas?</h3>
+      <p>Yes. Satsumas, oranges and tangerines are juicy Christmas treats that offer a boost of vitamin C for dogs. Just be sure to remove all seeds, skin and tough pieces, and feed in moderation. If you’ve never fed your dog this fruit before, introduce it slowly - they may have an allergy or respond negatively.</p>
+      <h3 id="Can dogs eat blue cheese?">Can dogs eat blue cheese?</h3>
+      <p>Most dogs love cheese - but blue cheese is quite an extreme treat for a dog. It’s not only high in salt, fat and flavour, but it contains various moulds that we humans can handle, but dogs may not. Additionally, your pooch may be lactose intolerant. If you want to offer a small piece of cheese to your dog, keep it mild, low fat and low salt. The safer choice is to give them a healthy cheesy treat for dogs.</p>
+      <h3 id="Can dogs eat whipped cream?">Can dogs eat whipped cream?</h3>
+      <p>Nope. Don’t feed your pooch cream, or they’ll likely feel uncomfortable come Christmas evening! Though some dogs may have a few licks and have no ill effects, plenty will have a lactose intolerance, and it’s simply too rich for most doggo digestive systems.</p>
+      <h3 id="Can dogs eat chocolate?">Can dogs eat chocolate?</h3>
+      <p>It probably doesn’t need saying, but don’t feed your dog any chocolate at Christmas! It’s one of the most well-known toxins for dogs due to its theobromine content - and there are much higher cases of chocolate poisoning in dogs over the seasonal period. Keep all chocolate, including that wrapped as presents, well out of your dog’s reach to keep them safe.</p>
+      <p>Overall: There’s no need for your dog to miss out on a special dinner this Christmas! Just be sure they eat the clean, nutritious parts of your meal - without all the added salt, oil and butter that human Christmas foods are known for.</p>
+      <p>Serve your special Christmas dinner for dogs into munchable pieces and let your pooch in on the festive feast. If you want some guilt-free ways to treat your dog this Christmas, check out our range of healthy Christmas dog treats.</p>
+      <section>References</section>
+`,
+  headings: [
+    { id: 'Can dogs eat Christmas dinner?', text: 'Can dogs eat Christmas dinner?', level: 2 },
+    { id: 'What can dogs eat from a Christmas dinner?', text: 'What can dogs eat from a Christmas dinner?', level: 2 },
+    { id: 'Christmas dinner starters', text: 'Christmas dinner starters', level: 2 },
+    { id: 'Can dogs eat a prawn cocktail?', text: 'Can dogs eat a prawn cocktail?', level: 3 },
+    { id: 'Can dogs eat soup?', text: 'Can dogs eat soup?', level: 3 },
+    { id: 'Can dogs eat pate?', text: 'Can dogs eat pate?', level: 3 },
+    { id: 'Can dogs eat smoked salmon?', text: 'Can dogs eat smoked salmon?', level: 3 },
+    { id: 'Christmas dinner main course', text: 'Christmas dinner main course', level: 2 },
+    { id: 'Can dogs eat roast turkey or roast chicken?', text: 'Can dogs eat roast turkey or roast chicken?', level: 3 },
+    { id: 'Can dogs eat stuffing?', text: 'Can dogs eat stuffing?', level: 3 },
+    { id: 'Can dogs eat roast potatoes?', text: 'Can dogs eat roast potatoes?', level: 3 },
+    { id: 'Can dogs eat mashed potatoes?', text: 'Can dogs eat mashed potatoes?', level: 3 },
+    { id: 'Can dogs eat pigs in blankets?', text: 'Can dogs eat pigs in blankets?', level: 3 },
+    { id: 'Can dogs eat Brussel sprouts?', text: 'Can dogs eat Brussel sprouts?', level: 3 },
+    { id: 'Can dogs eat parsnips?', text: 'Can dogs eat parsnips?', level: 3 },
+    { id: 'Can dogs eat swede?', text: 'Can dogs eat swede?', level: 3 },
+    { id: 'Can dogs eat broccoli?', text: 'Can dogs eat broccoli?', level: 3 },
+    { id: 'Can dogs eat cauliflower cheese?', text: 'Can dogs eat cauliflower cheese?', level: 3 },
+    { id: 'Can dogs eat Yorkshire puddings?', text: 'Can dogs eat Yorkshire puddings?', level: 3 },
+    { id: 'Can dogs eat red cabbage?', text: 'Can dogs eat red cabbage?', level: 3 },
+    { id: 'Can dogs eat gravy?', text: 'Can dogs eat gravy?', level: 3 },
+    { id: 'Can dogs eat cranberry sauce?', text: 'Can dogs eat cranberry sauce?', level: 3 },
+    { id: 'Can dogs eat mustard?', text: 'Can dogs eat mustard?', level: 3 },
+    { id: 'Christmas dinner dessert', text: 'Christmas dinner dessert', level: 2 },
+    { id: 'Can dogs eat Christmas pudding or Christmas cake?', text: 'Can dogs eat Christmas pudding or Christmas cake?', level: 3 },
+    { id: 'Can dogs eat gingerbread?', text: 'Can dogs eat gingerbread?', level: 3 },
+    { id: 'Can dogs eat satsumas?', text: 'Can dogs eat satsumas?', level: 3 },
+    { id: 'Can dogs eat blue cheese?', text: 'Can dogs eat blue cheese?', level: 3 },
+    { id: 'Can dogs eat whipped cream?', text: 'Can dogs eat whipped cream?', level: 3 },
+    { id: 'Can dogs eat chocolate?', text: 'Can dogs eat chocolate?', level: 3 },
+  ]
+},
+
+
+
+'can-dogs-eat-prawns': {
+  title: 'Can dogs eat prawns?',
+  category: 'Pets',
+  snippet: "If you’ve ever wondered if your dog can eat prawns -the short answer is yes, they can!",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/Artboard_1_500x_crop_center.jpg?v=1699036620",
+    alt: "Can dogs eat prawns?",
+    caption: "Are prawns good for dogs?"
+  },
+  content: `
+<p>Prawns are tasty, easy-to-prepare and super nutritious. So, if you’ve ever been eating the meaty, bite-sized seafood, caught sight of your pooch looking up at you with the ‘puppy-dog-eyes’ and wondered; “Hmm, can I feed my dog prawns? How exactly should I serve prawns to my pooch?” - then we’re here to answer all your prawn-based questions.</p>
+      <p>Read on to discover whether prawns are good for dogs, what kinds of prawns dogs can eat, and how many prawns you should feed your dog.</p>
+      <h2 id="Are prawns good for dogs?">Are prawns good for dogs?</h2>
+      <p>First things first, are prawns even on the menu for your pooch? The answer is yes. You’ll be glad to hear that prawns are extremely nutritious for dogs.</p>
+      <h3 id="What are the health benefits of prawns for dogs?">What are the health benefits of prawns for dogs?</h3>
+      <p>So long as your pooch doesn’t have an allergy to prawns (more on that later), feed your dog prawns and they’ll receive a tasty, lip-smacking snack as well as a host of great health benefits, such as:</p>
+      <ul>
+        <li>They’re a great source of protein, as well as fatty acids omega-3 and omega-6.</li>
+        <li>They contain a host of beneficial B-vitamins as well as antioxidants, phosphorus and iodine.</li>
+        <li>They can help with dogs’ brain health, thyroid health, skin and coat.</li>
+        <li>They can improve joint conditions.</li>
+        <li>They can contribute to strong bones and teeth.</li>
+        <li>They can boost kidney function.</li>
+      </ul>
+      <p>Because they’re so tasty and nutritious, they also make for an excellent training treat.</p>
+      <h2 id="What you need to know before feeding prawns to your dog">What you need to know before feeding prawns to your dog</h2>
+      <p>Prawns are great for dogs to eat, but they need to be served up in as safe a way as possible to avoid a stomach upset or injury. That means they should be fresh, or at least freshly defrosted, de-shelled with no sharp pieces remaining, and then cooked and served plain with no added salt or flavourings.</p>
+      <h3 id="How many prawns can dogs eat?">How many prawns can dogs eat?</h3>
+      <p>As with all foods, prawns should be fed to your pooch in moderation. It’s hard to give an exact amount, however; all prawns are different sizes, dried prawns will contain more fat than fresh prawns, and the size and breed of your dog will also have an impact.</p>
+      <p>The general rule is that your dog’s diet should be 90% their usual dog food, so as long as prawns make up some of the remaining 10% of other food, treats and snacks, that should be fine. Chat to your vet if you aren’t entirely sure of portion sizes or frequency of feeding.</p>
+      <h3 id="How do you cook prawns for dogs?">How do you cook prawns for dogs?</h3>
+      <p>As human seafood fans are fully aware, prawns can be eaten in lots of delicious ways. For dogs, the preparation method that poses the least risk is to do the following:</p>
+      <ul>
+        <li>Choose fresh or thoroughly defrosted prawns. Check that they don’t smell fishy, and that they’re well within their expiration date.</li>
+        <li>Ideally the prawns should be de-shelled and deveined - but if you’ve bought whole prawns, remove all the shells, heads and tails and devein them yourself.</li>
+        <li>The best cooking method is to boil the prawns until they’re pink and meaty. It shouldn’t take too long.</li>
+        <li>Don’t add any spices, marinades or salt. Plain is best when serving prawns to dogs.</li>
+        <li>You can serve the prawns cold or warm, just so long as they’re fresh. If the prawns are quite big, chop them into munchable pieces so your pooch can eat them easily.</li>
+      </ul>
+      <h2 id="Different types of prawns">Different types of prawns</h2>
+      <p>Get ready, as we’re going to lay out all the kinds of prawns you can and can’t feed your dog. To summarise: de-shelled, cooked and without seasoning or salt is the best way to serve prawns to your pooch.</p>
+      <h3 id="Can dogs eat raw prawns?">Can dogs eat raw prawns?</h3>
+      <p>It’s not recommended that dogs eat raw prawns. This is because raw seafood can contain bacteria and pathogens that are killed off in the cooking process. Be sure to deshell, devein and cook prawns, ideally boiling them, before serving them up to your pooch as a healthy snack.</p>
+      <h3 id="Can dogs eat garlic prawns?">Can dogs eat garlic prawns?</h3>
+      <p>No, dogs shouldn’t be fed garlic prawns. Though delicious to humans, garlic wreaks havoc on a dog’s digestive system and can cause gastrointestinal distress. It’s best to prepare prawns without any added seasoning, such as salt, pepper or spices, and just serve them to your dog plain.</p>
+      <h3 id="Can dogs eat prawn crackers?">Can dogs eat prawn crackers?</h3>
+      <p>It’s not a great idea to feed your dog prawn crackers. Though they aren’t technically harmful they are essentially crisps, so they’re high in fat and salt and don’t carry a great deal of beneficial nutrition to a pooch.</p>
+      <h3 id="Can dogs eat ready-to-eat prawns?">Can dogs eat ready-to-eat prawns?</h3>
+      <p>Ready-to-eat prawns come already cooked. So long as they don’t contain any extra flavourings such as salt or marinades, they should be safe to feed your dog in moderation. Just be sure they’re fresh - serve them soon after purchasing and keep them chilled in the fridge in the meantime.</p>
+      <h3 id="Can dogs eat king prawns?">Can dogs eat king prawns?</h3>
+      <p>Dogs can eat king prawns - just be aware that as they’re bigger, a smaller serving size will provide the same nutritional benefit as a handful of regular prawns. Be sure to prepare them as advised above - de-shelled, deveined and cooked without extra seasoning. It’s also a good idea to chop them, too, as if your dog tends to wolf down their food they may choke on them if they’re full-sized.</p>
+      <h3 id="Can dogs eat frozen prawns?">Can dogs eat frozen prawns?</h3>
+      <p>So long as the prawns were good to eat before they were frozen (i.e. they weren’t out of date or fishy-smelling) then it should be fine to defrost frozen prawns and serve them to your pooch. Be sure they’re thoroughly defrosted, cook them well and serve them plain, cut into munchable pieces.</p>
+      <h3 id="Can dogs eat a prawn cocktail?">Can dogs eat a prawn cocktail?</h3>
+      <p>Usually a prawn cocktail will contain heavy amounts of mayonnaise-based sauce, which is fattening to a dog and could cause tummy upset. Prawn cocktails could contain other ingredients that aren’t suitable for a pooch, such as onion. It’s best to create your own doggy prawn cocktail; perhaps just plain cooked prawns and iceberg lettuce leaves, with no salt or dressing.</p>
+      <h3 id="Are prawn heads OK for dogs?">Are prawn heads OK for dogs?</h3>
+      <p>We don’t recommend feeding parts of a whole prawn to your dog, such as the tail or head. Pieces of prawn shell are sharp and hard for your dog to digest, not to mention they could get stuck in your dog’s teeth. It’s easiest to source prawns that are already de-shelled and deveined, but if you have whole prawns, cut off the tail and head and remove all shell before cooking and serving to your pooch plain.</p>
+      <h3 id="Can dogs eat prawn toast?">Can dogs eat prawn toast?</h3>
+      <p>Prawn toast is very high in fat and contains a lot of cholesterol, and is flavoured with a prawn paste, so doesn’t come with half the nutrition that fresh prawns might. Only serve your dog plain, cooked prawns with no seasoning, and keep the prawn toast as an appetiser for humans.</p>
+      <h3 id="Can dogs eat prawn shells?">Can dogs eat prawn shells?</h3>
+      <p>We don’t recommend feeding your dog prawns with the shells on, and definitely not the shells on their own. There are some dog owners who feed their dogs a raw food diet (known as BARF: Bones and Raw Food), and they might feed their dog whole prawns, along with the shells. Due to choking hazards and risk of injury, it’s much safer to only serve the meat of the prawn to your dog, without the head, tail or shell - and cook it well first.</p>
+      <h3 id="Can my dog eat prawns that are breaded or fried?">Can my dog eat prawns that are breaded or fried?</h3>
+      <p>It’s safer to feed your dog prawns in their freshest form, without additional breading or coating. Prawns that have been boiled with no extra salt or seasoning is the preference - this way they’ll receive all the nutritional benefits without any risky extras.</p>
+      <p>You may also wonder, can dogs eat tempura prawns, or prawns in batter? As a rule, deep fried or breaded prawns are fattening for a dog, and contain ingredients that might cause your pooch to have indigestion or stomach upset - so keep the fancy prawns for your own buffet.</p>
+      <h2 id="More questions about prawns…">More questions about prawns…</h2>
+      <p>Here are a final few questions to round off our extensive ‘prawns for dogs’ debate. If you have any other queries, feel free to get in touch with us.</p>
+      <h2 id="Can puppies eat prawns?">Can puppies eat prawns?</h2>
+      <p>As a rule, you should only feed your puppy food made specifically for puppies that your vet has recommended. Their digestive systems aren’t yet strong enough for the variation in foods that adult dogs eat. When they’re old enough (usually at least a year old) you can introduce prawns bit by bit into your young dog’s diet - as if they have an allergic reaction, now is the time that you’ll discover it!</p>
+      <h2 id="Can dogs be allergic to prawns?">Can dogs be allergic to prawns?</h2>
+      <p>Dogs can be allergic to prawns, so be aware of this if you’re offering them up as a snack when they’ve not eaten prawns before. Introduce them gradually, don’t feed them a large amount - and keep a close eye on them in the hours following.</p>
+      <p>Signs of an allergic reaction include itching, swelling or a tummy upset, like sickness or severe diarrhoea. Definitely don’t continue to feed your dog prawns if you notice this.</p>
+      <h2 id="When shouldn’t you feed your dogs prawns?">When shouldn’t you feed your dogs prawns?</h2>
+      <p>There are a few scenarios in which you should hold back on a punnet of prawns for your pooch.</p>
+      <ul>
+        <li>If your dog is getting over a sickness, a fresh fishy treat may be a bit overwhelming for them.</li>
+        <li>If the prawns are leftover from your meal, and therefore likely to be highly seasoned, don’t feed these to your dog.</li>
+        <li>Prawns that have been stewing in the fridge a little too long are better off binned than in your dog’s bowl.</li>
+        <li>If you suspect your dog may have an allergy, or has reacted badly to prawns in the past, definitely steer clear of them in future.</li>
+      </ul>
+      <h2 id="What can I feed my dog instead of prawns?">What can I feed my dog instead of prawns?</h2>
+      <p>If you like the versatility of prawns as a dog treat, but you’re not keen on having prawns in the house, there are some nutritious alternatives you can offer up instead.</p>
+      <p>Fish skins - If you’ve freshly cooked a fish and don’t want to keep the skin, your dog will likely find it very tasty. Fish skins can be very nutritious as they contain lots of omega acids and healthy fats. Just be sure to serve the skin plain, and cut into pieces so your pooch doesn’t choke.</p>
+      <p>Fishy dog treats - If you want to forego the fresh prawns, healthy fish-flavoured treats can go down just as well. Our Shrimp & Coconut dog treats, for instance, are packed full of probiotics and are grain-free.</p>
+      <p>Salmon oil for dogs - Fish oil is a veritable superfood for a pooch - it contains essential fatty acids that contribute to a healthy skin and coat, as well as joint, brain, heart and cardiovascular health and the immune system. Just drizzle Salmon Oil for Dogs into your pooch’s regular food and they’ll love the fishy flavour.</p>
+      <p>Now you should be an expert on prawn preparation for dogs! If you’re not sold on prawn snacks for dogs however, and you’d rather a quicker way of getting fishy goodness into your dog’s diet, you could try our highly nutritious Salmon Oil for Dogs. It contains all the essential fatty acids a dog gets from fish, and provides huge benefits to your dog’s health and wellbeing.</p>
+`,
+  headings: [
+    { id: 'Are prawns good for dogs?', text: 'Are prawns good for dogs?', level: 2 },
+    { id: 'What are the health benefits of prawns for dogs?', text: 'What are the health benefits of prawns for dogs?', level: 3 },
+    { id: 'What you need to know before feeding prawns to your dog', text: 'What you need to know before feeding prawns to your dog', level: 2 },
+    { id: 'How many prawns can dogs eat?', text: 'How many prawns can dogs eat?', level: 3 },
+    { id: 'How do you cook prawns for dogs?', text: 'How do you cook prawns for dogs?', level: 3 },
+    { id: 'Different types of prawns', text: 'Different types of prawns', level: 2 },
+    { id: 'Can dogs eat raw prawns?', text: 'Can dogs eat raw prawns?', level: 3 },
+    { id: 'Can dogs eat garlic prawns?', text: 'Can dogs eat garlic prawns?', level: 3 },
+    { id: 'Can dogs eat prawn crackers?', text: 'Can dogs eat prawn crackers?', level: 3 },
+    { id: 'Can dogs eat ready-to-eat prawns?', text: 'Can dogs eat ready-to-eat prawns?', level: 3 },
+    { id: 'Can dogs eat king prawns?', text: 'Can dogs eat king prawns?', level: 3 },
+    { id: 'Can dogs eat frozen prawns?', text: 'Can dogs eat frozen prawns?', level: 3 },
+    { id: 'Can dogs eat a prawn cocktail?', text: 'Can dogs eat a prawn cocktail?', level: 3 },
+    { id: 'Are prawn heads OK for dogs?', text: 'Are prawn heads OK for dogs?', level: 3 },
+    { id: 'Can dogs eat prawn toast?', text: 'Can dogs eat prawn toast?', level: 3 },
+    { id: 'Can dogs eat prawn shells?', text: 'Can dogs eat prawn shells?', level: 3 },
+    { id: 'Can my dog eat prawns that are breaded or fried?', text: 'Can my dog eat prawns that are breaded or fried?', level: 3 },
+    { id: 'More questions about prawns…', text: 'More questions about prawns…', level: 2 },
+    { id: 'Can puppies eat prawns?', text: 'Can puppies eat prawns?', level: 2 },
+    { id: 'Can dogs be allergic to prawns?', text: 'Can dogs be allergic to prawns?', level: 2 },
+    { id: 'When shouldn’t you feed your dogs prawns?', text: 'When shouldn’t you feed your dogs prawns?', level: 2 },
+    { id: 'What can I feed my dog instead of prawns?', text: 'What can I feed my dog instead of prawns?', level: 2 },
+  ]
+},
+
+
+
+'the-best-dog-food-for-anal-gland-issues': {
+  title: 'The best dog food for anal gland issues',
+  category: 'Pets',
+  snippet: "The best dog food for anal gland issues includes high-fiber foods to support regular bowel movements, which helps prevent gland problems. Look for foods with natural fiber sources like pumpkin or sweet potatoes.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/BLOG_ANAL_GLAND_ISSUES_IMAGE_1_500x_crop_center.jpg?v=1716979303",
+    alt: "The best dog food for anal gland issues",
+    caption: "What are anal gland issues?"
+  },
+  content: `
+<p>We rave a whole lot at Pooch & Mutt about the importance of healthy dog poop, but today, we’re talking butts.</p>
+      <p>Does your dog scoot their bum along the floor sometimes? Do they seem irritated by a sore or itchy butt? If so, they could have issues with their anal glands.</p>
+      <p>In this article, we’ll go into the various anal gland issues for dogs and their link to nutrition and diet. With our help, you can find the best food for your dog’s anal glands and get to the ‘bottom’ of the problem.</p>
+      <h2 id="What are anal gland issues?">What are anal gland issues?</h2>
+      <p>Firstly, what does it mean for a dog to have anal gland issues? Let’s start with the purpose of anal glands in the first place…</p>
+      <p>The anal glands sit where you’d expect them to, just inside the anus. These anal glands have important functions: they secrete a stinky liquid that allows dogs to mark their territory, and also a lubricating mucus to help your dog’s poop pass through easily.</p>
+      <h2>Issues occur when these anal glands get overly full or become blocked, which can cause discomfort in your pooch and lead to infections.<br> <br><br>Here are some examples of anal gland problems in dogs: <br><br><strong>Impaction</strong> - When mucus thickens and hardens inside the anal glands, causing swelling and blockages.<br> <br><br><strong>Infection</strong> - This can happen when the glands aren’t expressed properly, or the pooch gets a yeast infection (potentially from an unhealthy diet or food allergies).<br><br><br> <strong>Recurring expression problems</strong> - Some dogs have anal glands that regularly dysfunction and need continual treatment and attention.<br> <br><br><strong>Abscesses or fistulas</strong> - If anal gland issues go untreated, it may lead to more acute symptoms such as abscesses.<br> <br><br><strong>Tumours</strong> - This is rare, but some anal glands might be affected by a tumour(s) developing in the anus. If they have issues with their anal glands, you might find your <strong><a href="https://www.poochandmutt.co.uk/blogs/why-do-dogs/why-do-dogs-drag-their-butts-on-the-ground" target="_blank">dog drags their butt along the floor</a></strong>. This is because they likely feel discomfort or pain and are trying to soothe themselves. You may also notice: <br><br></h2>
+      <ul>
+        <li>General behavioural changes</li>
+        <li>A foul smell</li>
+        <li>Excessive licking/grooming of the bum</li>
+        <li>Swelling or redness</li>
+        <li>Trouble pooping</li>
+        <li>Changes in appetite</li>
+      </ul>
+      <h3 id="Does diet help to manage anal gland issues?">Does diet help to manage anal gland issues?</h3>
+      <p>Anal gland issues in dogs can be caused by a number of things, so you should always see a vet to diagnose them properly. Though it’s not always the cause, diet can have a significant impact on whether problems develop, worsen or reoccur.</p>
+      <p>Food allergies or intolerances can increase the risk of your pooch getting an infection in the anal glands, as can too many fatty, sugary foods.</p>
+      <p>A diet that is low in fibre, or otherwise lacking in nutrients can also contribute to blocked anal glands in dogs. This is because fibre and a healthy balance of nutrients create poops of a firm consistency, which will naturally express the anal glands as they pass. Soft or loose stools caused by a lack of nutrition will move right through, meaning the glands aren’t used and become overly full.</p>
+      <h2 id="Nutritional requirements for dog food for anal gland issues">Nutritional requirements for dog food for anal gland issues</h2>
+      <p>If your pooch tends to get anal gland issues, putting them on a nutrient rich diet that supports their condition should be a top priority. These are the essential factors when choosing a diet for dog anal glands:</p>
+      <h2><strong>High fibre.</strong> Fibre is your dog’s best friend when supporting healthy digestion, bowel function and poops. High fibre foods such as sweet potato, apple and broccoli create firm poops which will naturally express the anal glands.<br><br></h2>
+      <h2><strong>Quality proteins.</strong> Lean, high-quality proteins like turkey, chicken and fish will help your pooch stay full while maintaining a healthy weight. Avoiding weight gain or obesity in your dog helps reduce strain on the anal glands.<br><br></h2>
+      <h2><strong>Omega-3 fatty acids</strong>, such as in fatty fish or salmon oil is a super healthy ingredient in the diet. It plays an important role in reducing inflammation in the body, as well as promoting skin, organ and gland health.<br><br></h2>
+      <h2><strong>‘Superfood’</strong> such as <a href="https://www.poochandmutt.co.uk/blogs/nutrition/pumpkin-for-dogs-health-benefits-and-suspiciously-good-snacks" target="_blank">pumpkin is great for dogs</a>, as it’s packed with fibre, has a high water content and is a natural dewormer (it contains cucurbitacin which helps kill off parasites in your dog’s digestive tract).<br><br></h2>
+      <h2><strong>Hydrating foods</strong> will increase moisture content in your dog’s diet, contributing to healthy digestion and poops.<br><br></h2>
+      <h2><strong>Lots of fresh water</strong> in bowls around the house, and available on walks, should help your dog get plenty of hydration to aid healthy digestion and defecation.</h2>
+      <h2 id="What food can I give my dog with anal gland issues?">What food can I give my dog with anal gland issues?</h2>
+      <p>So what can you give to your pooch that will avoid, rather than trigger, their anal gland issues?</p>
+      <ul>
+        <li>The easiest option is to choose a premium-quality, commercial dog food that is high in fibre and aimed at improving digestive health. Be shrewd about which dog food brand you choose. Unlike cheap dog foods on the market, specialist dog food for digestion will be made up of beneficial, bowel-supporting ingredients that will encourage firm poops - and in turn, natural anal gland expression. Our range of digestion focussed functional food and treats could really help.</li>
+      </ul>
+      <ul>
+        <li>At Pooch & Mutt we encourage a grain-free diet for dogs for most health issues, however, some dogs with specific problems with poop consistency may benefit from a grain-inclusive diet. Speak to your veterinarian about this.</li>
+      </ul>
+      <ul>
+        <li>Some pooch owners opt for a homemade diet. This can be preferable for those who like to know exactly what their dog is eating, however it can be tricky to get the balance of nutrients right when your dog has such specific needs. If you choose to prepare dog food at home, make sure this is under the guidance of a vet or pet nutritionist.</li>
+      </ul>
+      <ul>
+        <li>Prioritise wet food. Dogs with anal gland issues require boosted digestive function and poops of a healthy consistency - being hydrated with moisture-rich food and water will help with this. Our Chicken, Pumpkin & Pea Wet Food or Health & Digestion Wet Food could be good options.</li>
+      </ul>
+      <h3 id="Gastrointestinal dog food for anal gland issues">Gastrointestinal dog food for anal gland issues</h3>
+      <p>Dogs who suffer from anal gland issues because of food allergies or intolerances can thrive on a grain-free diet, grain being a common trigger for digestive issues and infections. Our Veterinary Food for Food Allergies is suitable for dogs with anal gland issues because of its gut-soothing ingredients that avoid common allergens.</p>
+      <p>Our dog food for sensitive stomachs may also work wonders, as it’s full of healthy, digestive ingredients that contribute to improved gut function and regular, firm stools. Our Health & Digestion Wet Food, for example, contains quality proteins turkey and herring as well as a burst of prebiotics.</p>
+      <h3 id="Ingredients to Avoid">Ingredients to Avoid</h3>
+      <p>If you’re gathering new foods to support your dog’s healthy anal glands, here are some ingredients you should be avoiding:</p>
+      <h2><strong>Low quality filler ingredients,</strong> such as those found in cheap dog food. This is only going to stress your poor dog’s body and mess with their digestion. Low quality ingredients as well as preservatives, sugars and nasties will exacerbate anal gland issues.<br><br></h2>
+      <h2><strong>High fat, sugary foods</strong> as they can slow down digestion and contribute to unhealthy poop consistency, resulting in full or blocked glands. Unhealthy fats and high levels of sugar will only worsen anal gland issues, so lean, high quality and nutritious foods should be a priority. Avoid human leftovers and fatty or sugary treats.<br><br></h2>
+      <h2><strong>Common allergens</strong> such as red meat, grain, dairy etc. could trigger your dog’s body and contribute to inflammation or infection in your dog’s glands. Be sure what you feed your dog is nutritious, safe, and easy for their body to process.</h2>
+      <h2 id="Transitioning to a diet for anal gland issues">Transitioning to a diet for anal gland issues</h2>
+      <p>When you know that your pooch has anal gland issues and you’ve picked out new food, it’s important to transition them slowly into their new diet to avoid a stomach upset.</p>
+      <li>Gradually introduce their new food, perhaps mixing it with some of their old food for a few days and seeing how they react to it. Eventually you can transition completely and phase out their old food.</li>
+      <li>Check your dog’s behaviour, as well as bowel movements, after they’ve been put on their new food. Has their stool consistency improved? Are they still scooting around on their butt? Note improvements and dips in their condition to report to a vet.</li>
+      <li>Update your vet on how things are going - vet appointments are an essential part of treating and diagnosing anal gland issues, as they can be caused by underlying health conditions. Your vet can offer advice or guidance to keep anal gland issues at bay.</li>
+      <li>Tailor their diet. All dogs are different levels of picky! If they don’t warm to their new food, it can be tailored to suit them. Discuss this with your vet, too.</li>
+      <h3 id="Conclusion">Conclusion</h3>
+      <h2>Your dog’s butt-scooting could be due to <strong>impacted or full anal glands</strong>. If your pooch gets frequent anal gland issues, some adjustments to their diet might be needed.<br><br></h2>
+      <h2>A diet for healthy anal glands in dogs is usually <strong>high in fibre, full of high-quality proteins</strong> and <strong>omega-3 fatty acids</strong>. They should also get <strong>plenty of hydration</strong> from water and/or moisture-rich foods.<br><br></h2>
+      <h2><strong>Food allergies can exacerbate anal gland problems</strong> - it could be worth putting your dog on a grain-free diet in order to curb common food allergens. Chat to your vet for more about this.<br><br></h2>
+      <h2><strong>Always take your dog to a vet</strong> for a proper diagnosis of their anal gland problems. It could be due to diet, but there may also be an underlying health condition or illness.</h2>
+      <h2 id="FAQs">FAQs</h2>
+      <section>How can I tell that my dog's anal glands are full?
+How often should you express dogs' anal glands?
+Can wet dog food help to relieve anal gland problems in dogs?
+What is the impact of food allergies on anal gland health in dogs?
+Can pressure on the anal gland affect a dog's comfort?
+Is grain-free dog food a great choice for dogs with anal gland issues?</section>
+      <h2><strong>To pack your dog’s diet full of high-fibre foods, try Pooch &amp; Mutt’s <a href="https://www.poochandmutt.co.uk/collections/digestion-food" target="_blank">Health &amp; Digestion range</a> - made with nutritious, whole ingredients to boost a dog’s digestion and ensure healthy, firm poops. </strong></h2>
+      <section>References</section>
+`,
+  headings: [
+    { id: 'What are anal gland issues?', text: 'What are anal gland issues?', level: 2 },
+    { id: 'Does diet help to manage anal gland issues?', text: 'Does diet help to manage anal gland issues?', level: 3 },
+    { id: 'Nutritional requirements for dog food for anal gland issues', text: 'Nutritional requirements for dog food for anal gland issues', level: 2 },
+    { id: 'What food can I give my dog with anal gland issues?', text: 'What food can I give my dog with anal gland issues?', level: 2 },
+    { id: 'Gastrointestinal dog food for anal gland issues', text: 'Gastrointestinal dog food for anal gland issues', level: 3 },
+    { id: 'Ingredients to Avoid', text: 'Ingredients to Avoid', level: 3 },
+    { id: 'Transitioning to a diet for anal gland issues', text: 'Transitioning to a diet for anal gland issues', level: 2 },
+    { id: 'Conclusion', text: 'Conclusion', level: 3 },
+    { id: 'FAQs', text: 'FAQs', level: 2 },
+  ]
+},
+
+
+
+'guide-grain-free-dog-food-good-for-dogs': {
+  title: 'A Guide to Grain-free Dog Food: Is It Good for Dogs?',
+  category: 'Pets',
+  snippet: "Grain-free dog food can be beneficial for dogs with food allergies or sensitivities to grains like corn or wheat. However, it’s not necessary for every dog and may cause nutritional imbalances if not formulated properly.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/A_guide_to_grain-free_food_-_HEADER_500x_crop_center.jpg?v=1685612152",
+    alt: "A Guide to Grain-free Dog Food: Is It Good for Dogs?",
+    caption: "What is grain-free dog food?"
+  },
+  content: `
+<p>You may have noticed that at Pooch & Mutt, we’re big advocates of grain-free dog food. We lean towards using zero-grain products in our tasty dog food ranges, instead focusing on freshly prepared whole proteins, vegetables and fruits alongside a host of botanicals, vitamins and minerals, and other supplements. But what’s the deal with grain-free dog food exactly - why do we feel so strongly about it, and what’s the grain-free debate all about?</p>
+      <p>We get it - it’s confusing! Which is why we’ve written this article to debunk some myths and give you an informed, well-rounded argument to the pros and cons of grain-free dog food. So you can decide for yourself whether it’s the right choice for your dog.</p>
+      <p>Read on for the full guide to grain-free food for dogs.</p>
+      <h2 id="What is grain-free dog food?">What is grain-free dog food?</h2>
+      <p>First, let’s cover the basics. When a dog food label says ‘grain-free’ it means the food doesn’t contain grains and cereals such as wheat, rice, barley, oats and rye. Most dog foods on the market contain some grain, and many brands offer a grain-free range. But a small percentage of brands (such as Pooch & Mutt) choose to offer solely grain-free dog food.</p>
+      <p>Grain-free food was initially developed for dogs with a recognised grain allergy, however, over time, many dog owners found that omitting grain could have health benefits for their dog - particularly those with sensitive stomachs or digestive issues.</p>
+      <p>‘Grain’ is quite a broad term and there are common mix-ups that accompany the phrase ‘grain-free’; it’s often confused with ‘gluten-free’ and ‘wheat-free’, for instance. Some also incorrectly assume that grain-free food is free of carbohydrates.</p>
+      <p>Grain-free food will likely have a lower amount of carbs than a dog food that contains grain, however, dogs can get their necessary carbohydrates from vegetables or legumes, such as lentils, peas or sweet potatoes.</p>
+      <h2 id="Grain-free vs grain dog food">Grain-free vs grain dog food</h2>
+      <p>So, is grain-free food better than dog food with grain, or vice versa? That depends, as not all grain-free food is made to the same standard, and the same applies to grain dog food. There are some commonly made arguments in the grain-free debate:</p>
+      <ul>
+        <li>A dog that eats a high-quality grain dog food - which includes a portion of ancient grains (such as rice or oats) alongside other freshly prepared ingredients - may do perfectly well on this diet. Grains do contain vital nutrients, and lots of dog owners feed grain to their dogs and do just fine.</li>
+      </ul>
+      <ul>
+        <li>Grain-free dog food doesn’t include grains, usually due to the fact that grains could trigger an adverse or allergic reaction in dogs. The other commonly held belief is that it’s considered a more natural diet for dogs, closer to their ancestral roots. Wild dogs or wolves would have eaten meat, vegetables and plants found in nature, for example, so it should therefore be gentler for domesticated dogs to digest and offer many health benefits.</li>
+      </ul>
+      <ul>
+        <li>Whether food contains grain or doesn’t, it’s essential that whichever range you buy is of a high-quality, contains varied, freshly prepared ingredients that have gone through minimal processing, and is nutritionally balanced. This usually means having a whole protein such as fish or chicken as the main ingredient. Dogs are carnivorous animals, so potatoes, corn, rice or similar shouldn’t make up the bulk of their meals.</li>
+      </ul>
+      <h3 id="Is grain-free the same as wheat-free in dog food?">Is grain-free the same as wheat-free in dog food?</h3>
+      <p>Wheat comes under the ‘grain’ food group (also called cereals) so the terms ‘grain-free’ and ‘wheat-free’ are often confused - but they don’t mean the same thing.</p>
+      <p>Essentially, wheat is a type of grain. If you see the term ‘wheat-free’ on some packaging it doesn’t necessarily mean that the dog food is grain-free, as it could contain other grains such as rye or barley. If you buy ‘grain-free’ food however, it definitely shouldn’t contain wheat.</p>
+      <h3 id="Is grain-free the same as gluten-free in dog food?">Is grain-free the same as gluten-free in dog food?</h3>
+      <p>Similarly, a lot of people wonder if ‘gluten-free’ is another phrase for ‘grain-free’. Gluten is a protein found in wheat, rye and barley, and some dogs (just like humans) have a gluten-allergy, so need to avoid these specific grains.</p>
+      <p>Gluten-free dog food might contain other grains such as rice - but as grain-free dog food avoids all grains including wheat, rye and barley, grain-free food is unlikely to contain gluten. Be sure to check the ingredients label to be sure.</p>
+      <h2 id="Why choose grain-free dog food?">Why choose grain-free dog food?</h2>
+      <p>So why should you choose grain-free food over one that contains grain? As we’ve established, there’s much debate on each side, so we’ll discuss both.</p>
+      <p>Is grain bad for dogs?</p>
+      <p>Grain isn’t bad for dogs in general. Used mindfully, it contains useful carbohydrates, and lots of dogs digest it without issue. However, it is bad for dogs who have an intolerance to grain or a grain allergy, and there are anecdotal reports that some dogs with sensitive tummies respond better to grain-free. It’s also bad if you consider how much space grain takes up in many commercial dog foods - space that could be filled with more thoughtfully combined, nutritious ingredients.</p>
+      <p>You shouldn’t feel that you’re doing wrong by your dog if you give them food containing grain, but it’s important to check out the nutrition information and be very aware of how your dog’s body is reacting to certain foods.</p>
+      <h2 id="Pros and cons of grain-free dog food">Pros and cons of grain-free dog food</h2>
+      <p>The debate for and against grain-free dog food is somewhat murky - but which food you give to your dog is down to your dog’s specific needs, your vet’s advice, and your personal choice. To make the decision easier, here are some pros and cons for each type of food:</p>
+      <h3 id="Benefits of grain-free dog food">Benefits of grain-free dog food</h3>
+      <ul>
+        <li>Lots of dog owners report multiple health benefits. Many grain-free fans say their dogs are more energised, have improved digestion, and a healthier skin and coat since going grain-free. This could be due to ‘upping’ the quality of their previous food. Switching to a food that uses nutritious ingredients over cheap ‘filler’ grains is always going to be a healthier choice.</li>
+        <li>It’s closer to a dog’s ancestral diet. Wild dogs and wolves didn’t eat grain - so many believe that dogs thrive on a ‘more natural’ diet of meat, fish, vegetables and fruits.</li>
+        <li>Dogs can get carbohydrates from other grain-free foods such as lentils, sweet potatoes and peas.</li>
+        <li>It’s gentler on digestion and sensitive tummies. Many dog owners report that their pooches with dodgy tums have seen benefits from a grain-free diet, such as less gas and bloatedness, and firmer, more regular poops.</li>
+        <li>Your dog is less likely to suffer an adverse reaction. If your dog has an allergy that is not yet identified, feeding them grain-free is less likely to trigger a reaction.</li>
+        <li>It’s essential for dogs with grain allergies. Needless to say, dogs with grain allergies are required to eat grain-free dog food that focuses on delicious, nutritious produce to make up their diet.</li>
+        <li>Many dogs actually prefer the taste of grain-free food. This has become  apparent in conducted taste tests, which found dogs being more interested in the grain-free option.</li>
+      </ul>
+      <h3 id="Issues with grain-free dog food">Issues with grain-free dog food</h3>
+      <b>Some say dogs are better off with grain. Just as there are dog owners that report the benefits of going grain-free, there are also many that have no issues with grain food. Some experts say that so long as your dog isn’t allergic, good quality grain is fine as part of a well-rounded diet.</b>
+      <b>Ancient grains are seen as healthy. Grains such as oats, wheat and rice rate slightly higher on the health scale - but only when they’re not used as filler (the main ingredient in a dog food).</b>
+      <b>Grain-free food needs to be of high-quality. Any diet that omits a food group should make up for nutrition elsewhere, so choosing a high-quality, grain-free dog food brand is essential (but this also applies to grain food!)</b>
+      <b>It’s more expensive. A recommended grain-free food naturally costs a little more than a commercial food that contains grain. 
+Allergies can be more than just grain specific. Some owners assume that a grain-free diet will cure all their dog’s ailments. However, many dogs have more than one food intolerance (not just grain) and may also suffer from environmental allergies to things like dust mites and pollen - which would need additional attention.</b>
+      <b>Scare-stories lurk on the internet. There’s a certain amount of controversy that chases the grain-free dog food debate. Scare stories exist (read on), which can be upsetting and feel like you’re taking a risk with your dog if you choose grain-free.</b>
+      <h2 id="So is grain-free dog food good for dogs?">So is grain-free dog food good for dogs?</h2>
+      <p>In summary, yes - in a lot of ways. Grain-free advocates argue that it’s less risky to a dog’s health, gentler on digestion and that dogs don’t need grain so long as they eat a well-rounded, balanced diet packed with nutritious proteins, fruit and veg, vitamins and minerals. For this reason, a decent grain-free dog food tends to use mindful recipes that are aimed towards a dog’s overall nutrition - and lots of dog owners report a more sprightly, energetic dog with fewer digestive issues when switching to a grain-free diet.</p>
+      <h3 id="Do vets recommend grain-free dog food?">Do vets recommend grain-free dog food?</h3>
+      <p>Vets can fall on both sides of the spectrum. But all vets would agree that grain-free food is necessary if your dog has a grain allergy, however some say that grain is fine as part of a healthy diet as it contains useful carbohydrates and nutrients. This is why if you choose to go grain-free for your dog, a high-quality grain-free food is so essential - as when grain is mindfully replaced with other healthful foods it can have major benefits. With any dietary change, you should discuss it with your vet first in relation to your dog’s specific needs.</p>
+      <p>Vet Linda, our in-house Pooch & Mutt vet shared:</p>
+      <p>“Vets will tailor their recommendations to the patient. For many patients, a grain-free diet would be recommended. This is particularly true of those with chronic allergies or digestive issues.”</p>
+      <h2 id="I’ve heard about a grain-free dog food warning…">I’ve heard about a grain-free dog food warning…</h2>
+      <p>As with many ‘alternative diets’, it’s common for scare stories to develop. A FDA (US Food and Drug Administration) investigation which started in 2018, is looking at whether there are any links between grain-free dog food and the heart. Let’s unpack this below…</p>
+      <h3 id="Is grain-free dog food linked to heart disease?">Is grain-free dog food linked to heart disease?</h3>
+      <p>The most common ‘warning’ you’ll likely hear is that as grain is linked to heart function, a grain-free diet can be detrimental to a dog’s heart health. This stemmed from a spike in reported cases of dilated cardiomyopathy, or DCM; a heart condition that leads to an enlarged heart and weakening of heart muscle; which led the FDA to investigate.</p>
+      <p>After studying the reports, the FDA found lots of the dogs affected were on a grain-free diet. Understandably, this caused a lot of concern among dog owners and fuelled the persistent myth that grain-free food is a dangerous choice.</p>
+      <h3 id="Grain-free dog food study debunked">Grain-free dog food study debunked</h3>
+      <p>The FDA is continuing its study into the increased cases of dilated cardiomyopathy, but has so far found that there is no firm evidence to suggest that grain-free diets are solely to blame - or that any food should be smeared, recalled, withdrawn from market, or for grain-free diets to stop being fed to dogs - as there are multiple other factors at play that are still being considered.</p>
+      <p>Dr. Steven Solomon, Director of the Center for Veterinary Medicine (CVM) for the FDA said, ‘We have observed a correlation between certain diets and DCM [...] however this issue seems to involve more factors than the food itself.’ He also emphasised that this was not an investigative update and that the study is still in progress.</p>
+      <p>Basically, after years of investigation, there isn’t sufficient evidence to claim a causal relationship between grain-free products and DCM - the issue is multifaceted and the relationship between the two is not currently known.</p>
+      <p>The review states that the link between grain-free diets and DCM could be nothing more than confirmation bias.</p>
+      <p>Pooch & Mutt, along with all other dog food manufacturers, are keeping up to date with all of the newest research, to ensure our diets provide your dogs with the best, and healthiest, nutritional support.</p>
+      <p>If you have any concerns about your dog being on a grain-free diet, it’s important to have a chat with your vet to discuss your particular dog’s health and put your mind at ease.</p>
+      <h2 id="Whats the best grain-free dog food?">Whats the best grain-free dog food?</h2>
+      <p>Many pooch parents feed their dogs delicious, grain-free dog food each day and report nothing but benefits. With any diet, the number one rule is that your dog should be receiving complete and balanced nutrition. If you think grain-free food is the right choice for your pooch, be sure of the following attributes to ensure they’re getting the healthiest, most nutritious option available:</p>
+      <b>Contains whole, natural ingredients - no mention of meatmeal, meat flavourings or artificial junk and additives.</b>
+      <b>Has high levels of lean protein - such as chicken, fish, lamb, turkey, etc. The source of protein should be the main ingredient in the food, not a carbohydrate such as potato or peas.</b>
+      <b>Added vitamins, minerals and supplements. The best quality grain-free food will add health boosters such as glucosamine, fish oil, B vitamins, zinc, prebiotics etc. so that your dog gets the maximum nutritional benefits from what they eat.</b>
+      <p>At Pooch & Mutt we specialise in hypoallergenic, grain-free food that not only adheres to the above criteria but tastes delicious, to boot. Our Joint Care dry food, for example, contains fresh salmon, sweet potato, linseed and glucosamine for strong and supported joints; while our tasty Puppy wet food, with chicken, potato, seaweed and prebiotics is made to boost a pup’s healthy growth and development. Whatever your dog’s specific tastes or needs, there’s loads of exciting Pooch & Mutt recipes to try.</p>
+      <p>If you have questions or concerns about switching your dog to a grain-free diet, feel free to get in touch with us - and remember to consult your vet before any significant dietary change. Ready to take the plunge into grain-free? Check out our lip-smacking grain-free dog food ranges, lovingly formulated to keep your dog well-functioning, happy and healthy.</p>
+      <p>References</p>
+      <ul>
+        <li>‘Opening Remarks Stephen M. Solomon DVM, MPH’, 2020 - ksvdl.org</li>
+        <li>‘FDA Investigation into Potential Link between Certain Diets and Canine Dilated Cardiomyopathy’, updated 2022 - FDA.com</li>
+      </ul>
+`,
+  headings: [
+    { id: 'What is grain-free dog food?', text: 'What is grain-free dog food?', level: 2 },
+    { id: 'Grain-free vs grain dog food', text: 'Grain-free vs grain dog food', level: 2 },
+    { id: 'Is grain-free the same as wheat-free in dog food?', text: 'Is grain-free the same as wheat-free in dog food?', level: 3 },
+    { id: 'Is grain-free the same as gluten-free in dog food?', text: 'Is grain-free the same as gluten-free in dog food?', level: 3 },
+    { id: 'Why choose grain-free dog food?', text: 'Why choose grain-free dog food?', level: 2 },
+    { id: 'Pros and cons of grain-free dog food', text: 'Pros and cons of grain-free dog food', level: 2 },
+    { id: 'Benefits of grain-free dog food', text: 'Benefits of grain-free dog food', level: 3 },
+    { id: 'Issues with grain-free dog food', text: 'Issues with grain-free dog food', level: 3 },
+    { id: 'So is grain-free dog food good for dogs?', text: 'So is grain-free dog food good for dogs?', level: 2 },
+    { id: 'Do vets recommend grain-free dog food?', text: 'Do vets recommend grain-free dog food?', level: 3 },
+    { id: 'I’ve heard about a grain-free dog food warning…', text: 'I’ve heard about a grain-free dog food warning…', level: 2 },
+    { id: 'Is grain-free dog food linked to heart disease?', text: 'Is grain-free dog food linked to heart disease?', level: 3 },
+    { id: 'Grain-free dog food study debunked', text: 'Grain-free dog food study debunked', level: 3 },
+    { id: 'Whats the best grain-free dog food?', text: 'Whats the best grain-free dog food?', level: 2 },
+  ]
+},
+
+
+
+'how-many-treats-per-day-can-dog-have': {
+  title: 'How many treats per day can my dog have?',
+  category: 'Pets',
+  snippet: "Limit treats to no more than 10% of your dog's daily calorie intake. This helps prevent obesity and ensures they maintain a balanced diet.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/treats-in-a-day-blog-1_500x_crop_center.jpg?v=1682598332",
+    alt: "How many treats per day can my dog have?",
+    caption: "How many treats per day can my dog have?"
+  },
+  content: `
+<p>Most dog owners are familiar with the god-like power of carrying a pocket full of treats - when to dispense them, however, is more of a personal choice.</p>
+      <p>Whether you hide treats around the house to keep your dog occupied, use them as positive reinforcement during puppy training, or just can’t help but sneak your dog a treat whenever they’re looking extra cute, those treats can certainly tally up throughout the day if you don’t pay attention.</p>
+      <p>Do you know how many treats you should feed your dog to keep them happy but also lean and healthy? Read on to learn more about the recommended treat allowances for specific ages and sizes of dog.</p>
+      <h2 id="How many treats per day can my dog have?">How many treats per day can my dog have?</h2>
+      <p>The key thing to remember is in the name - ‘treats’ - meaning something that should be offered on occasion and usually in reward for good behaviour. On the whole, most vets recommend 10% of a dog’s daily calorie intake can come from treats.</p>
+      <p>The number of treats depends on the recommended calorie intake of your dog, based on their breed, age and condition. This means it can change if your dog is suffering from illness, is underweight, overweight or particularly inactive, for example - so be sure to calculate based on your dog’s specific needs.</p>
+      <p>This can be tricky to work out in practice, as most dog treat packaging doesn’t specify how many calories per treat - at Pooch & Mutt we make that easier for you by providing a recommended number of daily treats on the side of the pack.</p>
+      <p>See below for how that breaks down by dog size.</p>
+      <h3 id="How many treats per day for a small dog?">How many treats per day for a small dog?</h3>
+      <p>As a general rule, a small dog eats small meals! So it’s important not to overload your pint-sized pooch with too many treats. A small dog weighs up to 10kg on average, and includes breeds such as Yorkshire Terriers, Shih Tzus and Chihuahuas.</p>
+      <p>Small dogs have a recommended calorie intake of around 200-275 calories - so around 20-30 calories can come from treats. Using Pooch & Mutt Calming Probiotic Meaty Treats as an example, that’s up to 10 treats a day.</p>
+      <h3 id="How many treats per day for a medium dog?">How many treats per day for a medium dog?</h3>
+      <p>A medium dog weighs in at around 11-25kg and includes breeds such as Border Collies, British Bulldogs and Basset Hounds. With a recommended calorie intake of around 275-500 calories a day, and using the 90:10 basis for food vs treats, that amounts to about 20 treats per day.</p>
+      <h3 id="How many treats per day for a large dog?">How many treats per day for a large dog?</h3>
+      <p>A pooch is considered a large dog when it weighs anything over 25kg, and includes breeds such as Newfoundlands, Great Danes or Bullmastiffs. Naturally, the big pooches have a larger recommended calorie intake of 700-1000 calories per day (depending on size) which equates to around 20-30 treats per day.</p>
+      <p>If your dog is giant - a particularly large Burmese Mountain Dog, for example, we still recommend not going beyond 30 treats per day.</p>
+      <h3 id="How many treats per day for a puppy?">How many treats per day for a puppy?</h3>
+      <p>You may be using treats to train your adorable new puppy, and when it comes to pups the 10% rule still applies, based on their recommended calorie intake. For example, if your puppy weighs 4kg, you’ll be looking at an intake of around 200 calories a day, 20 of which should come from treats.</p>
+      <p>By feeding a puppy the healthiest treats possible, such as our organic grain-free dog treats, you can be sure they’re getting an added boost of nutrients (as well as tastiness) alongside their normal food.</p>
+      <h2 id="Are too many treats bad for dogs?">Are too many treats bad for dogs?</h2>
+      <p>Again, the word ‘treat’ is a big clue that they’re not something that should be fed as often as normal food, but in moderation. Though the occasional treat is a great way to reward your dog and provide some interest in their diet alongside regular meals, it’s important not to spoil them.</p>
+      <p>Just as a human would suffer, health-wise, if they replaced most of their food with crisps and sweets, a dog won’t get the amount of nutrition they need, and will probably gain weight, if they’re being sneaked a strong stream of treats throughout the day.</p>
+      <h2 id="When to give dogs treats">When to give dogs treats</h2>
+      <p>Give dogs treats in moderation, and usually for positive reinforcement. This means they should be calm and well behaved at the time, as using a treat as a distraction when they’re hyper or misbehaving is a mixed message that will encourage negative behaviour.</p>
+      <p>It’s also advised to never give your pooch a treat during mealtimes - the treat will make normal food seem boring to your dog in comparison, and they’ll come to expect them for every meal!</p>
+      <p>You don’t have to feel guilty for spoiling your dog now and then - they deserve it! However, looking after their health by feeding them well is an even bigger demonstration of love for your perfect pooch.</p>
+      <p>Treats for dogs can be delicious yet still contain high-quality ingredients with added nutritional goodness. Our Pooch & Mutt range of natural dog treats are packed with probiotics and healthy ingredients to encourage calmness, dental health and improved skin and coat condition.</p>
+`,
+  headings: [
+    { id: 'How many treats per day can my dog have?', text: 'How many treats per day can my dog have?', level: 2 },
+    { id: 'How many treats per day for a small dog?', text: 'How many treats per day for a small dog?', level: 3 },
+    { id: 'How many treats per day for a medium dog?', text: 'How many treats per day for a medium dog?', level: 3 },
+    { id: 'How many treats per day for a large dog?', text: 'How many treats per day for a large dog?', level: 3 },
+    { id: 'How many treats per day for a puppy?', text: 'How many treats per day for a puppy?', level: 3 },
+    { id: 'Are too many treats bad for dogs?', text: 'Are too many treats bad for dogs?', level: 2 },
+    { id: 'When to give dogs treats', text: 'When to give dogs treats', level: 2 },
+  ]
+},
+
+
+
+'l-tryptophan-for-dogs': {
+  title: 'L-Tryptophan for dogs',
+  category: 'Pets',
+  snippet: "L-Tryptophan is an amino acid that can help promote relaxation and reduce anxiety in dogs. It’s commonly found in calming supplements for pets.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/BLOG_L-TRYPTOPHAN_IMAGE_5_500x_crop_center.jpg?v=1709817958",
+    alt: "L-Tryptophan for dogs",
+    caption: "What is L-tryptophan?"
+  },
+  content: `
+<p>We pride ourselves on our “Good Mood Food’ and amongst all the goodness and nutritional benefits within our products - L-tryptophan is one of the biggest game-changers.</p>
+      <h2>It’s a nifty amino acid found in some natural foods, and it works wonders in stabilising and calming a dog’s mood. We are <strong>big</strong> L-tryptophan fans!</h2>
+      <p>If it sounds too good to be true, read on as we explain the uses of L-tryptophan for dogs, and how you can get its calming, mood-boosting powers into their diet.</p>
+      <h2 id="What is L-tryptophan?">What is L-tryptophan?</h2>
+      <p>L-tryptophan is a smart amino acid that’s found in some protein-rich foods such as turkey, salmon and eggs; and eating it is linked to the release of serotonin - the ‘happy hormone’.</p>
+      <h3 id="How does L-tryptophan work?">How does L-tryptophan work?</h3>
+      <p>The smart thing about L-tryptophan is it’s a precursor to the release of serotonin, a neurotransmitter in the brain that causes ‘happiness’. Specifically, serotonin has a calming and positive effect on wellbeing, as well as regulating sleep and appetite (major elements of being in a good mood).</p>
+      <p>So when a dog eats foods containing L-tryptophan such as turkey or chicken, it’s converted into serotonin in a dog’s brain, leading them to feel calmer and more relaxed. This brain-friendly amino acid is big proof of the impact of the gut-brain axis, i.e. how important nutrition is to a dog’s wellbeing.</p>
+      <h3 id="How does serotonin affect dogs?">How does serotonin affect dogs?</h3>
+      <p>Serotonin is known as ‘the happy hormone’. Basically it’s a mood stabiliser which regulates a dog’s sense of calmness, wellbeing, and even sleep cycles and appetite.</p>
+      <p>For this reason, foods that activate serotonin are great for dogs who suffer from hyperactivity, aggression or anxiety. It’s also handy for times in which your dog feels considerable stress, or gets ‘triggered’ by what’s around them.</p>
+      <h3 id="Why is L-tryptophan essential?">Why is L-tryptophan essential?</h3>
+      <p>Dogs’ brains have their own natural levels of serotonin, but conversely, L-tryptophan (which enables more serotonin), isn’t produced in a dog’s body. So, for your pooch to get their maximum healthy dose of serotonin, their diet should contain lots of delicious doggo ‘good-mood food’ containing L-tryptophan.</p>
+      <h2>What’s more, L-tryptophan is more than just a means to reduce anxiety in a dog - it has lots of uses for a dog’s nutritional needs. As a building block of protein, it helps to <strong>build and maintain muscle</strong> and connective tissue, it <strong>boosts melatonin</strong> (vital for sleep regulation), it <strong>contributes to a strong immune system</strong>, and it <strong>activates vitamin B12</strong>, important for a dog’s healthy skin and coat.</h2>
+      <h3 id="Tryptophan deficiency in dogs">Tryptophan deficiency in dogs</h3>
+      <p>What if we skip the good-mood foods? Well, a deficiency in L-tryptophan can have all kinds of negative effects on a dog’s body. In general, their immunity will lower, strength in their muscles will weaken, and they could appear anxious, hyperactive, agitated, or develop a generally low mood.</p>
+      <p>Cats as well as dogs need L-tryptophan to stay healthy and regulated - it’s a vital amino acid for a lot of mammals.</p>
+      <h2 id="What are the benefits of L-tryptophan for dogs?">What are the benefits of L-tryptophan for dogs?</h2>
+      <p>We’ve covered how L-tryptophan facilitates the release of serotonin, now here are the beneficial ways this can present in your pooch:</p>
+      <h4>Less anxiety & agitation</h4>
+      <p>The release of serotonin reduces anxiety and hyperactivity. Anxiety in dogs might present as digestive issues, trembling, fear, inability to sleep or settle, or a sensitivity to stimuli. They might ‘play up’ at certain times of day, such as before bed time or when visitors arrive. All of these symptoms could lessen by feeding them a healthy diet, rich in L-tryptophan foods and calming dog treats.</p>
+      <h4>Helps with abnormal behaviours</h4>
+      <p>Some pooches develop abnormal behaviour due to their mood or anxiety - excessive chewing, scratching, crying, or distressed rituals such as hiding or digging. Some pooches simply can’t sleep at regular times. L-tryptophan dense foods can help reduce or eliminate these behaviours, alongside behavioural training.</p>
+      <h4>Regulates the appetite</h4>
+      <p>A pooch who eats too much or doesn’t eat enough can develop a more routine appetite with L-tryptophan, as serotonin helps with hunger regulation.</p>
+      <h4>Better temperature regulation</h4>
+      <p>Your pooch’s body will be better at keeping cool in warm weather, and retaining heat in cold temperatures, with the right amount of L-tryptophan in their diet.</p>
+      <h2><strong>Promotes healthy sleep </strong></h2>
+      <p>Serotonin is a vital hormone for sleep regulation, so your pooch will get sleepier at the same time of day and wake up on time, too. There’s nothing better than a pooch with a regular sleep schedule!</p>
+      <h2><strong>Easier pain management </strong></h2>
+      <p>The release of serotonin in the body goes some way in helping a pooch deal with pain, as it relaxes the mind and promotes a sense of calm and wellbeing. Try it after your dog has had an operation or suffered an injury, for instance, or if they suffer chronic pain.</p>
+      <h2 id="Is L-tryptophan safe for dogs?">Is L-tryptophan safe for dogs?</h2>
+      <p>L-tryptophan is definitely safe for dogs - it’s an essential amino acid that has big benefits on a dog’s body and mind. That said, an excess of any ingredient or supplement isn’t recommended; and it must be fed to your pooch as part of a balanced diet.</p>
+      <h3 id="Tryptophan foods for dogs">Tryptophan foods for dogs</h3>
+      <p>L-tryptophan is found in lots of natural foods that dogs find delicious, so it’s easy to boost your pooch’s intake. Just include foods such as these in their diet:</p>
+      <ul>
+        <li>Turkey</li>
+        <li>Chicken</li>
+        <li>Salmon</li>
+        <li>Beef</li>
+        <li>Cooked eggs</li>
+        <li>Cheddar cheese (as a treat!)</li>
+      </ul>
+      <h3 id="How to safely give L-tryptophan to your dog">How to safely give L-tryptophan to your dog</h3>
+      <p>Your pooch can get the mood-boosting benefits of L-tryptophan from a nutritious, well-balanced diet containing whole foods such as turkey, salmon, eggs (and others listed above).</p>
+      <p>You could try dog food with turkey, and other calming food products for dogs which often contains ingredients rich in L-tryptophan. For the best results, any tryptophan-rich foods will be served to your dog alongside vegetables, fruits and carbohydrates packed with vitamins and minerals.</p>
+      <p>Give these calming foods to your dogs at times you think they’ll benefit from it most, considering when they might be feeling particularly jumpy or anxious. This could be at night time, when visitors are due, or when they’re going to the vet or groomers, for instance.</p>
+      <h3 id="L-tryptophan supplements for dogs">L-tryptophan supplements for dogs</h3>
+      <p>If for some reason it’s not possible to give your pooch whole foods such as turkey or eggs (if they have allergies or tummy issues), you could try L-tryptophan supplements for dogs.</p>
+      <p>Take special care to administer the correct dosage - it should be described on the pack according to your dog’s size and age, but if not, consult with your vet to be sure. L-tryptophan supplements might come as tablets, or as a powder or liquid to serve alongside your dog’s regular food.</p>
+      <h2 id="Precautions and side effects">Precautions and side effects</h2>
+      <p>As with any new food or health supplement, you’ll need to keep an eye on your dog for any side effects of L-tryptophan, and be cautious when giving it to your pooch for the first time.</p>
+      <h3 id="Is my dog allergic to L-tryptophan?">Is my dog allergic to L-tryptophan?</h3>
+      <p>Though it’s unlikely your pooch will have an allergy to the L-tryptophan found in natural foods, they may react to the food itself, or to the quality of the supplements.</p>
+      <p>Discontinue use if you notice your dog showing any of the following allergic reactions after eating food or supplements containing L-tryptophan: Vomiting or diarrhoea Reddening or swelling of the skin Hives Breathing difficulties Lethargy</p>
+      <h3 id="Can dogs overdose on L-Tryptophan?">Can dogs overdose on L-Tryptophan?</h3>
+      <p>It’s rare, but a dog can get too much L-tryptophan, which is why it’s so integral to feed them a well-rounded diet. This should be full of healthy whole foods, providing them with a balance of nutrients, vitamins and minerals. Too much of one food, or mixing supplements with other medications, could cause an overdose of L-tryptophan, leading to dangerous side effects in your pooch.</p>
+      <h3 id="Serotonin syndrome in dogs">Serotonin syndrome in dogs</h3>
+      <p>A potential risk of too much L-tryptophan is ‘serotonin syndrome’, a condition where a pooch gets too much serotonin. This is rare, but could happen if your dog eats too much of one food, overdoses on L-tryptophan supplements, or is taking other medications which could interact and cause unwanted side effects.</p>
+      <p>Signs of serotonin syndrome in dogs to watch out for:</p>
+      <ul>
+        <li>Agitation, restlessness</li>
+        <li>Increased body temperature</li>
+        <li>Fast heart rate</li>
+        <li>Trembling</li>
+        <li>Dilated pupils</li>
+        <li>They’re disorientated, lack of coordination</li>
+        <li>Vomiting and/or diarrhoea</li>
+      </ul>
+      <h3 id="Will L-tryptophan make my dog drowsy?">Will L-tryptophan make my dog drowsy?</h3>
+      <p>No - it shouldn’t do this. L-tryptophan is supposed to have calming effects and may make your dog feel more relaxed.</p>
+      <p>This is different to drowsiness, where a dog seems ‘out of it’ or like they’re too disorientated or tired to carry out their usual routine. If you note drowsiness in your pooch after they’ve eaten foods or supplements with L-tryptophan, it could be worth calling your vet, as they may have eaten too much or be having a bad reaction to it.</p>
+      <h3 id="The ‘Turkey Sleepiness’ myth">The ‘Turkey Sleepiness’ myth</h3>
+      <p>You may have heard a rumour about how turkey - a nutritious, lean protein that has lots of natural L-tryptophan - induces sleepiness in whoever eats it (dogs included). This isn’t true, either.</p>
+      <p>This belief may have come from the notion that turkey is served with all the trimmings at Christmas and Thanksgiving meals, which often induces lethargy and sleepiness after eating! The truth is, turkey doesn’t cause a sense of sleepiness, in humans or dogs, more than any other food.</p>
+      <p>To be clear, at its most effective, L-tryptophan will instil a sense of relaxation and calm in your pooch due to the boost of serotonin - it shouldn’t cause drowsiness or lethargy.</p>
+      <h2 id="How can I get L-tryptophan into my dog’s diet?">How can I get L-tryptophan into my dog’s diet?</h2>
+      <p>If you’re looking for L-tryptophan rich foods that dogs love, or other healthy treats to give your dog a sense of calmness, why not try the following from the Pooch & Mutt range?</p>
+      <ul>
+        <li>Calming Dry Food - a regular dose of turkey and sweet potato</li>
+        <li>Calming Dental Sticks - a longer-lasting chew that helps keep them calm</li>
+        <li>Calming Meaty Treats - made with delicious turkey and hemp</li>
+        <li>Hemp Chewies - these irresistible chews include hemp for a natural relaxant</li>
+      </ul>
+      <h2><strong>Now you’re clued up on the scientific smartness of L-tryptophan, are you ready to add this super mood-booster into your dogs’ meals? Try the irresistible snacks and&nbsp;meals from our <a title="An internal link to our Calming Range" href="https://www.poochandmutt.co.uk/collections/calming-foods" target="_blank">Calming range</a>&nbsp;- packed with natural anti-anxiety ingredients for a satisfied pooch that’s relaxed, healthy and happy.</strong></h2>
+      <h2 id="FAQs">FAQs</h2>
+      <section>Is CBD more effective than L-Tryptophan?
+L-theanine vs L-tryptophan for dogs?</section>
+`,
+  headings: [
+    { id: 'What is L-tryptophan?', text: 'What is L-tryptophan?', level: 2 },
+    { id: 'How does L-tryptophan work?', text: 'How does L-tryptophan work?', level: 3 },
+    { id: 'How does serotonin affect dogs?', text: 'How does serotonin affect dogs?', level: 3 },
+    { id: 'Why is L-tryptophan essential?', text: 'Why is L-tryptophan essential?', level: 3 },
+    { id: 'Tryptophan deficiency in dogs', text: 'Tryptophan deficiency in dogs', level: 3 },
+    { id: 'What are the benefits of L-tryptophan for dogs?', text: 'What are the benefits of L-tryptophan for dogs?', level: 2 },
+    { id: 'Is L-tryptophan safe for dogs?', text: 'Is L-tryptophan safe for dogs?', level: 2 },
+    { id: 'Tryptophan foods for dogs', text: 'Tryptophan foods for dogs', level: 3 },
+    { id: 'How to safely give L-tryptophan to your dog', text: 'How to safely give L-tryptophan to your dog', level: 3 },
+    { id: 'L-tryptophan supplements for dogs', text: 'L-tryptophan supplements for dogs', level: 3 },
+    { id: 'Precautions and side effects', text: 'Precautions and side effects', level: 2 },
+    { id: 'Is my dog allergic to L-tryptophan?', text: 'Is my dog allergic to L-tryptophan?', level: 3 },
+    { id: 'Can dogs overdose on L-Tryptophan?', text: 'Can dogs overdose on L-Tryptophan?', level: 3 },
+    { id: 'Serotonin syndrome in dogs', text: 'Serotonin syndrome in dogs', level: 3 },
+    { id: 'Will L-tryptophan make my dog drowsy?', text: 'Will L-tryptophan make my dog drowsy?', level: 3 },
+    { id: 'The ‘Turkey Sleepiness’ myth', text: 'The ‘Turkey Sleepiness’ myth', level: 3 },
+    { id: 'How can I get L-tryptophan into my dog’s diet?', text: 'How can I get L-tryptophan into my dog’s diet?', level: 2 },
+    { id: 'FAQs', text: 'FAQs', level: 2 },
+  ]
+},
+
+
+
+'pooch-parents-do-you-feed-your-dog-human-food': {
+  title: 'Pooch Parents: Do you feed your dog human food?',
+  category: 'Pets',
+  snippet: "Whilst meat is a very tasty treat you can share with your dog, you should always make sure that any cooked meat you give your dog is boneless and seasonless. Common encroûtements we tend to eat with meat, like onions and garlic, are very toxic to dogs.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/BLOG_PR_CAMPAIGN_HUMAN_FOOD_1_500x_crop_center.jpg?v=1718207309",
+    alt: "Pooch Parents: Do you feed your dog human food?",
+    caption: "What human food do dog pawrents commonly feed their pups?"
+  },
+  content: `
+<p>The fact of the matter is, we love our pups! We’d give them the world without a second thought. And when it comes to food, there’s nothing like a tasty treat to get that tail wagging.</p>
+      <p>But where our food-loving pups would happily wolf down anything we give them, not all the treats we find so yummy sit well in their tummy - especially when the treat in question hasn’t been made with pups in mind. But, a scrap of leftovers here, a little biscuit there - what’s the harm right?</p>
+      <p>Well, there’s been plenty of conversation amongst experts about dog owners’ awareness of the impact certain foods, particularly human treats, have on our dog’s overall health and wellbeing. That said, we wanted to do a little digging of our own.</p>
+      <p>We checked in with 1,500 dog owners across the UK to assess their dogs’ feeding habits including; where they stand with giving dogs human food, exactly how much they know about what’s going into their dog’s bellies and whether it’s doing them more harm than good. Alongside our findings, we’re here as pooch experts to guide you on the best possible diet for a happy and healthy pup.</p>
+      <h2 id="What human food do dog pawrents commonly feed their pups?">What human food do dog pawrents commonly feed their pups?</h2>
+      <h3 id="46% of dog parents admitted to feeding their pooches human junk food.">46% of dog parents admitted to feeding their pooches human junk food.</h3>
+      <p>It’s true to say that not all human food we give to our dogs is bad for them. There are many things we can happily share with our pooch that align with their healthy doggy diet and are often encouraged.</p>
+      <h2>For example, over half <strong>(52%)</strong> of dog pawrents revealed that they feed their pooch meat like chicken, beef and pork. This is one food that we can certainly share with our pups, being a great source of protein and used as some of the main ingredients found in their dog food.</h2>
+      <h2><strong>Boiled, plain chicken for example is a great and recommended alternative</strong> for dogs who are experiencing digestive issues, as it’s easy on the tummy. But be mindful of allergies - chicken is actually the most common allergen in dogs!<br><br></h2>
+      <h2><br>Over two-thirds of dog owners <strong>(57%)</strong> said they also feed their pooch fruits and vegetables. Again, these are a tasty and healthy snack that both you and your pooch can enjoy, and you’ll often see many fruits and veggies crop up as ingredients in their dog food. However, it’s important to be aware of which fruits and vegetables are off limits due to being harmful, like the aforementioned onions and garlic.&nbsp;</h2>
+      <h2>Over a quarter <strong>(27%)</strong> of dog parents said that they also feed their pups dairy products like cheese, yoghurt, milk and ice cream.</h2>
+      <div>Cheese can be a high-reward treat for some pups, however, it’s very high in fat and salt so should be used very sparingly. On the other hand,it’s common for dogs to be lactose intolerant, so too much dairy can cause an upset tummy.</div>
+      <p>Since some human foods are encouraged when it comes to treating your dog, boundaries can often become blurred and it’s easy to forget that you should be on the lookout for potentially harmful ingredients. Especially when sneaking them a cheeky bite of leftovers.</p>
+      <h2>Nearly half of dog parents admitted to feeding their pup human junk food, with <strong>17%</strong> of dog pawrents admitted to feeding them sweet treats like chocolate and biscuits, <strong>15%</strong> feeding their pups savoury treats like crisps and crackers, and <strong>14%</strong> feeding them take away food like pizza, crusts and chips!</h2>
+      <p>As a society, we’re already told that junk food isn’t good for our human bodies, so of course it can’t be doing our dogs any good! Especially with so many unknown ingredients in junk food, including additives and fats - these kinds of human food treats should stay out of your dog’s diet.</p>
+      <h2 id="How often are dog pawrents feeding their pup’s human food?">How often are dog pawrents feeding their pup’s human food?</h2>
+      <h3 id="13 dogs get fed human food and treats up to three times per week with 17 pups getting fed daily">13 dogs get fed human food and treats up to three times per week with 17 pups getting fed daily</h3>
+      <p>We’ve seen that the majority of dog parents have admitted to feeding their pups human food, but how often are they doing so?</p>
+      <h2>One in three dog owners surveyed reported that they feed their pups ‘human food’ up to three times a week <strong>(30%)</strong>, with one in&nbsp;eight&nbsp;<strong>(13%)</strong> saying they do so every day.</h2>
+      <p>The danger of feeding your dog human food daily is that you open up opportunities for them to consume something potentially harmful. Plus, relying on food that hasn’t been specifically formulated with dogs in mind means they miss out on other beneficial ingredients, supplements and probiotics they may need to aid areas like joints and digestion.</p>
+      <p>If you’re looking to treat your dog every day and you’re unsure of what’s safe to give them, you could always opt for our Meaty Treats Taster Pack! Packed full of flavour, they contain 100% doggy-safe ingredients like chicken, turkey, duck and shrimp. With meaty allergies being so common in dogs, our Peanut Butter Probiotic Nutty Treats provide a mouth-watering, vegan alternative and make for a yummy and safe everyday treat.</p>
+      <h2 id="What encourages dog pawrents to feed pups human food?">What encourages dog pawrents to feed pups human food?</h2>
+      <h3 id="Almost half of dog pawrents admit to feeding their pups human food because they believe they enjoy it and makes them happy">Almost half of dog pawrents admit to feeding their pups human food because they believe they enjoy it and makes them happy</h3>
+      <p>With our results showing that dogs are regularly fed human food whilst there are so many specially formulated dog treats out there, what is driving dog pawrents to share their food?</p>
+      <h2>With <strong>46%</strong> of dog pawrents revealing to sneak their pet a human food snack because they think it makes them happy, nearly a quarter <strong>(24%)</strong> admitted to giving into those puppy dog eyes and feeling sorry for them when they beg for food. <strong>12%</strong> said they don’t like seeing or hearing them beg so give in to their pleas.</h2>
+      <p>It may feel like you’re showing your pup some love by sharing your treats, or quickly settling their whines, but by making certain human foods a part of their diet, you’re potentially causing your pup harm. Especially if they have pre-existing conditions.</p>
+      <p>We want our dogs to be around for as long as possible, and the first step is a diet that does nothing but fill them up with tasty, safe and nutritious ingredients.</p>
+      <p>Here at Pooch & Mutt, we are dedicated to creating food that not only tastes great but does great things too! With our functional range, you can find a wide range of wet and dry food that can help tackle issues surrounding anxiety, digestion, skin and coat, weight loss, dental care and joints. Using completely safe and healthy ingredients, you can sit back and relax knowing that your pup’s diet is sorted.</p>
+      <p>Trust us, they’ll be just as happy with a dental chew or a meaty treat as they would with pizza and chips! And their tummies will thank you for it too.</p>
+      <p>As we’ve discussed, not all human snack food will cause your dog upset, but some do. Even to the point where you may have to seek medical attention.</p>
+      <h2 id="How can human food impact your pooch?">How can human food impact your pooch?</h2>
+      <h3 id="17 dog owners have had to take their dogs to the vet after getting ill after eating human food.">17 dog owners have had to take their dogs to the vet after getting ill after eating human food.</h3>
+      <p>Human food like cheese and plain yoghurt can be enjoyed by your pup now and again without too much impact, however, there are some ingredients and foods that humans can eat just fine, but are toxic and poisonous to our pups.</p>
+      <h2>As well as finding that one in seven dog owners have had to take their pups to the very after feeding them human food <strong>(13%)</strong>, our result showed that over one in five noticed symptoms like an upset stomach causing loose stools, whimpering and vomiting <strong>(11%)</strong> as well as a decrease in their mood, becoming lethargic and sleeping more than normal <strong>(11%)</strong>.</h2>
+      <p>Human food that is the most toxic to dogs include:</p>
+      <ul>
+        <li>Chocolate</li>
+        <li>Grapes</li>
+        <li>Onion and garlic</li>
+        <li>Macadamia nuts</li>
+        <li>Artificial sweeteners like Xylitol (can be found in peanut butter)</li>
+        <li>Avocados</li>
+        <li>Alcohol</li>
+      </ul>
+      <p>When consumed, these foods can cause complications like those our dog owners reported, as well as:</p>
+      <ul>
+        <li>Constipation</li>
+        <li>Lack of appetite</li>
+        <li>Itching and scratching</li>
+        <li>Twitching</li>
+        <li>Gut blockages, in severe cases</li>
+        <li>Seizures</li>
+        <li>Hunched back from stomach pain</li>
+        <li>Organ failure, in severe cases</li>
+      </ul>
+      <p>With so many potential complications that could lead to expensive medication, serious surgeries or even death, it begs the question - why are we still feeding our dog’s human food?</p>
+      <h2 id="What don’t dog pawrents know about feeding their pups?">What don’t dog pawrents know about feeding their pups?</h2>
+      <h3 id="13 of dog parents feel they could do with further insight into what they should be feeding their dog and when.">13 of dog parents feel they could do with further insight into what they should be feeding their dog and when.</h3>
+      <p>Now we know that loving dog parents aren’t intentionally hurting their pups, and that feeding them a sneaky human food treat comes from a place of love. So what exactly is pushing dog owners to take the risk?</p>
+      <p>When exploring what drives dog lovers to stray away from a strictly doggo diet, our results showed that there does seem to be a knowledge gap amongst dog pawrents surrounding what ingredients are completely safe, and what exactly is the best of the best to feed our pups.</p>
+      <h2>Regarding understanding the impact of feeding their dog human food, over one in six <strong>(16%)</strong> of owners said they could benefit from further knowledge on what to feed their dog to help them make more sensible decisions,&nbsp;while one in three <strong>(32%)</strong> of dog parents feel they could do with further insight/help into what they should be feeding their dog and when in general.</h2>
+      <h2>With so much dog-centric food and treats on the market, there are plenty of options out there that could help dog owners stray away from choosing risky human food. However, our survey showed that over a third of dog owners <strong>(37%)</strong> said that although they’re knowledgeable about which brands provide the best food, they’re not overly knowledgeable when it comes to understanding the ingredients and what may be harmful.</h2>
+      <h2>In particular, our results showed that younger dog owners are keen to learn more, with almost one in four 18-24-year-old dog owners <strong>(23%)</strong> saying they could benefit from further knowledge on doggo-safe ingredients - more than any other age group that we surveyed.</h2>
+      <h2>Additionally, results surrounding the admittance to wanting to learn more about ideal dog-safe ingredients grew in correlation with the dog’s age; with owners of dogs aged 8 stating they could benefit from further knowledge on this, to help them make more sensible decisions when it comes to feeding their dog (more than any other participant at <strong>26%</strong>).</h2>
+      <p>For senior dogs, it’s even more important to focus on feeding them up with everything they need to stay comfortable and healthy. It's common to feel lost when it comes to trying to help them in any way you can - but there are many natural ingredients out there, as well as added nutrients, probiotics and supplements you can add to their diet to make sure their joints, digestion, skin and coat are in tip-top shape.</p>
+      <p>Looking to learn more about how you can help out your elderly pooch? Check out our article about senior pups on The Dog Blog to learn everything you can do to help out your senior dog’s joint and mobility issues.</p>
+      <h2 id="Summary">Summary</h2>
+      <p>Not all human food is toxic to dogs, but a lot of foods and common ingredients are, and can lead to many serious health conditions and issues. That said, our survey results show that whilst the majority of dog pawrents do indulge their pups with a safe human food treat once in a while, many do so without confident knowledge of what ingredients are safe, and which are harmful.</p>
+      <p>However, what our survey did uncover is the willingness of loving and attentive dog parents to want to learn more about feeding their pups a nutritious diet. One that does nothing but give them the energy, joints, gut, coat and teeth they need to live a fun, happy, healthy and energetic life!</p>
+      <h2><strong><br>Here at Pooch &amp; Mutt, we’re dedicated to giving you that know-how, and making it as easy as possible to safely treat your pup. We want to give them a great diet and arm you with all the support and advice you need for a healthy dog - whatever their age! </strong></h2>
+      <h2><strong>To have peace of mind about your dog’s diet, you can find the perfect food for your pooch across our wide range of <a href="https://www.poochandmutt.co.uk/collections/wet-food" target="_blank">wet food</a>, <a href="https://www.poochandmutt.co.uk/collections/dry-food" target="_blank">dry food</a>, <a href="https://www.poochandmutt.co.uk/collections/healthy-dental-sticks" target="_blank">dental sticks</a> and <a href="https://www.poochandmutt.co.uk/collections/treats-for-dogs" target="_blank">treats</a>. For expert advice, peruse <a href="https://www.poochandmutt.co.uk/blogs/all" target="_blank">The Dog Blog</a> where you can find all the answers to your questions, as well as expert advice from our amazing group of vets and experts.</strong></h2>
+      <section>Methodology</section>
+`,
+  headings: [
+    { id: 'What human food do dog pawrents commonly feed their pups?', text: 'What human food do dog pawrents commonly feed their pups?', level: 2 },
+    { id: '46% of dog parents admitted to feeding their pooches human junk food.', text: '46% of dog parents admitted to feeding their pooches human junk food.', level: 3 },
+    { id: 'How often are dog pawrents feeding their pup’s human food?', text: 'How often are dog pawrents feeding their pup’s human food?', level: 2 },
+    { id: '13 dogs get fed human food and treats up to three times per week with 17 pups getting fed daily', text: '13 dogs get fed human food and treats up to three times per week with 17 pups getting fed daily', level: 3 },
+    { id: 'What encourages dog pawrents to feed pups human food?', text: 'What encourages dog pawrents to feed pups human food?', level: 2 },
+    { id: 'Almost half of dog pawrents admit to feeding their pups human food because they believe they enjoy it and makes them happy', text: 'Almost half of dog pawrents admit to feeding their pups human food because they believe they enjoy it and makes them happy', level: 3 },
+    { id: 'How can human food impact your pooch?', text: 'How can human food impact your pooch?', level: 2 },
+    { id: '17 dog owners have had to take their dogs to the vet after getting ill after eating human food.', text: '17 dog owners have had to take their dogs to the vet after getting ill after eating human food.', level: 3 },
+    { id: 'What don’t dog pawrents know about feeding their pups?', text: 'What don’t dog pawrents know about feeding their pups?', level: 2 },
+    { id: '13 of dog parents feel they could do with further insight into what they should be feeding their dog and when.', text: '13 of dog parents feel they could do with further insight into what they should be feeding their dog and when.', level: 3 },
+    { id: 'Summary', text: 'Summary', level: 2 },
+  ]
+},
+
+
+
+'pumpkin-for-dogs-health-benefits-and-suspiciously-good-snacks': {
+  title: 'Can Dogs eat Pumpkin, and what are the Benefits?',
+  category: 'Pets',
+  snippet: "Yes, dogs can eat pumpkin. It’s rich in fiber and can help with digestive issues like constipation or diarrhea. It also supports overall gastrointestinal health.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/05-10-23_BLOG_SEO_BLOG_CAN_DOGS_EAT_PUMPKIN_1_500x_crop_center.jpg?v=1697192732",
+    alt: "Can Dogs eat Pumpkin, and what are the Benefits?",
+    caption: "Health Benefits of Pumpkin for dogs"
+  },
+  content: `
+<h2><strong>Can dogs eat Pumpkin? Of course they can!</strong>&nbsp;</h2>
+      <p>Pumpkin is packed with nutrients and has many health benefits for dogs. You can feed cooked or raw pumpkin and seeds to your dog (as part of a balanced diet) but check with your vet for specific feeding amounts.</p>
+      <h2 id="Health Benefits of Pumpkin for dogs">Health Benefits of Pumpkin for dogs</h2>
+      <h3 id="1. Packed with essential vitamins and minerals for dogs">1. Packed with essential vitamins and minerals for dogs</h3>
+      <p>Pumpkin is nutrient rich containing a high concentration of Vitamin A (beta-carotene) which plays an important role in eye health. It is also rich in Potassium which supports the metabolism, and helps to regulate blood pressure.</p>
+      <p>The orange colour of pumpkins comes from carotenoids which are powerful antioxidants that act as an anti-inflammatory and help to slow the ageing process, antioxidants are also found in pumpkin seeds.</p>
+      <h3 id="2. Pumpkin is a natural de-wormer for your dog">2. Pumpkin is a natural de-wormer for your dog</h3>
+      <p>Pumpkin seeds are a safe dewormer and contain the amino acid cucurbitin which helps to eliminate parasites from dog’s digestive tract. You can feed the seeds whole or crush into your dog’s food, check with your vet for effective dosage amounts based on breed and size. Ensure the seeds are natural, and don’t contain added salt or coatings.</p>
+      <h3 id="3. Pumpkin is packed with fibre">3. Pumpkin is packed with fibre</h3>
+      <p>Pumpkin is low in calories and packed with soluble fibre, it is a great addition to your dog’s diet to help them feel fuller for longer. If you have an overweight dog, you could add a tablespoon of pumpkin to their food to help them fill up, lose weight and add variety, and additional vitamins and minerals.  It is also great to aid digestive issues and keep your dog regular, the fiber also helps to maintain a healthy gut flora by feeding the good bacteria to improve digestive health.</p>
+      <h3 id="4. Pumpkin helps settle upset stomachs">4. Pumpkin helps settle upset stomachs</h3>
+      <p>If you find their tummy’s a little off, pumpkin could be the perfect solution to get them back on track. The soluble fibre content in pumpkin keeps intestines working soundly, meaning both diarrhea and constipation can be kept at bay. Just one tablespoon of pumpkin mixed with their regular food can make those poops manageable and stools firmer.</p>
+      <h3 id="5. Pumpkin and skin and coat health">5. Pumpkin and skin and coat health</h3>
+      <p>Pumpkin is packed with vitamins and minerals to boost your dog’s skin & coat, but the main contributors to healthy skin and a glossy coat are the omega 3 and omega 6.  The moisturising properties promote a healthy skin barrier - as well as preventing dandruff and flaky skin.  It’s a great choice for pooches who suffer with their skin, or have irritating allergies.</p>
+      <h3 id="6. Pumpkin is hydrating">6. Pumpkin is hydrating</h3>
+      <p>Being 94% water, you can see why pumpkin is a refreshing, hydrating treat! It’s a great food to enjoy during warmer days to keep your pooch cool, but keeping hydrated in general is super important for overall health - supporting mood, sleep and cognitive function.</p>
+      <h3 id="7. Pumpkin can help with urinary incontinence">7. Pumpkin can help with urinary incontinence</h3>
+      <p>Pumpkin flesh clearly has a multitude of amazing benefits, but what about pumpkin seeds? Yes, they too can have a healthy impact on our dogs. Just like the flesh, pumpkin seeds contain antioxidants and omega 3 fatty acids. Said fatty acids have anti-inflammatory properties, which can actually help dislodge kidney stones! Pumpkin seeds have also been known to help with incontinence - something which can be especially helpful in senior dogs. However, the seeds can be dangerous in their usual entity - so make sure they’re blended into a powder before serving.</p>
+      <h2 id="Different forms of Pumpkin and whether can dogs eat it">Different forms of Pumpkin and whether can dogs eat it</h2>
+      <h3 id="Can dogs eat Pumpkin Seeds">Can dogs eat Pumpkin Seeds</h3>
+      <p>As mentioned above, it’s not just pumpkin flesh that contains all the goodness. Pumpkin seeds are extremely beneficial too, with their high levels of omega 3 fatty acids that can help with urinary incontinence. As whole pumpkin seeds, they could be a choking hazard which makes them dangerous. So instead,  give them a whizz  in the blender to turn into a powder, making it much safer and practical.</p>
+      <h3 id="Can dogs eat Canned Pumpkin">Can dogs eat Canned Pumpkin</h3>
+      <p>Pumpkin is super healthy, but can be difficult to find at certain times of the year.  It also requires a little more effort to chop and prepare than other healthy snacks, so can put people off serving up. Fear not, canned pumpkin is available all year round and doesn’t compromise on taste or benefits. Just like fresh pumpkin flesh, canned pumpkin is high in fibre - making it good for the gut and eliminating upset stomachs.</p>
+      <h3 id="Can dogs eat Raw and Cooked Pumpkin">Can dogs eat Raw and Cooked Pumpkin</h3>
+      <p>Some sources suggest that cooking pumpkin removes some of the goodness - however it’s always a safer option to cook to avoid food poisoning or stomach upset. Raw pumpkin and its seeds may contain harmful bacteria, so roasting before feeding is highly recommended.</p>
+      <h3 id="Can dogs eat Pureed Pumpkin">Can dogs eat Pureed Pumpkin</h3>
+      <p>Pureed pumpkin can come in a can, or by cooking and blending fresh pumpkin yourself. The canned pumpkin is quite simply regular pumpkin, with no added ingredients or flavours - meaning it still contains all those essential vitamins and minerals that make it a delicious, healthy treat for your pooch.</p>
+      <h3 id="Can dogs eat Pumpkin Pie">Can dogs eat Pumpkin Pie</h3>
+      <p>While it’s a tasty autumnal treat for us mere mortals, pumpkin pie isn’t one to be fed to the canines of the world. First and foremost it contains nutmeg - which is toxic to our pooches. Nutmeg contains a compound called myristicin, which in high doses can cause hallucinations, disorientation, high blood pressure and seizures, amongst other dangerous issues. There’s also a lot of added sugar, high fat content from the cream, and the pastry makes it extremely calorific.</p>
+      <h2 id="How to cook or prepare pumpkin for dogs">How to cook or prepare pumpkin for dogs</h2>
+      <p>The good news is, there’s no secret cooking method to make pumpkin edible for pooches. It should be prepared and cooked the same way as any other vegetable humans enjoy! Simply cut out the flesh, chop into chunks, then bake, steam, boil or grill the pumpkin. Don’t use any oils, herbs or seasonings - it needs to be just plain for your dog. Then you can either feed in chunks, or puree and mix into their regular food.</p>
+      <h2 id="Suspiciously good pumpkin snack ideas for dogs">Suspiciously good pumpkin snack ideas for dogs</h2>
+      <ol>
+        <li>Try spreading pumpkin on a licki mat for your dog. It will not only keep them good, but also add variety to their diet and offer an alternative source of vitamins and minerals.</li>
+        <li>Grind the pumpkin seeds and spread them over your dog’s food for an extra boost of antioxidants.</li>
+        <li>Not planning on creating a creepy pumpkin this Halloween? Don’t worry we’ve taken the hard work out of pumpkin carving with our Chicken, Pumpkin & Pea complete grain-free wet food! It contains all the fresh nutrients without any of the extra mess.</li>
+        <li>We also have our limited edition Pumpkin Spice Meaty Treats available, so they can embrace the flavour of the season</li>
+      </ol>
+      <h3 id="Frequently Asked Questions">Frequently Asked Questions</h3>
+      <ul>
+        <li>How much pumpkin can you give your dog?</li>
+      </ul>
+      <p>It’s recommended that you give your dog between 4 and 6 tablespoons of pumpkin per day. This depends on the size of your dog, so it’s worth chatting to your vet and making an informed decision based on their weight. Although it has a multitude of health benefits, it still contains calories.</p>
+      <ul>
+        <li>Is it ok to give dogs Pumpkin every day?</li>
+      </ul>
+      <p>Dogs can have pumpkin every day. Just make sure you include it as part of their daily calorie intake, and that fresh drinking water is always available.</p>
+      <ul>
+        <li>Is pumpkin a laxative for dogs?</li>
+      </ul>
+      <p>Yes, pumpkin is packed with fibre, meaning it helps with digestive issues and makes it easier for your dog to do its business - usually with a firmer, healthier consistency.</p>
+      <ul>
+        <li>How long does it take for dogs to digest Pumpkin?</li>
+      </ul>
+      <p>Dogs tend to digest their food within around 8 hours, so if you’re feeding your dog pumpkin to help with constipation - you should hopefully start seeing the effects after around 10 hours.</p>
+`,
+  headings: [
+    { id: 'Health Benefits of Pumpkin for dogs', text: 'Health Benefits of Pumpkin for dogs', level: 2 },
+    { id: '1. Packed with essential vitamins and minerals for dogs', text: '1. Packed with essential vitamins and minerals for dogs', level: 3 },
+    { id: '2. Pumpkin is a natural de-wormer for your dog', text: '2. Pumpkin is a natural de-wormer for your dog', level: 3 },
+    { id: '3. Pumpkin is packed with fibre', text: '3. Pumpkin is packed with fibre', level: 3 },
+    { id: '4. Pumpkin helps settle upset stomachs', text: '4. Pumpkin helps settle upset stomachs', level: 3 },
+    { id: '5. Pumpkin and skin and coat health', text: '5. Pumpkin and skin and coat health', level: 3 },
+    { id: '6. Pumpkin is hydrating', text: '6. Pumpkin is hydrating', level: 3 },
+    { id: '7. Pumpkin can help with urinary incontinence', text: '7. Pumpkin can help with urinary incontinence', level: 3 },
+    { id: 'Different forms of Pumpkin and whether can dogs eat it', text: 'Different forms of Pumpkin and whether can dogs eat it', level: 2 },
+    { id: 'Can dogs eat Pumpkin Seeds', text: 'Can dogs eat Pumpkin Seeds', level: 3 },
+    { id: 'Can dogs eat Canned Pumpkin', text: 'Can dogs eat Canned Pumpkin', level: 3 },
+    { id: 'Can dogs eat Raw and Cooked Pumpkin', text: 'Can dogs eat Raw and Cooked Pumpkin', level: 3 },
+    { id: 'Can dogs eat Pureed Pumpkin', text: 'Can dogs eat Pureed Pumpkin', level: 3 },
+    { id: 'Can dogs eat Pumpkin Pie', text: 'Can dogs eat Pumpkin Pie', level: 3 },
+    { id: 'How to cook or prepare pumpkin for dogs', text: 'How to cook or prepare pumpkin for dogs', level: 2 },
+    { id: 'Suspiciously good pumpkin snack ideas for dogs', text: 'Suspiciously good pumpkin snack ideas for dogs', level: 2 },
+    { id: 'Frequently Asked Questions', text: 'Frequently Asked Questions', level: 3 },
+  ]
+},
+
+
+
+'what-to-feed-dogs-in-hot-weather': {
+  title: 'What to feed dogs in hot weather?',
+  category: 'Pets',
+  snippet: "Feed dogs in hot weather easily digestible foods like wet food to keep them hydrated. Avoid heavy meals, and ensure fresh water is always available to prevent dehydration.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/02-08-23_BLOG_WHAT_TO_FEED_DOGS_IN_HOT_WEATHER_1_500x_crop_center.jpg?v=1691498265",
+    alt: "What to feed dogs in hot weather?",
+    caption: "What foods keep dogs cool?"
+  },
+  content: `
+<p>Summertime in the UK can be somewhat crazy - rainy one week, then the next, temperatures are soaring. When heatwaves are an ever more regular occurrence, our dogs can find it hard to relax, feel thirsty more often and may even go off their food.</p>
+      <p>So if your dog isn’t eating in hot weather, what can you feed them to keep them satisfied and cool? As dogs’ digestive systems are different to ours, you won’t want to cause havoc with their usual gut-based activity; so we’ve looked into potential summer foods you might consider feeding your dog and whether their canine tummies can handle it.</p>
+      <p>Read on to understand what to feed, and not feed your dog in the summer.</p>
+      <h2 id="What foods keep dogs cool?">What foods keep dogs cool?</h2>
+      <p>When you’re thinking of foods to feed dogs in the summer, you’ll probably envision treats with seasonal flavours, or pleasantly cold food to keep your pooch cool. This could range from fruit and veg kept in the fridge or even ice lollies. We all know how great it is to crack open an ice cold freeze pop when the sun is beating down on us, and dogs can get the same cooling effect when eating certain foods.</p>
+      <p>So let’s delve into which foods can be dished out without worry, and which should be avoided…</p>
+      <h3 id="Can dogs eat watermelon?">Can dogs eat watermelon?</h3>
+      <p>✓ Watermelon is a summer favourite for humans, and it can be a tasty, refreshing treat for dogs, too. Just be sure to remove skin and seeds, only serve the fruit flesh, and don’t feed too much watermelon in one portion or replace any meals with it.</p>
+      <p>Keep watermelon as an occasional treat - though it’s healthy, it contains natural sugar that can cause an upset stomach if gorged on.</p>
+      <h3 id="Can dogs eat cherries?">Can dogs eat cherries?</h3>
+      <p>X A punnet of cherries is a picnic staple for us, but there are a few reasons why you should not feed your dog cherries. The most obvious reason is the choking hazard of cherry stones - but just as importantly, the stones also carry the risk of cyanide poisoning. Even if you remove the cherry flesh from the stone and stalk, it isn’t too friendly for doggo digestion, so it’s a better idea to choose a safer fruit or treat.</p>
+      <h3 id="Can dogs eat ice cream?">Can dogs eat ice cream?</h3>
+      <p>X Though one of your first thoughts on a hot summer day might be to give your dog a bowl of creamy, vanilla-flavoured delight, it’s sadly off limits for dogs! There are too many elements of ice cream that lead to pain and discomfort for a canine’s digestive system.</p>
+      <p>Most importantly, ice cream may contain Xylitol - an artificial sweetener that appears in human foods but is toxic to dogs and should be avoided at all costs. Alongside this, many dogs are allergic to dairy or suffer from lactose intolerance; and ice cream is high in sugar and fat, which is hard on digestion and could lead to stomach upset. Sorry, pooches - but it’s best to avoid ice cream altogether, unless it’s a pooch-friendly version from your local pet store.</p>
+      <h3 id="Can dogs eat cucumbers?">Can dogs eat cucumbers?</h3>
+      <p>✓ Cucumbers are a cooling, hydrating treat for dogs which contain a good amount of antioxidants and nutrients. It’s advisable to remove the skin first, which can be tough and not as tasty for your pooch, and serve in moderation. At first, feed a small amount to your dog and keep an eye on them to check they don’t have any untoward side effects, such as diarrhoea. If they digest it just fine, it can be a regular and refreshing treat for them.</p>
+      <h3 id="Can dogs have pineapple?">Can dogs have pineapple?</h3>
+      <p>✓ Pineapples make for an exciting treat for dogs in the summer, as a tropical fruit they contain lots of vitamins, such as vitamin C and vitamin B6, that can make up part of a healthy diet.</p>
+      <p>As you’d expect, remove the prickly outer skin and carve out the softest, most supple part of the pineapple flesh. Give your dog a small piece to see if they like it, then feed a portion in moderation, chopped into bite-sized pieces.</p>
+      <p>Beware that too much pineapple contains a lot of natural sugar which could cause a dodgy stomach later. It’s a good idea to stick to fresh pineapple, too - as tinned fruit can contain overly sweet syrups or artificial sweetener.</p>
+      <h3 id="Can dogs have strawberries?">Can dogs have strawberries?</h3>
+      <p>✓ Nothing beats the fragrant flavour of summer strawberries - and luckily for dogs, they can eat them with you. As always, offer strawberries to your pooch in a small portion as an occasional treat, as too many can cause diarrhoea and a sore stomach. Be sure to wash the strawberries, remove all the stalks and chop them into small, munchable pieces. Yum!</p>
+      <h3 id="Do dogs eat less in summer?">Do dogs eat less in summer?</h3>
+      <p>It’s very normal for a dog to eat less in the summer. Dogs can feel too hot to keep up their usual amount of exercise, and this reduced activity level can sometimes affect their appetite. There are also other factors, such as the rising temperatures overwhelming your pooch’s senses, and so strong-flavoured dog food comes off  less appetising.</p>
+      <h3 id="My dog isn’t eating in hot weather">My dog isn’t eating in hot weather</h3>
+      <p>If your pooch isn’t eating as much due to the hot weather, it’s completely normal - but there are some steps you can take to make sure they’re nourished and happy each day.</p>
+      <ul>
+        <li>Try some of the recommended foods above to stoke their appetite - treats such as watermelon, cucumber, pineapple or strawberries can boost a dog’s nutrition while keeping them engaged and cool.</li>
+        <li>Make sure they have access to cold, fresh water - put out bowls in numerous places so they can hydrate regularly.</li>
+        <li>Their regular food should also be fresh, and served at a cool temperature (not warmed or too cold).</li>
+        <li>Serve their food to them in a cool and comfortable, shaded area.</li>
+        <li>Lure them to eat with other kinds of healthy, summer-themed treats, like our Smokin’ BBQ Burgers Beef Jerky.</li>
+        <li>Feed them as they’re hungry - as even if they miss breakfast for a few days, it’s no big deal.</li>
+        <li>If your pooch doesn’t want to eat any food for more than a full day, take them to the vet to check they’re okay.</li>
+      </ul>
+      <p>If you want to chat about how your dog’s eating patterns change with the seasons, get in touch with us - or try our healthy grain-free dog treats to help whet your dog’s appetite in the summer.</p>
+      <p>References</p>
+      <p>‘Xylitol toxicity in dogs’, 2010 - National Library of Medicine.</p>
+`,
+  headings: [
+    { id: 'What foods keep dogs cool?', text: 'What foods keep dogs cool?', level: 2 },
+    { id: 'Can dogs eat watermelon?', text: 'Can dogs eat watermelon?', level: 3 },
+    { id: 'Can dogs eat cherries?', text: 'Can dogs eat cherries?', level: 3 },
+    { id: 'Can dogs eat ice cream?', text: 'Can dogs eat ice cream?', level: 3 },
+    { id: 'Can dogs eat cucumbers?', text: 'Can dogs eat cucumbers?', level: 3 },
+    { id: 'Can dogs have pineapple?', text: 'Can dogs have pineapple?', level: 3 },
+    { id: 'Can dogs have strawberries?', text: 'Can dogs have strawberries?', level: 3 },
+    { id: 'Do dogs eat less in summer?', text: 'Do dogs eat less in summer?', level: 3 },
+    { id: 'My dog isn’t eating in hot weather', text: 'My dog isn’t eating in hot weather', level: 3 },
+  ]
+},
+
+
+
+'homemade-summer-treats-your-dog-will-love': {
+  title: 'Homemade summer dog treat recipes your Pooch will love',
+  category: 'Pets',
+  snippet: "Homemade summer dog treats include frozen treats like blended fruit, peanut butter, and yogurt in ice cube trays, or frozen chicken broth popsicles.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/Summer_recipes_-_HEADER_500x_crop_center.jpg?v=1686307668",
+    alt: "Homemade summer dog treat recipes your Pooch will love",
+    caption: "1. Pooch-friendly peanut butter and banana ice cream (with secret hidden treats)"
+  },
+  content: `
+<p>It’s not just hoomans who can enjoy frozen snacks in the summer. Help your dog cool down with some tasty homemade treats.</p>
+      <p>Quick, healthy and easy – we’ve got some recipes below. Have fun trying them out!</p>
+      <h2 id="1. Pooch-friendly peanut butter and banana ice cream (with secret hidden treats)">1. Pooch-friendly peanut butter and banana ice cream (with secret hidden treats)</h2>
+      <p>All you need are the following ingredients and an ice cube tray (although you might want to use an ice lolly mould for bigger dogs!).</p>
+      <p>For Instagrammable treats, invest in doggo-inspired shaped ice-cube trays. Cute pics incoming...</p>
+      <p>Ingredients:</p>
+      <ul>
+        <li>500g plain yoghurt (Greek yoghurt for dogs is great, provided it is xylitol free)</li>
+        <li>60g smooth peanut butter (xylitol free)</li>
+        <li>2 tablespoons honey</li>
+        <li>1 ripe banana</li>
+      </ul>
+      <p>(Makes 30-40 cubes.)</p>
+      <p>How to:</p>
+      <ul>
+        <li>Use a microwave to melt the peanut butter for around 30 seconds</li>
+        <li>Mash the banana into a paste</li>
+        <li>Place all of the ingredients into a food processor and mix until smooth</li>
+        <li>Pour the mixture into ice cube trays. (You can also tuck one of your dog’s favourite Pooch & Mutt treats inside, they’re the perfect size)</li>
+        <li>Once frozen, pop the frozen treats out and let your pooch enjoy!</li>
+      </ul>
+      <h2>This recipe is super flexible. You can use the same method with <strong>fresh strawberries </strong>or any other<strong> dog-friendly fruit </strong>of your choice.</h2>
+      <h2>For a dairy-free option, the treats freeze well without yoghurt. You can substitute with a dairy-free alternative, such as&nbsp;<strong>coconut milk,</strong><span>&nbsp;</span>which is rich in nutrients. If you skip the dog-treats, these&nbsp;frozen goodies are human-friendly too!</h2>
+      <h3 id="Healthy doggo ice cream toppings">Healthy doggo ice cream toppings</h3>
+      <ul>
+        <li>A sprinkle of Rice Krispies</li>
+        <li>A dash of chia seeds (rich in Omega 3, antioxidants and dietary fibre)</li>
+      </ul>
+      <h2 id="2. Pooch-friendly meaty-flavoured ice lollies">2. Pooch-friendly meaty-flavoured ice lollies</h2>
+      <p>Meaty ice lollies might not sound too appealing to us, but wait until your pooch gets a whiff of them…</p>
+      <p>Ingredients:</p>
+      <ul>
+        <li>1 low salt stock cube, in your pooch’s favourite flavour</li>
+        <li>A chew treat or healthy dental stick to use as the ‘stick’ for each ice lolly</li>
+      </ul>
+      <p>How to:</p>
+      <ul>
+        <li>Boil 500ml water and mix with the stock cube, leave to cool</li>
+        <li>Pour liquid into ice lolly tray</li>
+        <li>Add your pooch’s favourite chew, in place of the usual wooden lolly stick</li>
+        <li>Leave to freeze</li>
+        <li>Enjoy!</li>
+      </ul>
+      <h2 id="3. Easy-peasy frozen veg">3. Easy-peasy frozen veg</h2>
+      <p>If you need an even quicker frozen treat to keep them feeling cool - you can simply stick their favourite veg in the freezer to munch on. It requires practically zero effort, but has big results! And they're healthy too...</p>
+      <p>Here's some ideas on what to use:</p>
+      <ul>
+        <li>Carrots (whole so it's an exciting chunky treat)</li>
+        <li>Parsnips (whole so it's an exciting chunky treat)</li>
+        <li>Broccoli (floret and stem)</li>
+        <li>Sprouts, green beans and celery (chopped into chunks)</li>
+      </ul>
+      <h2><strong>Always supervise your pooch when they're&nbsp;enjoying any treats, to avoid choking.</strong></h2>
+      <p>And check out our blog piece on toxic summer food to make sure they're not eating anything poisonous.</p>
+`,
+  headings: [
+    { id: '1. Pooch-friendly peanut butter and banana ice cream (with secret hidden treats)', text: '1. Pooch-friendly peanut butter and banana ice cream (with secret hidden treats)', level: 2 },
+    { id: 'Healthy doggo ice cream toppings', text: 'Healthy doggo ice cream toppings', level: 3 },
+    { id: '2. Pooch-friendly meaty-flavoured ice lollies', text: '2. Pooch-friendly meaty-flavoured ice lollies', level: 2 },
+    { id: '3. Easy-peasy frozen veg', text: '3. Easy-peasy frozen veg', level: 2 },
+  ]
+},
+
+
+
+'toxic-bbq-food-for-dogs': {
+  title: 'Toxic BBQ food for dogs',
+  category: 'Pets',
+  snippet: "Toxic BBQ foods for dogs include onions, garlic, grapes, raisins, and bones from grilled meat. These can cause severe digestive or poisoning issues.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/Toxic_BBQ_food_for_dogs_HEADER_0002d396-4cee-43e9-ba59-9b2ffc32dbcc_500x_crop_center.jpg?v=1685716773",
+    alt: "Toxic BBQ food for dogs",
+    caption: "What foods are poisonous to dogs?"
+  },
+  content: `
+<p>Picture this. The sun’s a scorcher, the barbecue’s sizzling away beautifully, and your favourite people and pooches surround you. Then you look over at Great Aunt Mabel and see what she’s feeding the dogs… eek.</p>
+      <p>She means well, but all is not well. In fact, it’s extremely dangerous. Here we discuss the risks of toxic human food for your fur baby, and how to make sure they enjoy the summer socials just as much as you.</p>
+      <div>Play Video
+VIEW ON TIKTOK</div>
+      <h2 id="What foods are poisonous to dogs?">What foods are poisonous to dogs?</h2>
+      <p>We know how tempting those puppy dog eyes can be when they get a scent of our tasty human scran. But human food, especially during barbecue season, can be packed with harmful ingredients that are poisonous to our pooches. Marinades on the meat, ingredients in the side dishes and grown-up 'lemonade' are just some of the watchouts.</p>
+      <p>Let’s look at the full list:</p>
+      <h3 id="Garlic">Garlic</h3>
+      <p>Garlic is used in so many of our dishes. Sauces, marinades, oils, and tons more. This favourite ingredient is toxic to our dogs and can cause gastrointestinal irritation and red blood cell damage. This can make your pooch very sick.</p>
+      <h3 id="Onions and Chives">Onions and Chives</h3>
+      <p>As per above (they’re all part of the onion family), onions and chives are toxic and can cause gastrointestinal irritation and red blood cell damage too. As a popular condiment to hot dogs and other barbecue delights – be extra careful with what may fall on the floor and within doggo’s reach.</p>
+      <h3 id="Cooked bones">Cooked bones</h3>
+      <p>This is where people don’t realise the damage they’re doing, as dogs are usually encouraged to chomp raw bones, safely. However, cooked bones are completely different. They easily splinter in the mouth, and in large quantities cause constipation and perforation of the gut - which is extremely dangerous and can even be fatal.</p>
+      <h3 id="Alcohol">Alcohol</h3>
+      <p>Our fun liquid is not so fun for our pets. Alcohol intoxicates our animals in the same way it does us, but can lead to severe sickness, diarrhoea, and even central nervous system damage. You should keep all drinks off the floor and out of reach of your pooch.</p>
+      <h3 id="Corn on the cob">Corn on the cob</h3>
+      <p>A classic, healthy barbecue side, that when eaten by dogs can cause blockages in the intestine. Anything but healthy, as blockages could turn fatal.</p>
+      <h3 id="Avocado">Avocado</h3>
+      <p>Another firm favourite on the barbecue sides list, and another to keep away from pets. Avocado plants contain an ingredient called Persin – found in its leaves, fruit, and seed. Persin can cause severe vomiting and diarrhoea in dogs, making them very poorly.</p>
+      <h3 id="Chocolate">Chocolate</h3>
+      <p>Found in many human sweet treats, chocolate should never be fed to dogs. You can get pooch-safe chocolate as an alternative, but the chocolate we know and love contains a stimulant called theobromine. The darker the chocolate, the higher the theobromine levels. This is toxic to our fur babies and can cause kidney failure.</p>
+      <h3 id="Macadamia nuts">Macadamia nuts</h3>
+      <p>Quite often a Christmas ingredient, but around any time of year, Macadamia nuts are another poisonous food on the list. They contain a toxin that can affect your dog’s muscles and nervous system – which can cause weakness, swollen limbs and panting.</p>
+      <h3 id="Grapes and Raisins">Grapes and Raisins</h3>
+      <p>Grapes and raisins can be found in cous-cous, salads, on a BBQ cheese board and in other barbecue food and sweet treats. The active ingredient with toxic properties isn’t known, but these fruits can cause severe liver damage and kidney failure in our precious pooches.</p>
+      <h3 id="Xylitol">Xylitol</h3>
+      <p>Xylitol is an artificial sweetener found in loads of food we eat. Although safe for us, your dog could go into hypoglycaemia if consumed. Hypoglycaemia is linked to liver failure and blood clotting disorders, so needs to be avoided at all costs.</p>
+      <h2><span data-sanitized-data-mce-style="font-weight: 400;" data-mce-style="font-weight: 400;" style="font-weight: 400;"><strong>It’s a good idea to educate everyone who’s around pooches at social gatherings, on the dangers of human food. We’re sure they wouldn’t want your dog to become unwell and will start to think twice before offering dangerous scraps.</strong>&nbsp;</span></h2>
+      <h2 id="What to do if your dog eats poisonous food">What to do if your dog eats poisonous food</h2>
+      <p>Act with urgency. But try not to panic.</p>
+      <p>It’s sensible to contact your vet straight-away, who can offer their professional opinion. They’ll probably ask what they’ve eaten, in what quantity, and whether you’ve noticed any visible signs of distress.</p>
+      <p>Give as much info as possible, so they can decide whether they want to check your dog over.</p>
+      <h2 id="What to avoid doing if your dog eats poisonous food">What to avoid doing if your dog eats poisonous food</h2>
+      <p>Your gut instinct will be to help your dog! However, this could cause more harm than good. Always take your vet’s advice and bear the below in mind:</p>
+      <ul>
+        <li>Don't attempt to treat or medicate your pooch yourself. Some medicines that work for us and other animals, could be poisonous to dogs.</li>
+        <li>Don’t try to make your dog throw it up. Salt water especially is extremely dangerous.</li>
+        <li>Keep poorly dogs away from other animals to avoid spreading any sickness.</li>
+      </ul>
+      <h2 id="Signs of food poisoning in dogs">Signs of food poisoning in dogs</h2>
+      <p>Your vet will share a list of symptoms to look out for, and some might follow a few days later.</p>
+      <p>Here are a few they may mention:</p>
+      <ul>
+        <li>Agitation</li>
+        <li>Excessive panting or drooling</li>
+        <li>Tremors or spasms</li>
+        <li>Swollen limbs</li>
+        <li>Nausea and/or vomiting</li>
+        <li>Seizures</li>
+        <li>Changes in heart rate</li>
+        <li>Diarrhoea</li>
+      </ul>
+      <p>If you notice any of these, contact your vet straight away.</p>
+      <h2 id="Dog-friendly BBQ inspired food">Dog-friendly BBQ inspired food</h2>
+      <p>Our pooches are an important part of the family (if not Head Of!) – so it’s only right we have some tasty snacks on hand to include them in the joy of barbecue season.</p>
+      <p>Some of our Pooch & Mutt favourites are:</p>
+      <ul>
+        <li>Smokin’ BBQ Burgers – smokin’ beef jerky treats that look and taste like burgers – nom! The latest addition to our Pooch & Mutt range, no BBQ is complete without them</li>
+        <li>Calming Probiotic Meaty Treats – when the party’s in full swing, dogs may feel a little anxious in unfamiliar settings. These meaty remedies can help ease worried minds as well as tasting utterly delicious</li>
+        <li>Pooch & Mutt Dental Sticks – a long-lasting treat in a variety of flavours, to keep them occupied and out of mischief</li>
+        <li>Build-a-box – you’re likely to have a mezze of BBQ goodies, so give your pooch the same treatment! Our Build-a-box subscription service means they’ll have a meal, sides, and other scrummy favourites at-the-ready to devour</li>
+      </ul>
+      <p>Always feed treats according to the label and as part of a complete diet. Treats should be a maximum 10% of a dog’s daily diet and shouldn’t be used to substitute food.</p>
+`,
+  headings: [
+    { id: 'What foods are poisonous to dogs?', text: 'What foods are poisonous to dogs?', level: 2 },
+    { id: 'Garlic', text: 'Garlic', level: 3 },
+    { id: 'Onions and Chives', text: 'Onions and Chives', level: 3 },
+    { id: 'Cooked bones', text: 'Cooked bones', level: 3 },
+    { id: 'Alcohol', text: 'Alcohol', level: 3 },
+    { id: 'Corn on the cob', text: 'Corn on the cob', level: 3 },
+    { id: 'Avocado', text: 'Avocado', level: 3 },
+    { id: 'Chocolate', text: 'Chocolate', level: 3 },
+    { id: 'Macadamia nuts', text: 'Macadamia nuts', level: 3 },
+    { id: 'Grapes and Raisins', text: 'Grapes and Raisins', level: 3 },
+    { id: 'Xylitol', text: 'Xylitol', level: 3 },
+    { id: 'What to do if your dog eats poisonous food', text: 'What to do if your dog eats poisonous food', level: 2 },
+    { id: 'What to avoid doing if your dog eats poisonous food', text: 'What to avoid doing if your dog eats poisonous food', level: 2 },
+    { id: 'Signs of food poisoning in dogs', text: 'Signs of food poisoning in dogs', level: 2 },
+    { id: 'Dog-friendly BBQ inspired food', text: 'Dog-friendly BBQ inspired food', level: 2 },
+  ]
+},
+
+
+
+'wet-dog-food-faqs-myths': {
+  title: 'Wet food for dogs: FAQs and Myth-busters',
+  category: 'Pets',
+  snippet: "Wet dog food is convenient, hydrating, and often more palatable than dry food. Myths like it causing dental issues are false—good oral care prevents this.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/WET-FOOD-FAQS-BLOG-1_500x_crop_center.jpg?v=1681998907",
+    alt: "Wet food for dogs: FAQs and Myth-busters",
+    caption: "Wet dog food FAQs"
+  },
+  content: `
+<p>If you’re new to being a dog parent, or you’re switching from a dry food diet to feeding wet food to your pooch, you may have questions about what the deal is with wet food.</p>
+      <p>To lay down the basics, wet dog food is usually a jelly or gravy-covered meat feast which lots of dogs find heavenly on the palate - but if you already know that, you may still wonder about the specifics. Like ‘Is wet food bad for your dog’s teeth? Is wet food more fattening? What about puppies - can they enjoy wet food?’</p>
+      <p>There are a lot of myths out there - so read on for our answers to some FAQs about wet food for dogs.</p>
+      <h2 id="Wet dog food FAQs">Wet dog food FAQs</h2>
+      <p>We know that putting your dog on a wet food diet can raise a lot of questions, so let’s bust some myths and put your mind at ease…</p>
+      <h3 id="Do dogs need wet food?">Do dogs need wet food?</h3>
+      <p>No, dogs don’t need wet food - in fact many dogs thrive on a dry food diet without missing wet food at all. However, some dogs such as puppies (who have tiny, soft teeth) and senior dogs (whose teeth are usually past their best) may see more benefits to eating soft, wet food than dry food. Dogs with health conditions or fussy eaters may also be more likely to eat wet food as it’s more sensory and moist, therefore deemed more appetising, than dry food.</p>
+      <p>It’s completely your choice whether you feed your dog mostly dry or wet food - what matters is that it’s nutritionally complete and your dog can comfortably eat and digest it day after day.</p>
+      <h3 id="Is wet food bad for dogs?">Is wet food bad for dogs?</h3>
+      <p>Not at all, wet food isn’t bad for dogs - so long as it’s nutritionally balanced and contains high-quality ingredients. It’s a bit of a myth that wet dog food is more fattening (we’ll go into this below) as although it’s seen as more of a ‘treat’ than dry kibble, its lower carbohydrate level means it’s actually more often used to promote weight loss in dogs. It also has a higher moisture content than dry food, so injects some much needed hydration into a dog’s diet.</p>
+      <p>There are pros and cons to both wet and dry dog food of course, so it’s a personal choice over which you deem a better choice.</p>
+      <p>Not all wet foods rank the same - a lot of big-name commercial brands tend to stuff their wet dog food with filler ingredients such as rice or other grains, so be sure to check the nutritional information and invest in a good quality brand.</p>
+      <h3 id="Is it ok if my dog only eats wet food?">Is it ok if my dog only eats wet food?</h3>
+      <p>Sure - lots of dogs are on a fully wet food diet and live healthy, energetic and content lifestyles. Wet food can be exactly the same as dry food when it comes to nutritional value and digestibility, so it’s fine to only feed your dog wet food just so long as your dog responds well to it and likes to eat it.</p>
+      <h3 id="Is wet dog food bad for dogs’ teeth?">Is wet dog food bad for dogs’ teeth?</h3>
+      <p>In theory, wet food isn’t bad for dogs’ teeth - it’s just not as naturally clever as dry food which tends to naturally scrape tartar from teeth because of its gritty texture. In that respect, dogs who eat only wet food are more prone to tartar build-up.</p>
+      <p>So long as your dog receives adequate dental care, with regular check-ups, dental chews and teeth cleans, wet food shouldn’t be detrimental to your pooch’s pegs at all. In fact, for lots of dogs with problematic teeth, wet food is much more comfortable to chew.</p>
+      <h3 id="Is wet dog food easier to digest?">Is wet dog food easier to digest?</h3>
+      <p>Not necessarily - both wet and dry food can be easy to digest, it really depends on your dog’s stomach sensitivity and their specific needs. Pooch & Mutt grain-free wet food for dogs, for instance, is grain-free because many dogs can’t digest grain easily, so avoiding it proves safer on your dog’s tum.</p>
+      <p>You should always be feeding your dog based on their dietary requirements, age, breed and size. So long as your choice of dog food is tailored to their needs and is high quality, your dog shouldn’t have too many digestive issues whether they eat wet food or dry.</p>
+      <h3 id="Is wet dog food more fattening than dry?">Is wet dog food more fattening than dry?</h3>
+      <p>As mentioned previously, it’s a myth that wet dog food is more fattening than dry - in fact, it’s the opposite. Wet food usually has a lower carbohydrate content and less fat than dry food, which often contains a condensed amount of ingredients, so is usually more calorific.</p>
+      <p>Again, it’s all about the quality of food you choose to feed your dog. If it’s a wet food for dogs containing natural, nutritious ingredients, and a balanced level of protein alongside fruits and vegetables, it should actually promote leanness and weight loss in your dog.</p>
+      <h3 id="Can a puppy eat wet dog food?">Can a puppy eat wet dog food?</h3>
+      <p>Yes - wet food is a great choice for puppies from about six weeks old, when they’re weaning off mama dog’s milk. At this stage, their teeth are small and delicate, so dry kibble will be too severe for them to chew on. A little wet dog food will taste amazing to their inexperienced taste buds, so they’ll be more eager to chow down and use its nutrients to grow big and strong.</p>
+      <h3 id="Is wet food better for older dogs?">Is wet food better for older dogs?</h3>
+      <p>Senior dogs can often benefit from a switch to wet dog food. This is because at an advancing age, they’ll get a lot out of the increased moisture content in wet food, the strong aroma and flavour will encourage them to eat and build up their strength, and the softness of the meaty chunks is easier on their teeth. If your senior dog is used to dry food, perhaps try mixing a bit of wet food along with the kibble so they will benefit from wet food’s sensory and nutritional properties.</p>
+      <h3 id="Can I heat up wet dog food?">Can I heat up wet dog food?</h3>
+      <p>Some dog owners like their pooch to have a warm meal, and why not? Wet food is often chilled in the fridge once opened, which can reduce the lovely taste and texture of wet dog food, so it’s a good idea to heat it up and reinvigorate the flavour and smells.</p>
+      <p>To safely heat wet dog food, you could add a bit of warm water to the bowl, put it in a plastic bag and immerse it in hot water, or heat it up in the microwave (though some believe microwaves can reduce the nutritional value of the food, so do this sparingly).</p>
+      <p>In any case, be extra certain that the food isn’t scolding hot, but warm, before serving it to your hungry pup.</p>
+      <h2 id="Wet dog food myth busting">Wet dog food myth busting</h2>
+      <p>Let’s finish off this doggy inquisition into wet dog food with a few final myth busters.</p>
+      <h3 id="Myth Wet dog food causes weight gain">Myth Wet dog food causes weight gain</h3>
+      <p>Nope - wet food doesn’t cause weight gain, in fact, it’s often used in a weight controlled diet instead of dry food to keep your dog lean because it has a lower carbohydrate content than dry food. However, a low-quality wet food full of fat and filler ingredients could cause your dog to pile on the pounds. Be sure to choose nutritious, delicious wet dog food packed with natural, high-quality ingredients.</p>
+      <h3 id="Wet dog food causes diarrhoearunny poop">Wet dog food causes diarrhoearunny poop</h3>
+      <p>If your dog has a case of the runs, it’s unlikely that their wet food diet is the culprit. There are a few reasons your dog may have unconventional poop symptoms, such as food poisoning, stress, a change of environment, or eating something harmful they may have found in the house or out on a walk.</p>
+      <p>If your dog is a grazer, and so wet food is stewing in their dog bowl all through the day, that could cause harm to your dog’s gut as the left food may go off and pick up bacteria. For a grazing dog, it could be a better idea to put them on a dry food diet, and perhaps feed them wet food as an occasional treat.</p>
+      <h3 id="Wet dog food will make your dog poop more">Wet dog food will make your dog poop more</h3>
+      <p>There doesn’t appear to be any evidence for this! There are plenty of reasons your dog might poop more excessively, however - their diet may have been changed and their gut is getting used to the shift; a recent stressful situation such as a new dog, a visit to the vet or a house move; or a bout of food poisoning, perhaps due to bacteria in their food. On its own, no - wet food shouldn’t make your dog poop more often.</p>
+      <p>Hopefully that should cover all your wet dog food queries and have you feeling able to confidently choose whether wet food is right for you and your pooch. Take a look at our range of organic grain-free wet dog food for every dog’s need, or if you have any other questions, get in touch with us and leave a comment.</p>
+`,
+  headings: [
+    { id: 'Wet dog food FAQs', text: 'Wet dog food FAQs', level: 2 },
+    { id: 'Do dogs need wet food?', text: 'Do dogs need wet food?', level: 3 },
+    { id: 'Is wet food bad for dogs?', text: 'Is wet food bad for dogs?', level: 3 },
+    { id: 'Is it ok if my dog only eats wet food?', text: 'Is it ok if my dog only eats wet food?', level: 3 },
+    { id: 'Is wet dog food bad for dogs’ teeth?', text: 'Is wet dog food bad for dogs’ teeth?', level: 3 },
+    { id: 'Is wet dog food easier to digest?', text: 'Is wet dog food easier to digest?', level: 3 },
+    { id: 'Is wet dog food more fattening than dry?', text: 'Is wet dog food more fattening than dry?', level: 3 },
+    { id: 'Can a puppy eat wet dog food?', text: 'Can a puppy eat wet dog food?', level: 3 },
+    { id: 'Is wet food better for older dogs?', text: 'Is wet food better for older dogs?', level: 3 },
+    { id: 'Can I heat up wet dog food?', text: 'Can I heat up wet dog food?', level: 3 },
+    { id: 'Wet dog food myth busting', text: 'Wet dog food myth busting', level: 2 },
+    { id: 'Myth Wet dog food causes weight gain', text: 'Myth Wet dog food causes weight gain', level: 3 },
+    { id: 'Wet dog food causes diarrhoearunny poop', text: 'Wet dog food causes diarrhoearunny poop', level: 3 },
+    { id: 'Wet dog food will make your dog poop more', text: 'Wet dog food will make your dog poop more', level: 3 },
+  ]
+},
+
+
+
+'best-dog-food-dogs-with-bad-teeth': {
+  title: 'What Is the Best Dog Food for Dogs With Bad Teeth?',
+  category: 'Pets',
+  snippet: "The best food for dogs with bad teeth is soft, high-quality food that’s easy to chew. Special dental diets or treats designed to reduce plaque and tartar can also help.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/BEST-FOOD-FOR-BAD-TEETH-BLOG-4_500x_crop_center.jpg?v=1680184090",
+    alt: "What Is the Best Dog Food for Dogs With Bad Teeth?",
+    caption: "What causes bad teeth in dogs?"
+  },
+  content: `
+<p>When was the last time you thought about the canines on your canine? For some pooch parents, their dog’s gnashers may be just one thing on a long list of doggy health check-ups; after skin, coat, ears, eyes, mobility and all-round energy levels. When dogs do have dental problems, such as tooth loss, however, it can send their owners into a tailspin. What do you feed a dog with bad teeth, how do you prevent more damage, and will they be able to eat and chew comfortably?</p>
+      <p>Read on to learn about what to feed a pooch with tooth loss or dental issues, and understand more about what causes bad teeth in dogs.</p>
+      <h2 id="What causes bad teeth in dogs?">What causes bad teeth in dogs?</h2>
+      <p>When a dog is just a puppy, it’s normal for them to lose their milk teeth and grow adult molars. When tooth loss or damage occurs later in life, however, it can be more of a cause for concern. Tooth loss is known as periodontal disease, and though it’s not ideal, it’s actually very common in dogs over the age of four.</p>
+      <p>Much as with humans, there’s lots of reasons a dog might suffer from worse teeth than the next dog. The most obvious cause is likely to be a lack of dental hygiene, but dental issues can also crop up after an injury such as a knock to the face, or because your pooch is getting old (!) and their teeth simply aren’t what they used to be.</p>
+      <p>Certain breeds of dogs are also unlucky as they’re predisposed to dental problems, such as Spaniel breeds, small dogs like Chihuahuas, or flat-faced breeds such as Shih Tzus or French Bulldogs.</p>
+      <h2 id="What to feed a dog with bad missing or no teeth">What to feed a dog with bad missing or no teeth</h2>
+      <p>If your pooch has a mouthful of dental difficulties, don’t panic – you can rest assured that not a lot will come between a dog and his meals, no matter how gummy their grin. To make it easier for them, though, try adapting their food in the following ways:</p>
+      <h3 id="Wet dog food">Wet dog food</h3>
+      <p>If your dog is usually a dry food guy or gal, perhaps it’s time to switch to the wet stuff. Nutritious wet dog food has a gentle texture and is softer to chew, plus its stronger scent and flavour can draw a nervous pup back to the bowl if their hunger hasn’t been the same lately.</p>
+      <h3 id="Pureed wet food">Pureed wet food</h3>
+      <p>If regular wet food is still a bit chunky for your dog’s chops, try softening it further by mashing it up thoroughly with a fork, or even blitzing it briefly in a food processor/blender.</p>
+      <h3 id="Pureed home-cooked food">Pureed home-cooked food</h3>
+      <p>If you feed your dog the occasional human meal such as chicken, sweet potato or veggies, be sure to boil until soft and puree that in a blender, too.</p>
+      <h3 id="Crushed dry dog food">Crushed dry dog food</h3>
+      <p>You might want to stick with dry food and that’s fair enough - dry food for dogs is packed with nutrients, and is generally more economical and less messy. Try crushing some of your dog’s regular kibble, either by sealing it in a ziplock bag and bashing gently with a meat hammer or rolling pin, or - you guessed it - blitzing it up in your new best friend, the blender.</p>
+      <h3 id="Softened dry dog food">Softened dry dog food</h3>
+      <p>Another route to tenderise your dry dog food is to add some hot (not scolding) water, or maybe unsalted chicken broth. This should make the dry pieces softer and much easier to chew. It will also appear juicier to your pooch as all the meaty flavours and smells come out.</p>
+      <h3 id="Add a topper">Add a topper</h3>
+      <p>If your pooch isn’t into their dry food even if it’s crushed or softened, try a tasty topper to bribe them, such as a drizzle of flavoured doggy yoghurt or some low-sodium gravy. Be sure there’s no extras in the gravy like onions or fat.</p>
+      <h3 id="Is wet dog food bad for dogs’ teeth?">Is wet dog food bad for dogs’ teeth?</h3>
+      <p>Wet dog food isn’t bad for dogs’ teeth; so long as you’re helping your dog keep good dental hygiene with regular brushing and dental chew treats.</p>
+      <p>The reason wet dog food isn’t necessarily linked to good dental health is because there is some evidence that dogs on a dry food diet tend to have better teeth. This is potentially because the crunchy nature of kibble pieces may have somewhat of a ‘brushing’ effect on dog’s teeth - though this isn’t 100% proven and shouldn’t be seen as a replacement for appropriate doggy dental care.</p>
+      <h2 id="How to keep your dog’s teeth clean">How to keep your dog’s teeth clean</h2>
+      <p>When your dog has ‘bad’, missing or no teeth, whatever the reason, it’s important to look after the gums, mouth and remaining teeth to ensure your gap-toothed pooch is kept comfortable and pain-free. Looking after them in this way could also prevent or delay further dental deterioration.</p>
+      <h3 id="Brushing your dog’s teeth">Brushing your dog’s teeth</h3>
+      <p>Many pooch parents will testify that dogs aren’t the biggest fans of having their teeth brushed, but it’s definitely the most effective way to keep your dog’s pegs clean and fresh. Daily brushing with a toothbrush and toothpaste for dogs will keep plaque at bay and reduce gum disease as well as that infamous dodgy doggy breath. After a few practice times, your dog should know what to expect during teeth-brushing and not squirm too much.</p>
+      <h3 id="Dog dental sticks">Dog dental sticks</h3>
+      <p>Another convenient way to clean your dog’s teeth is a daily dental stick for dogs. As your pooch spends time chewing on the stick, they are simultaneously releasing ingredients for cleanliness and fresh breath (such as mint and spirulina) while scrubbing plaque and tartar from the surface of their teeth.</p>
+      <h3 id="Dog chews and toys">Dog chews and toys</h3>
+      <p>Chewing in general is a good exercise for doggy dental health as it strengthens dog teeth - however many they may have left. Dispense a tasty chew to your dog now and then, or get some gummy toys for them to munch on.</p>
+      <h2 id="FAQs for dogs with bad teeth">FAQs for dogs with bad teeth</h2>
+      <p>If your dog has loose or missing teeth, here are a few more questions you might want the answers to…</p>
+      <h3 id="How many teeth do dogs need to eat?">How many teeth do dogs need to eat?</h3>
+      <p>Adult dogs with a full set will have 42 teeth, while puppies have 28. Though losing a tooth shouldn’t impact your dog’s eating habits too much, it’s very important to take your pooch to a vet in case they’re showing signs of losing more. The canine teeth (the fang-looking ones) are key to gripping and tearing food, so if your dog loses one of those, you might notice a change in how they chew.</p>
+      <p>In general, dogs can eat fine with missing teeth, and even with no teeth, so long as their owner adapts their food accordingly - but of course the fewer teeth they lose, the better.</p>
+      <h3 id="Do dogs need all their teeth?">Do dogs need all their teeth?</h3>
+      <p>Though the ideal scenario would be for a dog to keep all of their 42 teeth, it’s not strictly necessary. One or two missing teeth is no biggie, but the more teeth they lose, the more trouble they will have eating. At a severe stage where a dog has few to no teeth, it can start to reform the structure of their mouth, and their tongue may protrude out. When it gets to this stage, pureed food is preferable so they can easily lap up their dinner without struggle.</p>
+      <h3 id="Is it normal for senior dogs to lose teeth?">Is it normal for senior dogs to lose teeth?</h3>
+      <p>Just like humans, dogs’ teeth get old, but not all old boys and girls will lose their teeth. If you’ve not switched to a food for senior dogs already, this is a good time to ensure they’re getting all the easily digestible nutrition their golden era requires. If you are noticing your senior dog is losing their teeth, however, and they haven’t experienced any injury or head trauma, it could be an indicator of periodontal disease.</p>
+      <p>Be sure to visit a vet to be fully informed on the next steps. The aim is always to keep your dog healthy and comfortable, without any pain, and to reduce the chance of more teeth falling out as much as possible.</p>
+      <p>To keep your dog’s teeth clean and healthy and their breath fresh, try Pooch & Mutt’s range of all-natural dental sticks for dogs. It’s the next best thing to daily brushing, and they taste great, too.</p>
+      <section>References</section>
+`,
+  headings: [
+    { id: 'What causes bad teeth in dogs?', text: 'What causes bad teeth in dogs?', level: 2 },
+    { id: 'What to feed a dog with bad missing or no teeth', text: 'What to feed a dog with bad missing or no teeth', level: 2 },
+    { id: 'Wet dog food', text: 'Wet dog food', level: 3 },
+    { id: 'Pureed wet food', text: 'Pureed wet food', level: 3 },
+    { id: 'Pureed home-cooked food', text: 'Pureed home-cooked food', level: 3 },
+    { id: 'Crushed dry dog food', text: 'Crushed dry dog food', level: 3 },
+    { id: 'Softened dry dog food', text: 'Softened dry dog food', level: 3 },
+    { id: 'Add a topper', text: 'Add a topper', level: 3 },
+    { id: 'Is wet dog food bad for dogs’ teeth?', text: 'Is wet dog food bad for dogs’ teeth?', level: 3 },
+    { id: 'How to keep your dog’s teeth clean', text: 'How to keep your dog’s teeth clean', level: 2 },
+    { id: 'Brushing your dog’s teeth', text: 'Brushing your dog’s teeth', level: 3 },
+    { id: 'Dog dental sticks', text: 'Dog dental sticks', level: 3 },
+    { id: 'Dog chews and toys', text: 'Dog chews and toys', level: 3 },
+    { id: 'FAQs for dogs with bad teeth', text: 'FAQs for dogs with bad teeth', level: 2 },
+    { id: 'How many teeth do dogs need to eat?', text: 'How many teeth do dogs need to eat?', level: 3 },
+    { id: 'Do dogs need all their teeth?', text: 'Do dogs need all their teeth?', level: 3 },
+    { id: 'Is it normal for senior dogs to lose teeth?', text: 'Is it normal for senior dogs to lose teeth?', level: 3 },
+  ]
+},
+
+
+
+'dry-dog-food-how-long-does-it-last': {
+  title: 'How long can you keep dry dog food once opened?',
+  category: 'Pets',
+  snippet: "Easy answer: yes, your sack of dry dog food will go stale much faster if you leave it open. Unopened dry dog food tends to have a shelf life of around 12-18 months, but once you open it, you should aim to use it up in about 6 weeks. After that, it will start to go stale.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/HOW-LONG-DOES-DRY-FOOD-LAST-BLOG_500x_crop_center.jpg?v=1680184705",
+    alt: "How long can you keep dry dog food once opened?",
+    caption: "Does dry dog food go stale if left open?"
+  },
+  content: `
+<p>If your dog is a dry food dude but you’re not entirely sure how to keep their kibble at its best, you’re in the right place. Dry food is known for lasting longer than opened wet food, raw food and cooked human food - but when it goes bad, it tastes bad, not to mention loses its important nutritional value.</p>
+      <p>So how long is too long to have dry dog food hanging around? Read on to learn how long you should keep dry dog food once opened, so you avoid putting your pooch off their meals with a sad bowl of stale kibble.</p>
+      <h2 id="Does dry dog food go stale if left open?">Does dry dog food go stale if left open?</h2>
+      <h2 id="How can you tell if dry dog food is bad?">How can you tell if dry dog food is bad?</h2>
+      <p>There are a few ways to detect dry dog food that is not only past its best, but shouldn’t be fed to your pooch at all.</p>
+      <ul>
+        <li>Bad smell. Fresh dry dog food doesn’t exactly smell of roses, but you will definitely note the scent has changed and smells distinctly off.</li>
+        <li>Moist and crumbly. While wet dog food loses its moisture when expired, dry dog food will lose its crunch, go a bit soft and crumble in your fingers.</li>
+        <li>Mould. Moistness means mould - and it’s best to throw the kibble away if any greenery is starting to bloom!</li>
+        <li>Insects. Bugs love the decaying warmth of stale dog food - yum! If you spot any crawlies, definitely throw the food away. Storage mites can wiggle their way in if food is kept for too long or stored incorrectly. This can be a trigger for itchy skin.</li>
+        <li>Your dog isn’t keen. If your dog is usually a firm foodie but turns their nose up, the food probably isn’t fresh enough.</li>
+        <li>Your dog becomes unwell. A given, but if your dog gets sick, their food should be considered the first culprit.</li>
+      </ul>
+      <h2 id="Is it OK to put dog food in a plastic container?">Is it OK to put dog food in a plastic container?</h2>
+      <p>It might seem like a great idea to pour dog kibble from the original bag into a plastic container - but it’s actually one of the most common mistakes dog owners make, for a couple of reasons.</p>
+      <p>Firstly, plastic containers or bins draw oil and fats from the kibble, causing it to oxidise and go stale much quicker. Secondly, if you’ve thrown away the bag, you won’t be able to check important information in an emergency - such as which of the ingredients may have caused a reaction in your dog, or when the expiry date was.</p>
+      <p>What you can do is keep the food in its original packaging, and then put the entire bag into a plastic container to ensure the food stays its best. The bags are usually designed to ensure optimal freshness and crunchiness so that the food stays super nutritious, too.</p>
+      <h2 id="Can old dry dog food make dogs sick?">Can old dry dog food make dogs sick?</h2>
+      <p>Sure can - dogs may get dodgy tummies if they eat bad food, just like we humans do. Lots of dogs will reject stale or expired dry dog food, but those that don’t might suffer from stomach pains, vomiting or diarrhoea. Get in touch with your vet if this happens to your dog and causes concern.</p>
+      <h2 id="How to keep your dog food fresh">How to keep your dog food fresh</h2>
+      <p>There are plenty of ways to keep your dog’s kibble at its tastiest and crunchiest. To save you money, avoid waste and keep your pooch happy each dinnertime, follow these tips each time you buy new dry dog food…</p>
+      <h3 id="Keep in a cool dry place">Keep in a cool dry place</h3>
+      <p>It’s a classic, back-of-pack phrase for a reason - store your dry dog food ideally in a dark cupboard, away from all moistness and heat and you’ll prolong its life nicely.</p>
+      <h3 id="Store in the original packaging">Store in the original packaging</h3>
+      <p>As mentioned above, dry dog food sacks are designed for freshness, whereas plastic containers will draw oil from the food so it will go stale much quicker. If you’ve already bought one of those plastic dog food bins though, that’s great - just pop the whole bag inside it.</p>
+      <h4>Buy smaller bags more often</h4>
+      <p>This is especially smart if you have a smaller dog who doesn’t eat as much. Buying dry food in smaller bags and more often could be the key to keeping the kibble super fresh.</p>
+      <h4>Make note of when you opened it</h4>
+      <p>If you’re someone who loses track of things like birthdays and anniversaries, attach the date you opened the bag on a sticky note, so you’ll know when the food might be getting old.</p>
+      <h4>Always throw stale food away</h4>
+      <p>If there’s even a small chance you think the dry food might smell strange or is going a bit soft, get rid and buy a fresh batch for your dog to munch on. Your pooch will thank you for it.</p>
+      <p>The freshest dry dog food is the most nutritious, and we believe your dog deserves the tastiest and best there is. To keep your pooch well-fed and content on their daily kibble, try our Pooch & Mutt range of grain-free dry dog food - made with organic, all-natural ingredients to keep your dog happy and healthy from the inside out.</p>
+`,
+  headings: [
+    { id: 'Does dry dog food go stale if left open?', text: 'Does dry dog food go stale if left open?', level: 2 },
+    { id: 'How can you tell if dry dog food is bad?', text: 'How can you tell if dry dog food is bad?', level: 2 },
+    { id: 'Is it OK to put dog food in a plastic container?', text: 'Is it OK to put dog food in a plastic container?', level: 2 },
+    { id: 'Can old dry dog food make dogs sick?', text: 'Can old dry dog food make dogs sick?', level: 2 },
+    { id: 'How to keep your dog food fresh', text: 'How to keep your dog food fresh', level: 2 },
+    { id: 'Keep in a cool dry place', text: 'Keep in a cool dry place', level: 3 },
+    { id: 'Store in the original packaging', text: 'Store in the original packaging', level: 3 },
+  ]
+},
+
+
+
+'raw-food-for-dogs-vs-wet-dry-dog-food': {
+  title: 'Give a dog a bone? Raw food for dogs vs wet and dry dog food',
+  category: 'Pets',
+  snippet: "Raw food can provide a natural diet but may carry risks of bacterial contamination. Wet and dry foods are nutritionally balanced and easier to store but may not offer the same variety of nutrients as raw.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/RAW-FOOD-BLOG-1_500x_crop_center.jpg?v=1680101281",
+    alt: "Give a dog a bone? Raw food for dogs vs wet and dry dog food",
+    caption: "The Raw Food Diets For Dogs"
+  },
+  content: `
+<p>Heard about the raw food diet for dogs? Though you may be used to feeding your pooch wet food, meaty treats or crunchy dog kibble - hopefully packed with all the nutrients they need for a well-rounded diet - raw dog food is definitely gaining in popularity. Raw food enthusiasts insist that domestic dogs are wild animals at heart, therefore should be chowing down on meaty bones and raw cuts of meat over cooked chicken and dog biscuits. Weighing up the benefits of these contrasting diets can be a minefield, as you’ll only want to do what’s best for your pooch.</p>
+      <p>To save you the stress, we’ve explored the differences between raw food for dogs and commercial wet and dry dog food, so that you as a dog owner can make whatever decision you deem best for your pooch's mealtimes.</p>
+      <h2 id="The Raw Food Diets For Dogs">The Raw Food Diets For Dogs</h2>
+      <p>The raw food diet is an alternative to commercial food or cooked food for dogs, based on the premise that dogs used to hunt and live in the wild, therefore it appeals to their ‘true nature’. It’s sometimes rather appetisingly called the BARF diet, which stands for both ‘Bones and Raw Food’ or ‘Biologically Appropriate Raw Food’.</p>
+      <p>There are a number of ways to feed your dog a raw food diet - you can prepare the various foods yourself, or some specialist dog food brands offer raw food in more accessible formats (such as freeze-dried) to allow for easier access plus safer storage and consumption.</p>
+      <h3 id="What is raw dog food?">What is raw dog food?</h3>
+      <p>Raw dog food is based on what dogs may have eaten in the wild, before they were domesticated. Usually it consists of raw muscle meat, organs, bones, raw eggs, dog-safe fruit and vegetables, and yoghurt. It can be home prepared or bought from a store freeze-dried or dehydrated, to save dog owners the trouble of sourcing and adequately preparing all of these raw foods themselves.</p>
+      <h3 id="Is raw food good for dogs?">Is raw food good for dogs?</h3>
+      <p>Dog owners who swear by raw dog food claim it provides a number of powerful health benefits to their pooches. These include -</p>
+      <ul>
+        <li>Shinier coat and healthy skin</li>
+        <li>Improved dental health</li>
+        <li>Boosted energy</li>
+        <li>Better digestion and smaller poops</li>
+      </ul>
+      <p>There are limited studies on this, none of which have been wholly proven. A study in 2018 did reveal a lot of bacterial diversity in the gut microbiome of dogs who ate raw food (1), though there was also a boost in the harmful bacteria E.coli. There are plenty of raw dog food fans with very happy and healthy dogs, but not everyone is an advocate for the raw dog food diet, as just like it does with humans, eating food in its raw state can come with considerable risks.</p>
+      <h3 id="Disadvantages of raw food for dogs">Disadvantages of raw food for dogs</h3>
+      <p>Many veterinary experts have discouraged dog owners from feeding raw food to their dogs (2), as it could be considered riskier when it comes to contamination and safety.</p>
+      <ul>
+        <li>Bacterial infection Raw meat and eggs are more susceptible to carrying germs and bacteria such as salmonella or E.coli that could make your dog unwell.</li>
+        <li>Riskier to humans Handling so much raw meat, organs and bones at home is also more of a danger to the humans living in your household. Infected dog poops are also a risk to whoever picks up after your dog.</li>
+        <li>Not as reliable, nutritionally High-quality commercial dog food is created specifically to provide your dog with all the vitamins, minerals and nutrients they need for a healthy diet, while a raw food diet involves more guesswork and manual labour.</li>
+        <li>Sharp or shattered bones We know a dog chewing on a raw bone is a very familiar image to us - however if they’re not used to it, your domesticated pooch could cut themselves while munching on sharp or shattered bone parts, or could swallow pieces that cause internal injury.</li>
+      </ul>
+      <h2 id="Raw vs wet dog food">Raw vs wet dog food</h2>
+      <p>So if you were considering a raw food diet for your dog - how does it hold up against high-quality commercial wet dog food? Here are some of the pros and cons of wet and dry dog food when compared against each other.</p>
+      <p>Pros & Cons of Raw Food for Dogs:</p>
+      <p>Pros of raw food for dogs</p>
+      <ul>
+        <li>Interesting to eat</li>
+        <li>Diverse in texture and flavour</li>
+        <li>Completely natural ingredients</li>
+        <li>Lots of physical benefits (advocates claim shiny coat and good skin, boosted energy and better digestion)</li>
+        <li>Free of grain-based carbohydrates, which are often difficult for dogs to digest</li>
+      </ul>
+      <p>Cons of raw food for dogs</p>
+      <ul>
+        <li>Difficult to source and portion</li>
+        <li>Harder to make nutritionally balanced</li>
+        <li>More likely to carry harmful bacteria</li>
+        <li>More likely to spoil than commercial food</li>
+        <li>Can easily contaminate other food/people</li>
+        <li>Bones can cause injury</li>
+        <li>Store-bought raw food is very expensive</li>
+      </ul>
+      <p>Pros & Cons of Wet Dog Food:</p>
+      <p>Pros of wet food for dogs</p>
+      <ul>
+        <li>Pleasant texture and flavour with strong smell</li>
+        <li>Unlikely to spread harmful bacteria</li>
+        <li>Easy to store (doesn't need freezing/separating)</li>
+        <li>Safer on dog’s teeth</li>
+        <li>High-quality wet food is designed to provide a well-balanced, nutritious diet for dogs</li>
+        <li>Cheaper than branded raw food for dogs</li>
+        <li>Grain-free wet dog food has the same low-carb benefits of raw food</li>
+      </ul>
+      <p>Cons of wet food for dogs</p>
+      <ul>
+        <li>Smell could be seen as unpleasant</li>
+        <li>Messier than dry food, though perhaps not as messy as raw food</li>
+        <li>Not as diverse in texture or taste as raw food diet</li>
+      </ul>
+      <h2 id="Raw vs dry dog food">Raw vs dry dog food</h2>
+      <p>Now here are the pros and cons of dry dog food against raw food for dogs…</p>
+      <p>Pros & Cons of Dry Dog Food</p>
+      <p>Pros of dry dog food</p>
+      <ul>
+        <li>High quality dry dog food is nutritionally dense and well balanced</li>
+        <li>Easy to portion and store</li>
+        <li>Dogs like the taste and respond well to the routine sameness</li>
+        <li>Extremely safe to consume and store</li>
+        <li>Very economic; cheaper than raw food</li>
+        <li>Grain-free dry dog food has the same low-carb benefits of raw food</li>
+      </ul>
+      <p>Cons of dry dog food</p>
+      <ul>
+        <li>Not as exciting texture or flavour as raw food</li>
+        <li>To some, it may appear more ‘processed’ than raw food (though high-quality dry food, such as Pooch & Mutt’s dry dog food range, goes through a gentle cooking and compressing process with no added preservatives)</li>
+      </ul>
+      <h2 id="What’s best raw vs wet vs dry food for dog">What’s best raw vs wet vs dry food for dog</h2>
+      <p>To make it easier for you to make a decision for you and your dog, let's roundup with a quick summary of what we’ve found.</p>
+      <ul>
+        <li>Advocates for a raw food diet for dogs hail its health benefits; saying it boosts skin and coat condition, improves digestive issues, makes healthier poops and increases energy.</li>
+        <li>Though it can be beneficial, it’s harder to balance the nutrients of raw food to ensure your dog is getting all the vitamins and minerals they need.</li>
+        <li>If you pick a great, high-quality brand, wet and dry dog food is guaranteed to be nutritionally balanced to keep your dog healthy and produces many of the same benefits as raw food.</li>
+      </ul>
+      <ul>
+        <li>Store-bought raw dog food is available but at the moment it’s very expensive.</li>
+        <li>Wet and dry dog food is cheaper and easier to source and store.</li>
+      </ul>
+      <ul>
+        <li>There is evidence to suggest that a raw food diet for dogs carries more risk, due to the harmful bacteria that can be carried in raw meat and eggs, and the cross-contamination that could occur with human food.</li>
+        <li>Wet and dry dog food is a lot safer in terms of risk of infection, and there is a very low chance of cross contamination with your family’s food.</li>
+      </ul>
+      <ul>
+        <li>Raw food for dogs contains a variety of exciting ingredients, textures and flavours.</li>
+        <li>Wet and dry food (particularly dry food) is less exciting on the palate in terms of taste and texture. However, dogs find it very tasty and respond well to sameness and routine.</li>
+      </ul>
+      <p>Your choice for your dog’s diet is a very personal one, and should be based on you and your dog’s habits and lifestyle. Whatever you choose, rest assured that Pooch & Mutt’s complete range of wet dog food and dry food for dogs contains a well-balanced variety of nutrients, vitamins and minerals to keep them as healthy as can be - it’s grain free, and it tastes great, too.</p>
+      <p>References</p>
+      <ul>
+        <li>‘The fecal microbiome and metabolome differs between dogs fed Bones and Raw Food (BARF) diets and dogs fed commercial diets’, 2018 - Journals, Plos One.</li>
+        <li>‘Feeding your pet a raw diet’ - PDSA.</li>
+        <li>‘Raw food diets in companion animals: a critical review’, 2011 - National Library of Medicine.</li>
+      </ul>
+`,
+  headings: [
+    { id: 'The Raw Food Diets For Dogs', text: 'The Raw Food Diets For Dogs', level: 2 },
+    { id: 'What is raw dog food?', text: 'What is raw dog food?', level: 3 },
+    { id: 'Is raw food good for dogs?', text: 'Is raw food good for dogs?', level: 3 },
+    { id: 'Disadvantages of raw food for dogs', text: 'Disadvantages of raw food for dogs', level: 3 },
+    { id: 'Raw vs wet dog food', text: 'Raw vs wet dog food', level: 2 },
+    { id: 'Raw vs dry dog food', text: 'Raw vs dry dog food', level: 2 },
+    { id: 'What’s best raw vs wet vs dry food for dog', text: 'What’s best raw vs wet vs dry food for dog', level: 2 },
+  ]
+},
+
+
+
+'what-are-the-best-dog-foods-for-different-sized-dogs': {
+  title: 'What are the best dog foods for different sized dogs?',
+  category: 'Pets',
+  snippet: "Small dogs benefit from nutrient-dense, smaller kibble, while large dogs need food that supports joint health and proper growth. Choose size-specific formulas for balanced nutrition.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/BEST-FOOD-FOR-DIFFERENT-SIZE-DOGS-MAIN-IMAGE_500x_crop_center.jpg?v=1679070900",
+    alt: "What are the best dog foods for different sized dogs?",
+    caption: "Choosing the right dog food for your sizebreed"
+  },
+  content: `
+<p>We’ve found that most dog parents tend to have strong opinions over which is the ‘perfect sized’ dog…</p>
+      <p>Small breed dog owners like the compact cuddliness of a Shih Tzu or Toy Poodle; those drawn to medium-sized dogs appreciate the high-energy, family-oriented nature of a Cocker Spaniel or Border Collie, whereas lovers of large dogs, like a Doberman, enjoy a pooch that’s huge and powerful on the outside, and a big softie on the inside.</p>
+      <p>Whatever the size of your doggy companion, it’s important that they’re fed the right food based on whether they’re large, medium or small - as it’s actually not as simple as feeding less or more. Read on for our guide to feeding your dog the right food for their size.</p>
+      <h2 id="Choosing the right dog food for your sizebreed">Choosing the right dog food for your sizebreed</h2>
+      <p>There are some logical differences in food for small dogs and food for large dogs - such as the size of kibble pieces. Smaller dogs will require food that actually fits in their mouths and is somewhat easier to chew, whereas larger dogs, in contrast, will require a larger volume of food per meal.</p>
+      <p>Less obvious differences, however, are in nutritional content. Did you know that smaller dogs require a higher number of proteins and fats than larger dogs, for instance?  In this respect, it’s super important to research which food suits your particular dog breed before you raid the pet food aisle.</p>
+      <h2 id="Best dog food for small dogs">Best dog food for small dogs</h2>
+      <p>Not only does your pint-sized pooch have a penchant for lap snuggles and window yapping, but they have special dietary requirements, too.</p>
+      <p>Small dogs need high-quality proteins and fats in their dog food. This is because due to their smaller stomachs, they digest the small amounts of food more quickly, therefore the food they do eat needs to contain a more condensed level of nutrients than dogs with larger stomachs and bodies.</p>
+      <p>The best food for small dogs will contain a complex matrix of proteins, fats, vitamins and minerals, and in some cases will have a higher rate of digestibility than food larger dogs eat. As small dogs are more prone to allergies, choosing a tasty grain-free dog food is also a sensible idea.</p>
+      <p>The portion size of each of your dog’s meals will also be smaller, but how much will be dependent on size, breed and whether your dog is particularly active. Check with your vet for personal recommendations.</p>
+      <h3 id="Should I feed my small dog food for puppies?">Should I feed my small dog food for puppies?</h3>
+      <p>The short answer is no. Puppies and small dogs may be similar sizes, but they have very different dietary requirements - so don’t feed puppy food to small dogs and think it should suffice (and vice versa).</p>
+      <h3 id="What is the best dog food for French Bulldogs?">What is the best dog food for French Bulldogs?</h3>
+      <p>As a very cute small dog, a Frenchie will need a munchable food packed with goodness and high protein. Pooch & Mutt’s Complete Superfood for Small Dogs comes in small pieces for miniature mouths, and has lots of lean chicken alongside kale, spinach and cranberries for added vitamins and antioxidants. As French Bulldogs can be susceptible to sensitive tums, the added prebiotics in this superfood will also help keep their gut healthy.</p>
+      <h3 id="What is the best dog food for Poodles?">What is the best dog food for Poodles?</h3>
+      <p>All sizes of Poodle need nutrient dense, tasty food brimming with healthy ingredients - but they can be prone to skin and coat allergies. Pooch & Mutt’s Soft & Shiny Dry Food for dogs contains fresh ingredients such as herring, packed with the vital fatty acids needed to soothe and protect your poodle’s sensitive skin.</p>
+      <h2 id="Best dog food for medium sized dogs">Best dog food for medium sized dogs</h2>
+      <p>Next it’s the classic medium-sized furry friend - one that bounds into your living room, flops down onto your bed and takes up a full seat in the car just like humans do.</p>
+      <p>A medium-sized dog needs a standard sized portion of food to remain full each day. Though they don’t need the fatty, meat-dense diet that small dogs do, they do need a complex range of nutrients and enough energy to power their slightly bigger, physically stronger bodies through the day.</p>
+      <h3 id="What is the best dog food for Cocker Spaniels?">What is the best dog food for Cocker Spaniels?</h3>
+      <p>A beautiful breed that’s a family favourite, a Cocker Spaniel should eat a well-balanced, high-quality dog food intended for adult dogs, containing delicious meat or fish plus fruit and veggies to sustain their high energy levels. Pooch & Mutt’s Adult Complete Superfood is a great choice. Be aware that if your Cocker Spaniel is a working dog, it will require a different diet again.</p>
+      <h3 id="What is the best dog food for Basset Hounds?">What is the best dog food for Basset Hounds?</h3>
+      <p>Your trusty Basset Hound is another medium-sized dog needing a meal packed with complete nutrition. If your dog prefers wet food, Pooch & Mutt’s Turkey & Duck Wet Food is packed with premium quality meat cuts and fresh, fibrous veggies to have your pooch feeling happy and healthy all day long.</p>
+      <h2 id="Best dog food for large dogs">Best dog food for large dogs</h2>
+      <p>The big boys and girls are up next. Large and giant dogs are usually as loyal and lovable as they are huge, and with such big skeletons, they need special diets in order to function properly for as long as possible.</p>
+      <p>Large and giant dogs have shorter life spans than medium and small dogs - sometimes as little as seven years - and can suffer with joint problems relatively soon in their lives. Pick a food for large dogs with added supplements such as glucosamine, to give their hard-working joints as much strength as possible.</p>
+      <p>Of course, a large dog needs a large meal to stay full all day long. The amount you feed your giant pooch will depend on their size, breed and activity level, so check with your vet for specifics over portion sizes.</p>
+      <h3 id="What is the best dog food for German Shepherds?">What is the best dog food for German Shepherds?</h3>
+      <p>An alert and energetic German Shepherd needs a lot of exercise to feel satisfied, and their bodies can take a lot of strenuous activity. Because of their athleticism, they’re prone to joint issues such as hip or elbow dysplasia. Try adding a glucosamine supplement for dogs such as Pooch & Mutt Mobile Bones to increase the strength in their joints and bones.</p>
+      <h3 id="What is the best dog food for labradors?">What is the best dog food for labradors?</h3>
+      <p>Labradors are popular for a reason - they’re lovable and extremely loyal, not to mention excellent assistance dogs. They’re more prone to weight gain than other dogs, however, so will benefit from a lean diet packed with nutrients, vitamins and minerals.</p>
+      <p>If your Lab tends to carry extra weight, Pooch & Mutt’s Slim & Slender Dry Food contains lots of lean chicken to boost metabolism, as well as glucosamine to aid your lovely Lab’s joints (which tend to ache a little more under excess weight gain).</p>
+      <p>If you’re still unsure which kind of food your dog would benefit from most - know that so long as you’re feeding them a balanced, high-quality diet packed with meat, fruit and veggies, you’re off to a great start!</p>
+      <p>To be more specific over your dog’s needs based on their size and breed, why not try the ‘Find Your Food’ feature on the Pooch & Mutt website to see which of our all-natural dog food is perfect for you.</p>
+`,
+  headings: [
+    { id: 'Choosing the right dog food for your sizebreed', text: 'Choosing the right dog food for your sizebreed', level: 2 },
+    { id: 'Best dog food for small dogs', text: 'Best dog food for small dogs', level: 2 },
+    { id: 'Should I feed my small dog food for puppies?', text: 'Should I feed my small dog food for puppies?', level: 3 },
+    { id: 'What is the best dog food for French Bulldogs?', text: 'What is the best dog food for French Bulldogs?', level: 3 },
+    { id: 'What is the best dog food for Poodles?', text: 'What is the best dog food for Poodles?', level: 3 },
+    { id: 'Best dog food for medium sized dogs', text: 'Best dog food for medium sized dogs', level: 2 },
+    { id: 'What is the best dog food for Cocker Spaniels?', text: 'What is the best dog food for Cocker Spaniels?', level: 3 },
+    { id: 'What is the best dog food for Basset Hounds?', text: 'What is the best dog food for Basset Hounds?', level: 3 },
+    { id: 'Best dog food for large dogs', text: 'Best dog food for large dogs', level: 2 },
+    { id: 'What is the best dog food for German Shepherds?', text: 'What is the best dog food for German Shepherds?', level: 3 },
+    { id: 'What is the best dog food for labradors?', text: 'What is the best dog food for labradors?', level: 3 },
+  ]
+},
+
+
+
+'dog-stopped-eating-dry-food-make-more-appealing': {
+  title: 'Dog Stopped Eating Dry Food? How to Make It More Appealing…',
+  category: 'Pets',
+  snippet: "To make dry food more appealing, add a bit of wet food, warm water, or low-sodium broth to enhance the smell and taste. Gradually mix the new food to help transition.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/OFF-DRY-FOOD-BLOG-1_500x_crop_center.jpg?v=1678977984",
+    alt: "Dog Stopped Eating Dry Food? How to Make It More Appealing…",
+    caption: "Why has my dog stopped eating dry food?"
+  },
+  content: `
+<p>If your pooch is a crunchy kibble kinda dog but suddenly turning their nose up at their usual mealtime fare, it’s time to get curious. Could they have chowed down on too many leftovers or treats lately? Has their usual routine been somewhat disrupted?</p>
+      <p>In any case, to get your dog to resume their eating routine, you may have to try a few sneaky ways to make their dry food more appetising. Try our easy methods below to get your picky pooch back to craving that kibble.</p>
+      <h2 id="Why has my dog stopped eating dry food?">Why has my dog stopped eating dry food?</h2>
+      <p>Before you do anything else, investigate why your dog is suddenly off their kibble. They could be trying diva tactics, perhaps because they’ve had a glut of delicious table scraps lately and think abstaining from their usual fare will have more showing up in the bowl.</p>
+      <p>Of more concern, they could be suffering from an illness, such as doggy gastroenteritis or digestive issues. Consider all the reasons your dog may not be hungry, and take them to the vet if you think it’s more than a simple preference issue.</p>
+      <h2 id="Dog stopped eating dry food but eats wet food">Dog stopped eating dry food but eats wet food</h2>
+      <p>If your pooch has developed a taste for wet food, this isn’t surprising - many dogs prefer the texture, flavour and smell of wet dog food. There are tons of reasons you may prefer a dry food diet for your dog, though - from its highly condensed nutrient content to the fact that it’s easier to portion and usually more economical than wet food.</p>
+      <p>If this is the case, your best option is to boost the sensory appeal of your dog’s dry food so that they find it worth that extra sniff.</p>
+      <h2 id="Can I mix wet food and dry dog food together?">Can I mix wet food and dry dog food together?</h2>
+      <p>Some stubborn dogs just won’t be satisfied until they get their paws on the sloppy stuff. To lure them back to the bowl, try adding a few spoons of wet food and dry food together. Be sure the dry pieces are stirred in well, or your pooch may pick out the wet chunks and leave the rest. Then, with each mealtime, reduce the amount of wet food you’re adding to the bowl. Over time, your dog should hopefully be eating dry food again without realising.</p>
+      <h2 id="How to make dry dog food more appealing">How to make dry dog food more appealing</h2>
+      <p>Though the benefits of dry dog food are many, it can become a tad uneventful to dogs who have had a taste of wetter, more flavourful stuff. The key to making dry food interesting again is to amp up its texture, smell or flavour.</p>
+      <h2 id="How do I get my dog to eat kibble?">How do I get my dog to eat kibble?</h2>
+      <p>Follow the easy steps below to make your dog’s kibble too good to pass up:</p>
+      <h3 id="Check for freshness">Check for freshness</h3>
+      <p>First up, think back to when this particular bag of dry food was opened. Once the seal is broken a bag of kibble will start to spoil in two to three weeks, and unsurprisingly, stale food is as offensive to dogs’ taste buds as it is to humans’. Try cracking open some fresh dry food and see if that solves the problem.</p>
+      <h3 id="Mix dry dog food with other ingredients">Mix dry dog food with other ingredients</h3>
+      <p>If you’ve established that your dog’s kibble isn’t stale but fresh and crunchy, the next option is to introduce some wet ingredients. There are plenty of delicious additions to dry food that will elevate its aroma and flavour…</p>
+      <h4>Gravy</h4>
+      <div>As we humans know well, there’s nothing like a splash of gravy to transform a dry meal into a magnificent feast. Mix a drop of low-sodium gravy (containing no added extras like herbs or onion) and drizzle it onto the kibble.</div>
+      <h4>Yoghurt</h4>
+      <div>A lot of dogs love yoghurt, and it can have health benefits if  you pick the right kind. Choose a yoghurt designed for dogs and stir it in well  with the dry food.</div>
+      <h4>Broth</h4>
+      <div>A healthy way to soften your dog’s kibble is to mix it with some low-sodium chicken broth - it will smell tastier, too. Test the temperature first so that it’s not too hot, as a burnt tongue definitely won’t win your dog over.</div>
+      <h3 id="Egg">Egg</h3>
+      <div>Add interest and a dash of extra protein to your dog’s food with some scrambled or chopped, hard-boiled egg.</div>
+      <h4>Veggies</h4>
+      <div>A few fresh veggies should stoke your dog’s curiosity. Stir some boiled broccoli, carrots or sweet potato into the dry food pieces.</div>
+      <h4>Wet dog food</h4>
+      <div>As mentioned above, if your dog is adamant that they want wet food, mix the two types together. Day by day, you can slowly reduce the ratio of wet-to-dry food until they’re back to a fully dry food diet again.</div>
+      <h3 id="Salmon Oil">Salmon Oil</h3>
+      <div>Pooch & Mutt's Salmon Oil can be used as an additional nutritional topper and has many health benefits. It is the easy way to add Omega 3, 6 and 9 into your dog's diet which are essential for skin and coat quality, cardiovascular/ heart health, immune response, cognitive/ brain function and joint function/ mobility. Plus as an added extra, it will make the food smell a lot more appealing so could get them chowing down more.</div>
+      <h2 id="Can you add water to dry dog food?">Can you add water to dry dog food?</h2>
+      <p>Yes - adding water is the easiest thing to try if your dog won’t eat their kibble/ dry dog food. Pour a small amount of warm (not boiling hot) water into the pieces to get your dog interested again. The wetness will give the pieces a juicier texture, not to mention release all those meaty flavours and smells to grab your dog’s attention.</p>
+      <h2 id="Try a new range of dry dog food">Try a new range of dry dog food</h2>
+      <p>It’s always worth testing a new brand of dry food if your dog doesn’t seem to be enjoying your current choice. Many dry dog food brands contain filler ingredients alongside a low meat content, meaning not only is the texture uninteresting, your pooch isn’t gaining much nutritional benefit either.</p>
+      <p>Choose a high-quality dry food to boost the likelihood of your dog loving the taste and staying interested. Pooch & Mutt dry dog food, for example, is grain-free with tasty, natural ingredients such as turkey, salmon and sweet potato to get them happily munching away on the daily.</p>
+      <p>If you’d like to try a tasty dry dog food packed full of natural, nutritious ingredients that will keep your dog healthy and happy from the inside out, try Pooch & Mutt’s range of grain-free dry dog food.</p>
+`,
+  headings: [
+    { id: 'Why has my dog stopped eating dry food?', text: 'Why has my dog stopped eating dry food?', level: 2 },
+    { id: 'Dog stopped eating dry food but eats wet food', text: 'Dog stopped eating dry food but eats wet food', level: 2 },
+    { id: 'Can I mix wet food and dry dog food together?', text: 'Can I mix wet food and dry dog food together?', level: 2 },
+    { id: 'How to make dry dog food more appealing', text: 'How to make dry dog food more appealing', level: 2 },
+    { id: 'How do I get my dog to eat kibble?', text: 'How do I get my dog to eat kibble?', level: 2 },
+    { id: 'Check for freshness', text: 'Check for freshness', level: 3 },
+    { id: 'Mix dry dog food with other ingredients', text: 'Mix dry dog food with other ingredients', level: 3 },
+    { id: 'Egg', text: 'Egg', level: 3 },
+    { id: 'Salmon Oil', text: 'Salmon Oil', level: 3 },
+    { id: 'Can you add water to dry dog food?', text: 'Can you add water to dry dog food?', level: 2 },
+    { id: 'Try a new range of dry dog food', text: 'Try a new range of dry dog food', level: 2 },
+  ]
+},
+
+
+
+'what-best-food-dogs-with-sensitive-stomachs': {
+  title: 'What is the best food for dogs with sensitive stomachs?',
+  category: 'Pets',
+  snippet: "Dogs with sensitive stomachs benefit from easily digestible foods with limited ingredients, such as chicken and rice, or specialized sensitive stomach formulas.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/BEST-FOOD-FOR-SENSITIVE-STOMACH-BLOG-1_500x_crop_center.jpg?v=1678812781",
+    alt: "What is the best food for dogs with sensitive stomachs?",
+    caption: "What causes dogs’ sensitive stomachs?"
+  },
+  content: `
+<p>Sometimes it seems like dogs will eat pretty much anything they can land their snouts on, but that definitely doesn’t mean that they should. Though many pooches have turbo guts that can withstand all manner of meats and treats, others have sensitive stomachs that require a little more TLC when it comes to diet.</p>
+      <p>Read on to understand what causes a sensitive stomach in dogs and what gut-friendly foods will ease their tummy issues.</p>
+      <h2 id="What causes dogs’ sensitive stomachs?">What causes dogs’ sensitive stomachs?</h2>
+      <p>You may hear that your neighbour’s pooch has the bowel regularity of a vegan athlete and wonder ‘But why does my dog have such a sensitive stomach?’ There are plenty of causes, and though many of them are preventable, sometimes it’s simply your dog’s genes and nothing to be ashamed of or panicked about (keep reading for a list of dog breeds prone to tummy issues).</p>
+      <h3 id="Diet">Diet</h3>
+      <p>Naturally, the first consideration is your dog’s daily food. Does your pooch eat a lot of human leftovers, a glut of treats each day, or any sugary, creamy or overly fatty foods? Then it stands to reason that they’d suffer from stomach aches, gassiness and dodgy poops quite often. Aside from this, it could be that dogs on a wet food diet could benefit more from dry food, or perhaps they’re on a grain-heavy or raw food diet that doesn’t suit the way their particular gut functions. See also: food allergies (further in the article).</p>
+      <h3 id="Hazards at home">Hazards at home</h3>
+      <p>Before you point the finger at your dog’s food bowl, consider what else in the house your dog could be ingesting. Ensure all human food is out of reach, cleaning and laundry products are in secure cupboards, and that your dog has no access to the tools, screws and toxic substances you may keep in the garden, garage or shed. Also, keep the toilet seat down between uses - as to a dog, any water is for drinking.</p>
+      <h3 id="Sickness">Sickness</h3>
+      <p>Your pooch may have eaten something they shouldn’t have from around the house or even just some spoiled food - and then contracted a stomach bug such as gastroenteritis. This occurs when harmful bacteria in the stomach causes bouts of vomiting and diarrhoea in your dog and they can’t keep their food down. There are other causes of gastroenteritis in dogs; so keep a close eye on them, and take them to a vet immediately if symptoms seem severe.</p>
+      <h3 id="Allergies">Allergies</h3>
+      <p>Dogs with food allergies are prone to stomach sensitivity, meaning certain foods will trigger an undesirable physical reaction. Common food allergies in dogs include grain, dairy and wheat, and could result in your dog getting itchy skin, bloatedness, gas, diarrhoea, vomiting or nausea. You may need to put your dog on a stripped back diet to identify the triggering culprit.</p>
+      <h3 id="Stress">Stress</h3>
+      <p>Believe it or not, stomach sensitivity is directly linked to mood and behaviour in dogs and vice versa, due to the strength of the gut-brain axis. This means a pooch that suffers from stress and anxiety is more likely to have a delicate tum and toilet issues. Doing all you can to reduce your dog’s anxiety and stress levels could help.</p>
+      <h2 id="Dog breeds prone to sensitive stomachs">Dog breeds prone to sensitive stomachs</h2>
+      <p>Sadly not all dog breeds are created equal when it comes to tummy trouble - there are some that are more prone to sensitive stomachs than others. Boxers, Shih Tzus, Labradors, Great Danes and Yorkshire Terriers are a few examples; however any dog can suffer from a sensitive stomach.</p>
+      <h2 id="Best dog food for sensitive stomachs">Best dog food for sensitive stomachs</h2>
+      <p>Once you’ve identified your pooch has a sensitive stomach, your first port of call should be to opt for food that’s easy for dogs to digest. Some helpful ingredients could include:</p>
+      <ul>
+        <li>Fish, such as cod or herring</li>
+        <li>White or sweet potato</li>
+        <li>Pumpkin</li>
+        <li>Lean chicken</li>
+        <li>Broth</li>
+        <li>‘Single protein’ dog food</li>
+        <li>Grain-free dog food</li>
+      </ul>
+      <h3 id="Best dog food for sensitive stomach and diarrhoea">Best dog food for sensitive stomach and diarrhoea</h3>
+      <p>Using a combination of the ingredients above, you can feed your dog meals that are very easy on their digestive system and won’t exacerbate symptoms such as stomach pain or diarrhoea. Natural, sensitive stomach dog food  would help as it's that’s both gentle and tasty, and will stop diarrhoea symptoms promptly. See also: probiotics (further in the article).</p>
+      <h3 id="Is grain-free dog food better for sensitive stomachs?">Is grain-free dog food better for sensitive stomachs?</h3>
+      <p>Though lots of dog owners feed their pooch rice and chicken when they’ve been unwell, many vets will recommend a grain-free diet when a dog is suffering from a stomach bug. This is because grain is a common food allergy in dogs and so might trigger a secondary reaction - the last thing your pooch needs when battling a dodgy tum.</p>
+      <p>At Pooch & Mutt our natural food for dogs is entirely grain-free, instead made up of healthy proteins, fruit, vegetables and supplements. Our grain free dog food is intended for maximum tastiness and health benefits, while carrying a much lower risk of an allergic reaction.</p>
+      <h3 id="Do probiotics help dogs with sensitive stomachs?">Do probiotics help dogs with sensitive stomachs?</h3>
+      <p>Sure do! Probiotics provide a helpful boost of the ‘friendly bacteria’ in your dog’s gut microbiome, ensuring their stomach and digestive tract is balanced and well-functioning. At Pooch & Mutt, we’re big believers in the positive ways probiotics help dogs with sensitive stomachs - and they’re easily included in your dog’s diet, either as part of your dog’s food or as a supplement.</p>
+      <p>Specific probiotics are especially important for rebalancing your dog’s gut bacteria after a bout of sickness, diarrhoea or antibiotics, and to get them back to tail-wagging shape in a much shorter time.</p>
+      <h3 id="Senior dog food for sensitive stomachs">Senior dog food for sensitive stomachs</h3>
+      <p>Dogs with advancing years will often develop stomach sensitivity, and just like humans, will find certain foods harder to digest than when they were young.</p>
+      <p>To ensure your beloved senior pooch receives a diet that offers lots of health benefits, is gentle on the stomach but still tasty, you can opt for a specially formulated, hypoallergenic dog food for senior dogs, plus a range of useful supplements. Salmon oil is a great option for all-round health benefits, glucosamine can help ease sore or ageing joints, and a multibiotic supplement will encourage healthy gut and bowel function.</p>
+      <p>Whatever the reason your dog has a sensitive tum, by packing their diet with a combo of digestible ingredients, probiotics and supplements, they’ll be as energised, happy and healthy as the dog next door.</p>
+      <p>Get in touch with Pooch & Mutt for more information about what to feed a dog with digestion issues, and check out our range of tasty, all-natural dog food for sensitive stomachs.</p>
+      <section>References</section>
+`,
+  headings: [
+    { id: 'What causes dogs’ sensitive stomachs?', text: 'What causes dogs’ sensitive stomachs?', level: 2 },
+    { id: 'Diet', text: 'Diet', level: 3 },
+    { id: 'Hazards at home', text: 'Hazards at home', level: 3 },
+    { id: 'Sickness', text: 'Sickness', level: 3 },
+    { id: 'Allergies', text: 'Allergies', level: 3 },
+    { id: 'Stress', text: 'Stress', level: 3 },
+    { id: 'Dog breeds prone to sensitive stomachs', text: 'Dog breeds prone to sensitive stomachs', level: 2 },
+    { id: 'Best dog food for sensitive stomachs', text: 'Best dog food for sensitive stomachs', level: 2 },
+    { id: 'Best dog food for sensitive stomach and diarrhoea', text: 'Best dog food for sensitive stomach and diarrhoea', level: 3 },
+    { id: 'Is grain-free dog food better for sensitive stomachs?', text: 'Is grain-free dog food better for sensitive stomachs?', level: 3 },
+    { id: 'Do probiotics help dogs with sensitive stomachs?', text: 'Do probiotics help dogs with sensitive stomachs?', level: 3 },
+    { id: 'Senior dog food for sensitive stomachs', text: 'Senior dog food for sensitive stomachs', level: 3 },
+  ]
+},
+
+
+
+'working-dog-feeding-guide': {
+  title: 'What to feed a working dog? A nutrition guide',
+  category: 'Pets',
+  snippet: "Feed working dogs a high-protein diet with sufficient fat and carbohydrates to fuel energy needs. Choose food that supports joint health and maintains stamina.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/WORKING-DOG-BLOG-1_500x_crop_center.jpg?v=1671616073",
+    alt: "What to feed a working dog? A nutrition guide",
+    caption: "What are working dogs?"
+  },
+  content: `
+<p>Are you the proud owner of a working dog? Whether it’s a farmhand Border Collie or a sled-hauling Siberian Husky by your side, you’ll understand just how important it is that these dogs are able to sustain the amount of exercise that their job requires.</p>
+      <p>Your dog works their tail off all day - so in return, you’ll want to power them up with the right fuel to keep them going! The thing is, there’s a knack to picking the best food for working dogs, as the wrong kind might cause them to slow down, crash in energy or feel fuzzy-minded or nauseous while on duty.</p>
+      <p>In this post, we’ll explain how you can hone your working dog’s diet to keep them happy, healthy and performing at their best each day.</p>
+      <h2 id="What are working dogs?">What are working dogs?</h2>
+      <p>Your furry friend can be called a working dog if it has a specific purpose in your life aside from just snuggling, playing and going for walks. This could include a dog that goes hunting, herds sheep on a farm, is part of a police force, a racing dog, a rescue dog, or assists those with mobility issues. Specific breeds are more commonly used as working dogs, such as:</p>
+      <p>Akita</p>
+      <p>Border Collie</p>
+      <p>Boxer</p>
+      <p>Bullmastiff</p>
+      <p>Great Dane</p>
+      <p>Rottweiler</p>
+      <p>Saint Bernard</p>
+      <p>Siberian Husky</p>
+      <p>Swiss Mountain Dog</p>
+      <p>These kinds of dogs tend to have strong bodies well suited to endurance, and so long as they’re well-fed and physically healthy, can display impressive levels of stamina and agility.</p>
+      <h2 id="What should I feed my working dog?">What should I feed my working dog?</h2>
+      <p>It makes sense that a dog whose day-to-day is made up of intense physical activity needs to fuel their body with a generous amount of high-quality, high-energy dog food, but what makes up the ingredients of that food is hugely important.</p>
+      <p>If you were going to run a marathon, you’d want to fill up on calorific yet slow-burning foods that aren’t full of preservatives or sugar that would cause your energy to crash prematurely. You’d also want to recover well when your body is at rest. As working dogs get a long workout every day, their needs are the same - except a dog’s body is able to oxidise fat at a much greater capacity than a human’s (1).</p>
+      <p>For that reason, working dogs benefit the most from food containing a whole protein for muscle-building and recovery - such as turkey or lamb, or another form of meat, poultry or fish - and food with a higher fat and calorie content than normal dog food, to ensure slow-released energy and endurance (2). In high-quality food for working dogs there is usually a healthy mix of vegetables, herbs and complex carbohydrates included as well for those essential vitamins and minerals.</p>
+      <h3 id="What’s the difference between working dog food and normal dog food?">What’s the difference between working dog food and normal dog food?</h3>
+      <p>The main differentiator of food for working dogs versus normal dogs should be the higher fat, calorie content and level of protein for long-term energy release and muscle-building. It can also change a lot depending on the brand; commercial dog foods are more likely to use filler ingredients and have a lower protein percentage than brands which use all-natural, whole foods - whether they’re intended for working dogs or not.</p>
+      <h3 id="Can my working dog eat normal dog food?">Can my working dog eat normal dog food?</h3>
+      <p>Your working dog can eat regular dog food without being harmed, especially if the food is of high quality and made with whole food sources. However, a working dog expends vast amounts of calories per day and will wear out a lot sooner without the optimal calorie and fat content needed to sustain them.</p>
+      <p>To keep your hard-working dog sharp, fast and energised for the full day, it would be of most benefit to feed them a diet that’s been designed specifically to keep them going all day long! Food designed for working dogs will ensure they can happily stay active for longer periods, and that their joints and muscles will be quicker to recover.</p>
+      <h3 id="Do working dogs need to follow a high protein diet?">Do working dogs need to follow a high protein diet?</h3>
+      <p>Protein is a key ingredient for dogs that spend their days extensively running, jumping and problem-solving. The main superpower of protein is its rich BCAA content - branched-chain amino acids. Amino acids make up the building blocks of protein and form the structure of new muscle tissue - which is vital for all dogs (and humans), but especially those who are highly active to support recovery and endurance. Importantly, amino acids can’t be produced by the body on its own, so must be sourced through a healthy, protein-rich diet.</p>
+      <h3 id="How often should working dogs eat?">How often should working dogs eat?</h3>
+      <p>A working dog should eat at least twice a day - but more importantly is when you feed them, as it should never be too soon before or after exercise. Allow 1-3 hours before and after exercise to feed them a well-rounded meal, or your poor pooch could end up with a bloated or ‘twisted’ stomach (like stitch), diarrhoea or other digestive issues.</p>
+      <p>Also be aware of what you’re feeding them outside of mealtimes. Just like us, spoiling their meals with high-sugar snacks or treats will hinder their performance when exercising and potentially cause weight gain. If you indulge your working dog with treats or sneak them table scraps, do it only on occasion so they’ll stay healthy, strong and lean - and happier, too.</p>
+      <h3 id="How much food should I feed my working dog?">How much food should I feed my working dog?</h3>
+      <p>When it comes to serving sizes, the amount of food your dog needs depends on how active they are. A working dog tends to eat around 1.5 to 2.5 times the amount of food that a regular dog eats, and if they often work in extreme hot or cold temperatures, that amount needs to increase even more.</p>
+      <p>Remember, a highly active dog needs to be well hydrated, too - so be sure they have easy access to lots of water.</p>
+      <h2 id="Do working dogs need supplements?">Do working dogs need supplements?</h2>
+      <p>Whilst not an essential step, there are ways you can supplement a working dog’s diet for that added health boost. Their body needs to recover and regenerate after all that strenuous activity, and by adding some choice ingredients to your dog’s meals, your working dog will have the best chance of performing at their best without burnout or injury for many years to come.</p>
+      <p>Glucosamine</p>
+      <p>Glucosamine is the ideal supplement for hard-working dogs whose joints and bones need to be at their strongest. Not only is it needed to form synovial fluid, a joint’s natural lubricant, it’s also vital in forming connective tissue in and around the joints and protecting them from wear and tear as well as the ageing process.</p>
+      <p>The best joint and bone supplements for dogs contain glucosamine alongside other key ingredients such as chondroitin and collagen, ideal for maintaining the movement and skeleton of a superdog.</p>
+      <p>Omega-3</p>
+      <p>A wonder supplement for working dogs, omega-3 supports cardiovascular and brain health and reduces post-run inflammation, which in turn can ease muscle pain and encourage tissue repair (3). For highly active dogs as well as pooches that use their brains all day (dogs for the blind, for instance), omega-3’s multiple benefits make it the ideal addition to a working dog’s food.</p>
+      <p>Oily fish such as salmon is an excellent source of omega-3 fatty acids, but if you struggle to incorporate this into your dog’s meals, an easily drizzled liquid form such as salmon oil is a great alternative.</p>
+      <p>Try our high-protein dog food or joint and bone supplements, perfect for working dogs - or to chat more about the best diet for your highly active pooch, get in touch with us today.</p>
+      <p>References</p>
+      <ol>
+        <li>‘The Nutritional Requirements of Exercising Dogs’, 1998 - The Journal of Nutrition.</li>
+        <li>‘The Animal Welfare Science of Working Dogs - Current Perspectives on Recent Advances and Future Directions’, 2021 - Frontiers in Veterinary Science, ResearchGate.</li>
+        <li>‘Therapeutic Effect of EPA/DHA Supplementation in Neoplastic and Non-neoplastic Companion Animal Diseases: A Systematic Review’, 2021 - National Library of Medicine</li>
+      </ol>
+`,
+  headings: [
+    { id: 'What are working dogs?', text: 'What are working dogs?', level: 2 },
+    { id: 'What should I feed my working dog?', text: 'What should I feed my working dog?', level: 2 },
+    { id: 'What’s the difference between working dog food and normal dog food?', text: 'What’s the difference between working dog food and normal dog food?', level: 3 },
+    { id: 'Can my working dog eat normal dog food?', text: 'Can my working dog eat normal dog food?', level: 3 },
+    { id: 'Do working dogs need to follow a high protein diet?', text: 'Do working dogs need to follow a high protein diet?', level: 3 },
+    { id: 'How often should working dogs eat?', text: 'How often should working dogs eat?', level: 3 },
+    { id: 'How much food should I feed my working dog?', text: 'How much food should I feed my working dog?', level: 3 },
+    { id: 'Do working dogs need supplements?', text: 'Do working dogs need supplements?', level: 2 },
+  ]
+},
+
+
+
+'best-quality-dog-foods-comparison': {
+  title: 'The Best Quality Dog Foods in the UK: A Nutritional Comparison',
+  category: 'Pets',
+  snippet: "The best quality dog foods in the UK feature high-quality meats as the first ingredient, no fillers, and balanced nutrition. Top brands include Orijen, Acana, and Royal Canin.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/NUTRITION-COMPARISON-BLOG-MAIN-IMAGE_500x_crop_center.jpg?v=1670585072",
+    alt: "The Best Quality Dog Foods in the UK: A Nutritional Comparison",
+    caption: "Best dry dog food"
+  },
+  content: `
+<p>When it comes to your pooch and their specific needs, how do you know which dog food is best? We get it - there are so many brands to compare, and it can be confusing knowing what to look for when it comes to ingredients. The pressure is even higher if your dog has a sensitive tummy or food allergy, or if they’re a puppy or senior.
+
+To save you the hard work, we’ve compared brands for you - and laid out the most important comparative factors when it comes to choosing food for your dog. With the help of our resident expert, Vet Linda, we picked a top-selling dog food brand for each food type - wet food, dry food, hypoallergenic food, and more - and analysed its nutritional information against a comparative product from our tasty Pooch & Mutt range.
+
+Read on to discover our findings and see what Vet Linda had to say about what’s most important when considering your dog’s food.</p>
+      <h2 id="Best dry dog food">Best dry dog food</h2>
+      <p>First up is Pedigree, one of the original and most well-known commercial dog food brands in the UK. We compared its dry dog food, Dry Vital, with Pooch & Mutt Complete Superfood.</p>
+      <p>An important thing to remember is that dogs require high quality protein for muscle repair, as well as a healthy coat and skin. For that reason, the best food would have a whole meat or fish as the first listed ingredient as a hallmark of a quality food.</p>
+      <b>Pedigree lists cereal as its first ingredient, compared to Pooch & Mutt’s Complete Superfood which lists chicken.</b>
+      <p>Next we compared meat percentage, as another hallmark of a high quality pet food is having a higher whole meat content.</p>
+      <b>Pooch & Mutt’s Complete Superfood contains 26% meat, while Pedigree contains a much lower 7.2%.</b>
+      <b>The meat in Pedigree’s Dry Vital is also ‘meat and animal derivatives’, which means it can contain things like feathers, beaks and bones.</b>
+      <p>Next, carb content. Remember, the recommended carbohydrate percentage in dog food is 20-45% - going higher than this risks weight gain in dogs, as well as making it harder for active dogs to build muscle. Dogs fed carb-rich diets also tend to pass more stools and experience more digestive problems and sluggishness.</p>
+      <b>Pedigree contains 82% carbohydrates - way over the recommended amount for adult dogs.</b>
+<b>Pooch & Mutt contains just over half the amount of carbs at 44.5%.</b>
+
+<div>
+  <p><b>Pedigree Dry Vital</b></p>
+  <p><b>Pooch & Mutt Complete Superfood</b></p>
+  
+  <p><b>Main Ingredient:</b></p>
+  <ul>
+    <li>Cereal</li>
+    <li>Chicken</li>
+  </ul>
+  
+  <p><b>Meat content:</b></p>
+  <ul>
+    <li>7.2%</li>
+    <li>26%</li>
+  </ul>
+
+  <p><b>Carb content:</b></p>
+  <ul>
+    <li>82%</li>
+    <li>44.5%</li>
+  </ul>
+</div>
+
+      <p>Vet Linda’s summary: The more nutritious dry dog food is quite clear in this comparison! Dogs require a high-meat diet to get the nutrients they need, and Pedigree’s focus on cereal and carbs alongside a very low meat content makes it a less favourable option.</p>
+      <h2 id="Best wet dog food">Best wet dog food</h2>
+      <p>Onto the chunky, jellified or gravy-drizzled slurp fest that defines the best wet dog food. For this important test we compared Lily’s Kitchen Fishy Fish Pie with Pooch & Mutt Fish, Potato & Pea Wet Food.</p>
+      <p>What’s the stickler here? The perfect wet dog food should contain enough nutritious ingredients to keep a dog physically happy and healthy, and traditionally it tends to be lower in fat than other kinds of dog food.</p>
+      <p>The first thing to note is that Lily’s Kitchen has similar brand values to Pooch & Mutt, which is reflected in its ingredients list.</p>
+      <b>Both products have a high protein content and contain natural, whole-food ingredients.</b>
+      <p>Onto fat content - a lower amount of fat keeps dogs lean, and is also great for dogs prone to pancreatitis, as high amounts of fat can trigger inflammation in the pancreas.</p>
+      <b>Lily’s Kitchen wet food has 6.9% fat content compared to Pooch & Mutt’s 2%.</b>
+      <p>Finally, what about those added health boosts? Probiotics and prebiotics are a dog owner’s secret weapon in keeping their dog’s gut biome balanced, as they support the essential ‘friendly bacteria’ a dog needs for smooth digestion and immune function.</p>
+      <b>While Lily’s Kitchen contains none, Pooch & Mutt’s Potato & Pea Wet Food contains added prebiotics to support a healthy gut.</b>
+      <div>Lily's Kitchen Fishy Fish Pie 
+Pooch & Mutt Fish Potato & Pea Wet Food
+Main Ingredient
+Natural, protein-rich
+ Natural, protein-rich
+Fat content
+6.9%
+2%
+Added prebiotics
+no
+yes</div>
+      <p>Vet Linda’s summary: A tough call here - both Pooch & Mutt and Lily’s Kitchen offer products with pleasingly high levels of protein and nutritious whole foods. But when it comes to extra health benefits, Pooch & Mutt just comes out top with its lower fat content and added prebiotic supplements.</p>
+      <h2 id="Best hypoallergenic dog food">Best hypoallergenic dog food</h2>
+      <p>Some dogs have strong stomachs, but others have allergies that can make them very ill - to grain, for example, which is a common food allergy for dogs. Pooch & Mutt’s all-natural product range is hypoallergenic for that reason.</p>
+      <p>But how does our food compare to a brand with the same focus? We compared Burns Wet Food in Free Range Chicken, with Pooch & Mutt Turkey & Duck Wet Food.</p>
+      <p>Firstly, both Burns and Pooch & Mutt options contain healthy, protein-rich ingredients to support muscle growth and recovery for a dog.</p>
+      <b>Pooch & Mutt just beats Burns for protein content, with 10.3% protein compared to Burns’ 6.5%.</b>
+      <p>A common allergy in dogs is grain, which is why most Pooch & Mutt dog food products are entirely grain-free.</p>
+      <b>Burns Wet Food contains brown rice, which could trigger an allergic reaction in dogs with a grain allergy.</b>
+      <p>Then comes those helpful, healthy supplements that really boost the effect of hypoallergenic dog food…</p>
+      <b>While Burns’ contains none, Pooch & Mutt’s food contains probiotics and prebiotics, essential for a dog’s healthy gut biome and for boosting digestion and immunity.</b>
+      <b>Bonus point: Pooch & Mutt’s option also contains yucca - a natural plant that improves the smell of your dog’s poop. Score!</b>
+      <div>Burns Chicken Wet Food
+Pooch & Mutt Turkey & Duck Wet Food
+Protein content
+6.5%
+10.3%
+Grain content
+Brown rice
+None
+Supplements
+None
+Probiotics & prebiotics</div>
+      <p>Vet Linda’s summary: Dogs with allergies must tread carefully around ingredients, so with its grain content, Burns Wet Food could be riskier than Pooch & Mutt’s. What’s more, Pooch & Mutt’s added probiotics and prebiotics provide an extra level of protection for an allergic dog’s delicate gut.</p>
+      <h2 id="Best dog food for sensitive stomachs">Best dog food for sensitive stomachs</h2>
+      <p>We could never forget our pooches with sensitive tums! These picky pups need food that’s specifically designed to aid digestion and gently support their delicate gut ecosystem; otherwise, they can suffer with frequent diarrhoea, constipation, bloatedness and/or smelly farts. Not a great time for the pooch… or the parent!</p>
+      <p>For this comparison, we studied Hill’s Science Plan Perfect Digestion Adult 1+ and Pooch & Mutt Health & Digestion Dry Dog Food.</p>
+      <p>What was our focus? The ideal food for dogs with sensitive tummies avoids too many carbs, as that can lead to obesity, diabetes and other chronic medical issues. Some nutritionists also advise against grains and wheat, as many dogs find them hard to digest (the opposite of what a gut-sensitive dog needs).</p>
+      <b>Hill’s option contains an excess of carbs in its ingredients list - including wheat, maize, rice and oats.</b>
+      <p>In reality, the best core ingredient for a gut-friendly dog food would be a whole, lean protein which helps build the dog’s digestive system with its anti-inflammatory effects.</p>
+      <b>In the Pooch & Mutt option, the main ingredient is salmon - a tasty and healthy lean protein that’s gentle on the tummy.</b>
+      <p>Put simply, a pooch with a sensitive tum needs dietary help to maintain a harmonious, balanced gut microbiome. A boost of probiotics and prebiotics helps support the ‘good bacteria’ in their gut, protecting their immunity and allowing proper nutrient absorption.</p>
+      <b>Pooch & Mutt Health & Digestion contains added prebiotics for a healthy gut, while the Hill’s Science option contains no source of prebiotics or probiotics.</b>
+      <b>The Pooch & Mutt food also has added yucca for reduced smelliness when your dog poops.</b>
+      <div>Hill's Science Plan Perfect Digestion Dry Food
+Pooch & Mutt's Health & Digestion Dry Food
+Main ingredient
+Maize & Wheat
+Salmon
+Grain free?
+No
+Yes
+Supplements
+None
+Prebiotics & Yucca</div>
+      <p>Vet Linda’s summary: Lots of dogs can digest all kinds of food, but if your dog has a sensitive stomach, you’ll want to be more careful and choose gentle, digestible ingredients. Pooch & Mutt opts for protein-rich salmon as its main ingredient over Hill’s Science high carb content - and with added supplements for a healthy gut, it’s absolutely a better choice.</p>
+      <h2 id="Best dog food for sensitive skin">Best dog food for sensitive skin</h2>
+      <p>Next up, dog foods for sensitive skin - for which we compared Royal Canin Skin Care with Pooch & Mutt Soft & Shiny Dry Dog Food.</p>
+      <p>One of the big perks of feeding your dog the right diet is that it can contribute to comfortable skin that’s free of itchiness and a smooth, shiny coat. Many dogs with sensitive skin have allergies - to grain or otherwise - so dog foods that contain grain will be riskier for them.</p>
+      <b>Royal Canin has maize, gluten and rice as its first three ingredients, when protein rather than carbs is of more benefit to a dog’s diet.</b>
+      <b>In comparison, Pooch & Mutt lists fresh herring, peas and fish protein as their top three ingredients.</b>
+      <p>Dogs with sensitive skin benefit from supplements for skin and hydration. Collagen as well as omega fatty acids are great examples of this.</p>
+      <b>Pooch & Mutt Soft & Shiny is a fish-based food, which contains a higher abundance of omega fatty acids to help reduce skin inflammation and prevent itchiness.</b>
+      <b>The Pooch & Mutt option also contains collagen, which provides support and structure to the skin and hydrates skin from the inside out.</b>
+      <div>Royal Canin Skin Care
+Pooch & Mutt's Soft & Shiny Dry Food
+Main ingredients
+Maize, glute, rice
+Herring, peas, fish protein
+Grain free?
+No
+Yes
+Supplements
+Omega fatty acids
+Collagen & Omega fatty acids</div>
+      <p>Vet Linda’s summary: Both foods contain omega fatty acids, great to reduce inflammation. However, a dog with sensitive skin often has allergies, so foods full of grains - such as Royal Canin’s - could be seen as riskier. The fresh, whole ingredients of Pooch & Mutt’s Soft & Shiny is much better suited to a dog’s natural diet.</p>
+      <h2 id="Best dog food for puppies">Best dog food for puppies</h2>
+      <p>Getting food right for young pups is super important - they need all the extra nutrients and whole foods they can get to develop strong bones and muscles as they rapidly grow. Alongside this, the right food needs to be gentle on their small, delicate tummies.</p>
+      <p>So how did Harrington’s Puppy food measure up to Pooch & Mutt Puppy Superfood?</p>
+      <b>The first ingredient in Harrington’s is ‘meat meal’ - a powder made from animal parts that humans don’t consume. As it’s created by rendering, this can affect nutrient bioavailability.</b>
+      <b>Pooch & Mutt’s main ingredient is chicken, followed by a list of whole foods such as sweet potato, spinach and peas.</b>
+      <p>It’s also key to know exactly what you’re feeding puppies, so that if they react badly to a meal, you can clearly read the label to investigate the ingredients.</p>
+      <b>The nutritional information of Harrington’s is vague - it’s unclear which meats are included. This means the contents could change over time and cause a reaction or digestive issues in your pup.</b>
+      <b>Pooch & Mutt’s ingredients are listed clearly with percentages.</b>
+      <p>Finally, puppies’ allergies won’t be known this early - so you may run the risk of triggering a grain-allergy with the wrong food.</p>
+      <b>Harrington’s contains wheat, oats and maize, which some puppies may react to poorly.</b>
+      <b>Pooch & Mutt’s food is grain-free and contains only lean proteins, vegetables, plants and fruit.</b>
+      <div>Harrington's Puppy Food
+Pooch & Mutt's Puppy Superfood
+Main ingredient
+'Meat meal'
+Chicken
+Grain free?
+No
+Yes
+Label clarity
+Vague, unclear
+Clear with percentages</div>
+      <p>Vet Linda’s summary: It’s always alarming when nutritional information is vague and unclear - especially when you’re feeding puppies with delicate digestive systems. Pooch & Mutt’s clearly listed ingredients and higher meat content make it a much safer option for growing pups. The same guidance applies for any dog food.</p>
+      <h2 id="Best dog food for seniors">Best dog food for seniors</h2>
+      <p>To finish off our comparative super-study, we looked at Bakers Senior with Chicken compared to Pooch & Mutt Senior Complete Superfood.</p>
+      <p>Much like puppies, senior dogs need special care when being fed - their diets must be gentle on the stomach yet full of whole ingredients to keep them nourished, lean and spritely in this late stage of life.</p>
+      <b>Bakers contains a very low proportion of meat at 5.1%, compared to 33.5% in Pooch & Mutt. Bakers meat is also not clearly labelled, and listed as ‘Meat and animal derivatives’.</b>
+      <b>In comparison, Pooch & Mutt contains around a third protein, mostly from chicken.</b>
+      <p>As a senior dog is less active than a younger dog and their metabolism has slowed down, they shouldn’t eat too many carbs wherever possible. Senior dogs who are overweight have a worse quality of life and tend to pass away months, or even years sooner than slender, healthier dogs.</p>
+      <b>Bakers contains an excessive amount of carbohydrates, at 52% wholegrains.</b>
+      <b>Pooch & Mutt’s main ingredients are chicken and sweet potato, with no grains included.</b>
+      <p>Finally, to help a senior dog have the best quality of life, the addition of supplements and nutraceuticals can have a positive impact on their ageing body and functions.</p>
+      <b>Bakers contains no supplements or nutraceuticals.</b>
+      <b>Pooch & Mutt contains glucosamine which supports aching or worn joints and can even ease joint pain in arthritic dogs - as well as Fructo-oligo-saccharides (FOS) which boosts healthy gut bacteria.</b>
+      <div>Baker's Senior Food
+Pooch & Mutt's Senior Superfood
+Main ingredient
+Wholegrains
+Chicken
+Meat content
+5.1%
+33.5%
+Supplements
+None
+Glucosamine & FOS</div>
+      <p>Vet Linda’s summary: It’s not a great idea to offer a diet of low-meat and high-carbs to a senior dog - their ageing bodies need nutrition and to avoid unnecessary weight gain. Pooch & Mutt’s high meat content makes it a better option for your old boy or girl. The added glucosamine and FOS is also within the amount vets recommend for reduced muscle wastage.</p>
+      <p>See for yourself how Pooch & Mutt’s grain-free, all-natural food for dogs can help keep your dog happy and healthy from the inside out. For more information about our comparative test, get in touch with us.</p>
+`,
+  headings: [
+    { id: 'Best dry dog food', text: 'Best dry dog food', level: 2 },
+    { id: 'Best wet dog food', text: 'Best wet dog food', level: 2 },
+    { id: 'Best hypoallergenic dog food', text: 'Best hypoallergenic dog food', level: 2 },
+    { id: 'Best dog food for sensitive stomachs', text: 'Best dog food for sensitive stomachs', level: 2 },
+    { id: 'Best dog food for sensitive skin', text: 'Best dog food for sensitive skin', level: 2 },
+    { id: 'Best dog food for puppies', text: 'Best dog food for puppies', level: 2 },
+    { id: 'Best dog food for seniors', text: 'Best dog food for seniors', level: 2 },
+  ]
+},
+
+
+
+'dog-nutrition-what-nutrients-vitamins-minerals-do-dogs-need': {
+  title: 'Dog nutrition: what nutrients, vitamins & minerals do dogs need?',
+  category: 'Pets',
+  snippet: "Dogs need proteins, fats, vitamins (like A, D, E, and K), minerals (like calcium, phosphorus, and potassium), and carbohydrates for energy and overall health.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/DOG-NUTRITION-BLOG-3_500x_crop_center.jpg?v=1661504428",
+    alt: "Dog nutrition: what nutrients, vitamins & minerals do dogs need?",
+    caption: "Dog nutrition - what nutrients do dogs need?"
+  },
+  content: `
+<p>At Pooch & Mutt we’re huge advocates for dog nutrition as a form of medicine. There are many easy ways to get your beloved pooch the right nutrients, vitamins and minerals they need for a healthy, tail-wagging body and clear, happy mind.</p>
+      <p>However, it can be hard to know where to start when it comes to healthy food for dogs, especially when it comes to all the different terminology and understanding what does what.</p>
+      <p>Let us pull back the curtain on doggy diet and nutrition. This full lowdown will have you clued up on the nutrients, vitamins and minerals dogs need, and offers easy tips on getting the goods into their meals.</p>
+      <h2 id="Dog nutrition - what nutrients do dogs need?">Dog nutrition - what nutrients do dogs need?</h2>
+      <p>Dogs and humans have different digestive systems, but it’s fair to say we both suffer when our meals are repetitive, bland and boring. If you want a happy dog with a strong and healthy body both inside and out, the first step is to ensure a varied and balanced diet with plenty of tasty, natural ingredients (1).</p>
+      <p>To start with, a dog’s diet should be made up of the following food groups:</p>
+      <h3 id="Protein">Protein</h3>
+      <p>Protein-rich foods such as meat, fish or poultry are super important for bodily function in dogs, as protein contains amino acids that produce energy and form the building blocks of skin, nails, muscles and bones.</p>
+      <h3 id="Carbohydrates">Carbohydrates</h3>
+      <p>Carbs are mainly used as a source of energy. They aren’t essential in a dog’s diet, but they are useful for the absorption of vitamins and minerals. Potatoes, for example, are a great carb for dogs.</p>
+      <h3 id="Fats">Fats</h3>
+      <p>Getting the right amount of the right fats and fatty acids is vital for a dog’s health. Omega-rich fats such as salmon oil ensure a healthy nervous system, protected internal organs and a comfortable coat and skin.</p>
+      <h3 id="Water">Water</h3>
+      <p>Your dog is about 70% water - and needs topping up regularly! Water regulates body temperature, flushes waste, transports nutrients to cells and digests food - to name but a few of its vital functions.</p>
+      <h3 id="Vitamins and Minerals">Vitamins and Minerals</h3>
+      <p>Responsible for performing hundreds of doggy health tricks, from metabolising and immunity-building to cell production; vitamins and minerals are essential to a happy, well-functioning dog.</p>
+      <h2 id="A list of vitamins and minerals for dogs">A list of vitamins and minerals for dogs</h2>
+      <p>We know there’s a lot to get your head around with vitamins and minerals for dogs, so here’s a simple explanation of the benefits of each…</p>
+      <h3 id="Vitamins for dogs">Vitamins for dogs</h3>
+      <h4>Vitamin A</h4>
+      <p>Often found in eyecare supplements, vitamin A is great for eyesight, growth, foetal development, cell function and immunity.</p>
+      <h4>Vitamin B’s (biotin, folate, niacin, pantothenic acid, riboflavin, thiamine, B-6 and B-12… phew!)</h4>
+      <p>B vitamins are generally responsible for internal functions such as energy regulation, enzyme function and metabolism. B-6 is especially important as it’s vital for a variety of cell, hormone and immunity processes.</p>
+      <h4>Vitamin C</h4>
+      <p>An important antioxidant which reduces inflammation and slows cognitive ageing. Dogs produce vitamin C on their own, but sometimes a supplement can add an extra boost.</p>
+      <h4>Vitamin D</h4>
+      <p>Vital for bone production and muscle health, vitamin D is known as the ‘sunshine vitamin’.</p>
+      <h4>Vitamin E</h4>
+      <p>Defends against cell degeneration in dogs, especially in the eyes and muscles, and helps with reproductive issues.</p>
+      <h4>Vitamin K</h4>
+      <p>Ensures your dog’s blood is able to clot.</p>
+      <h4>Choline</h4>
+      <p>Often used for dogs with epilepsy, choline ensures healthy brain and liver function.</p>
+      <h3 id="Minerals for dogs">Minerals for dogs</h3>
+      <p>Now the minerals! Minerals are split into macrominerals, which your dog requires in large quantities, and microminerals, which they require in trace quantities.</p>
+      <h4>Macrominerals</h4>
+      <h4>Calcium and Phosphorus</h4>
+      <p>These two minerals work together in your dog’s body to build healthy bones and teeth. Among other functions, calcium also promotes a healthy nervous system.</p>
+      <h4>Sodium, Potassium and Chloride</h4>
+      <p>The three main electrolytes in your dog’s body, which play a crucial role in fluid balance.</p>
+      <h4>Magnesium</h4>
+      <p>A multi-faceted mineral, magnesium plays an important role in building bones, enzymes and intracellular fluids.</p>
+      <h4>Sulphur</h4>
+      <p>Helps reduce skin irritation in dogs such as itchy, flaky or greasy skin.</p>
+      <h4>Microminerals</h4>
+      <h4>Iron</h4>
+      <p>Though a micromineral, iron is one of the ‘big dogs’ when it comes to minerals, performing a huge number of functions - not least, carrying haemoglobin and oxygen around your pooch’s body and strengthening their immune system.</p>
+      <h4>Copper</h4>
+      <p>Copper helps absorb iron into your dog’s body, and also helps to form skin, fur and connective tissue.</p>
+      <h4>Zinc</h4>
+      <p>Among other functions, zinc plays an important role in immunity - a deficiency can mean your dog isn’t protected from infection.</p>
+      <h4>Iodine</h4>
+      <p>Iodine helps with your dog’s metabolism and thyroid hormone production.</p>
+      <h4>Chromium</h4>
+      <p>Chromium helps with the uptake of glucose. Diabetic dogs are more in need of this mineral in order to feel the effects of insulin.</p>
+      <h4>Manganese</h4>
+      <p>Lots of functions come from manganese - it metabolises protein and carbohydrates into fatty acids, helps maintain dogs’ bones and joint cartilage, and produces energy.</p>
+      <h4>Selenium</h4>
+      <p>Selenium is an important mineral for its antioxidant qualities and for balancing your dog’s metabolism.</p>
+      <h2 id="Dog food nutrition - what to look out for on dog food labels">Dog food nutrition - what to look out for on dog food labels</h2>
+      <p>So now that you know what each food group, vitamin and mineral does for your dog’s health, what should you look out for on a dog food label?</p>
+      <ul>
+        <li>Firstly, all certified dog foods in the UK have to be vet-approved.</li>
+      </ul>
+      <ul>
+        <li>On a dog food label, the words ‘complete and balanced’ means there are enough nutrients, vitamins and minerals for a healthy dog’s meal (2). However, this is the minimum you could ask for. Lots of cheap, mass-produced pet foods are labelled this way, but that doesn’t always mean it’s the healthiest food available.</li>
+      </ul>
+      <ul>
+        <li>Just like in human food, ingredients will be listed in order of prominence (ie. the most present ingredient will be listed first).</li>
+      </ul>
+      <p>Avoid:</p>
+      <p>X Phrases such as ‘Beef flavour’ or ‘Using animal derivatives’. This usually means the food includes the likes of hooves, entrails, feathers and beaks rather than actual muscle meat, and it may upset a dog’s stomach. Aim to feed your dog the highest quality protein sources whenever possible.</p>
+      <p>X Mentions of sugar, grains or animal fats. These are usually used as filler, and the lack of specificity makes it hard to identify the ingredients, should your dog have a bad reaction (3).</p>
+      <p>X ‘Artificial colours and flavours’ are also highly unnecessary, potentially dangerous and add no nutritional value for your dog. We’re sure you’ll agree, your pooch deserves better than false additives.</p>
+      <p>Enjoy:</p>
+      <p>✔ All natural ingredients, clearly labelled. You should be able to understand everything that’s listed on a label - that’s whole meat, fish or poultry, fruit and veggies, vitamins and minerals - with no E numbers, fillers or vague ‘catch-all’ references.</p>
+      <p>✔ Grain-free Lots of dog foods contain grains, but at Pooch & Mutt, all of our wet and dry dog food is grain-free. This is because plenty of dogs are intolerant to grains such as wheat - and it’s often used as a filler ingredient in mass-produced dog foods.</p>
+      <p>✔ Important to note: a healthier food for dogs will be more calorific per gram than other dog foods.</p>
+      <h3 id="How to feed your dog more nutrients vitamins and minerals">How to feed your dog more nutrients vitamins and minerals</h3>
+      <p>Squeezing the right amount of nutrition into your dog’s diet can be easy, or trickier, depending on whether you feed them commercial dog food or homemade food.</p>
+      <h4>If you buy dog food:</h4>
+      <p>As mentioned, all commercially available dog food in the UK should legally be vet-approved, and so long as they’re labelled ‘complete and balanced’, they’ll meet the minimum requirements for dog nutrition.</p>
+      <p>To do more than the minimum, though, choose pet food brands that pride themselves on using simple, high-quality ingredients; thoughtfully put together with your dog’s physical and mental wellbeing in mind.</p>
+      <h4>If you feed your dog homemade dog food:</h4>
+      <p>Making your dog meals from scratch has been found to be a riskier option, as your pooch may not receive everything they need to be healthy (4). Daily cooked chicken, for instance, means they will miss out on a lot of essential nutrients. If your dog likes the taste of various meats, fish, fruit and veggies, you could be onto a winner - but you will need to use supplements to balance out any deficiencies.</p>
+      <h3 id="Dog nutrition supplements">Dog nutrition supplements</h3>
+      <p>If your dog has specific health needs, or if they’re a puppy - they may benefit from taking supplements alongside their regular dog food. There are specific health foods for puppies, for instance; dogs with stiff joints or mobility issues could benefit from a joint care supplement; or those with sensitive tummies could take a digestion supplement for dogs.</p>
+      <p>Dog supplements can be easily sneaked into your pooch’s food as they taste delicious and come in easily digestible powder, tablet or oil formats - but it’s important to consider the following before stocking up:</p>
+      <p>1. Research which supplements your pooch might need based on their health, age and breed - and where they might need a boost, considering their diet.</p>
+      <p>2. Avoid choosing any/all supplements in the misguided belief that ‘anything will help’. Feeding your dog vitamins and minerals they don’t need can be harmful to them - so be sure to follow recommended dosage guidelines.</p>
+      <p>3. Check with your vet before you feed your dog supplements, as they can offer informed guidance based on your pooch’s unique needs.</p>
+      <p>If you have more questions about feeding your dog a well-rounded, balanced and nutritious diet, feel free to get in touch with us. To get started with delicious, all-natural health food for dogs, check out our range at Pooch & Mutt.</p>
+      <p>References</p>
+      <ol>
+        <li>‘Global Nutrition Guidelines’ - WSAVA, Global Veterinary Community.</li>
+        <li>‘Using the right ingredients’ - Pet Food Manufacturers Association (PFMA).</li>
+        <li>‘Do you really know what’s in your dog’s food?’ - Dr. Linda Simon, Pooch & Mutt.</li>
+        <li>‘Analysis of recipes of home-prepared diets for dogs and cats published in Portuguese’ - National Library of Medicine, 2017.</li>
+      </ol>
+`,
+  headings: [
+    { id: 'Dog nutrition - what nutrients do dogs need?', text: 'Dog nutrition - what nutrients do dogs need?', level: 2 },
+    { id: 'Protein', text: 'Protein', level: 3 },
+    { id: 'Carbohydrates', text: 'Carbohydrates', level: 3 },
+    { id: 'Fats', text: 'Fats', level: 3 },
+    { id: 'Water', text: 'Water', level: 3 },
+    { id: 'Vitamins and Minerals', text: 'Vitamins and Minerals', level: 3 },
+    { id: 'A list of vitamins and minerals for dogs', text: 'A list of vitamins and minerals for dogs', level: 2 },
+    { id: 'Vitamins for dogs', text: 'Vitamins for dogs', level: 3 },
+    { id: 'Minerals for dogs', text: 'Minerals for dogs', level: 3 },
+    { id: 'Dog food nutrition - what to look out for on dog food labels', text: 'Dog food nutrition - what to look out for on dog food labels', level: 2 },
+    { id: 'How to feed your dog more nutrients vitamins and minerals', text: 'How to feed your dog more nutrients vitamins and minerals', level: 3 },
+    { id: 'Dog nutrition supplements', text: 'Dog nutrition supplements', level: 3 },
+  ]
+},
+
+
+
+'feeding-guidelines-for-your-dog': {
+  title: 'Feeding Guidelines for your Dog',
+  category: 'Pets',
+  snippet: "Follow feeding guidelines based on your dog’s size, breed, and age. Generally, adult dogs should be fed twice a day, with measured portions to avoid overfeeding.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/blog_maisie_720_500x_crop_center.jpg?v=1621429366",
+    alt: "Feeding Guidelines for your Dog",
+    caption: "How often we should be offering food"
+  },
+  content: `
+<p>Knowing how to best feed your dog to ensure optimal health is not always straightforward. Owners generally find it hard to decide:</p>
+      <ul>
+        <li>How many times a day their dog should eat</li>
+        <li>How much to feed per meal</li>
+        <li>Whether to feed wet or dry diets</li>
+        <li>Whether their dog needs a special diet or not</li>
+      </ul>
+      <p>Read on to learn a little more about best feeding practices.</p>
+      <h2 id="How often we should be offering food">How often we should be offering food</h2>
+      <p>Typically, the frequency of feeding will depend on the dog’s age. As a rule of thumb, we feed young puppies very regularly; at least four times a day. This is because they have small stomachs and are less able to regulate their blood sugars. Once pups reach about three months of age, we should be able to increase the portion they are given and taper their feedings down to three times daily. It is at six-month-old that it is usually advised that dogs are offered two meals and these should be given in the morning and evening. Some owners are comfortable continuing this pattern lifelong, while others may choose to go on to feed their dogs once a day. For an in depth guide for feeding puppies read our Puppy Feeding Guide blog piece.</p>
+      <p>Many small lap dogs are picky eaters as adults and will only want to eat once a day. However, a larger dog who is active may well need a couple of meals a day to keep them fuelled. This is especially true for working dogs and those who get a lot of exercise. Listen to your dog; they will soon let you know if they are hungry!</p>
+      <h2 id="How much to put in the bowl">How much to put in the bowl</h2>
+      <p>Every Pooch & Mutt diet has a feeding guideline which can be found on the packaging as well as online. The guideline takes into consideration the nutrient profile and calorie content of the food, as well as the dogs weight and age.</p>
+      <p>If you find your dog is constantly leaving food behind, they are likely being overfed. More often than not, this is because they are receiving their calories elsewhere; in the form of treats and dental chews! Remember, no more than 10% of a dog’s diet should be made up of treats so it may be time to cut down.</p>
+      <p>Of course, a guideline should not be solely relied upon as each dog as their own individual metabolism. As well as following a guideline, keep an eye on your dog to ensure they are a good Body Condition Score. You may find you need to alter the recommended amount they are fed over time in order to prevent them from becoming over or under weight.</p>
+      <h3 id="For over-weight dogs">For over-weight dogs</h3>
+      <p>Dogs who are over-weight should not be fed for their current weight. So, if your dog weighs 20kg but should weigh 18kg, we should provide the amount recommended for an 18kg dog. Using a kitchen scales to weigh out food has been proven to be a lot more accurate than ‘eyeballing’ the amount or using a measuring cup.</p>
+      <p>TOP TIP: You will achieve best results by feeding a diet specifically designed to help portly pooches such as Pooch & Mutt Slim & Slender. With ingredients that promote satiety as well as fat breakdown, you are guaranteed results.</p>
+      <h3 id="For under-weight dogs">For under-weight dogs</h3>
+      <p>Again, dogs should be fed for their target rather than their current weight. While your dog may only weigh 10kg, if they should weigh closer to 12kg, this is the weight we should feed them for. For those who struggle to put on weight, feeding their meals little and often may prove easier for them to manage.</p>
+      <h2 id="Choosing a wet or dry diet">Choosing a wet or dry diet</h2>
+      <p>You may opt to offer only wet dog food, only dry food or a mixture of the two.</p>
+      <p>Wet Foods:</p>
+      <ul>
+        <li>Are frequently preferred by dogs due to their texture and flavour profile</li>
+        <li>Provide lots of moisture which can be beneficial for those with kidney or bladder issues</li>
+        <li>May be easier for older animals and those with dental disease to eat</li>
+      </ul>
+      <ul>
+        <li>Can cake to teeth, leading to gum inflammation and tartare build-up, especially in the absence of tooth brushing</li>
+        <li>Can be messy, especially for those with long fur and ‘beards’ such as Griffon Bruxellois and Schnauzers.</li>
+        <li>Can have a stronger smell which some owners may dislike</li>
+      </ul>
+      <p>Dry Foods:</p>
+      <ul>
+        <li>Are easy to weigh and measure out</li>
+        <li>Can be stored for a long time and in large containers</li>
+        <li>Are nutrient and calorie dense</li>
+        <li>Can improve dental health and reduce tartare build-up, which is especially helpful for those prone to dental disease such as Chihuahuas and Greyhounds.</li>
+      </ul>
+      <ul>
+        <li>Contain little moisture so may not be appropriate for dogs with kidney or bladder disease.</li>
+        <li>Are not always as palatable as wet foods so may be declined by very fussy eaters</li>
+      </ul>
+      <h2 id="What about Prescription Diets?">What about Prescription Diets?</h2>
+      <p>Animals with chronic medical conditions such as Inflammatory Bowel Disease, Chronic Kidney Disease or Diabetes will generally benefit from specific veterinary-formulated diets which are prescribed by their vet. These diets should not be started without medical advice.</p>
+      <p>For dogs who do not require prescription diets for medical diseases, owners might wish to take a look at Pooch & Mutt’s functional dog foods. These are designed for those with minor health or behavioural issues and include calming and sensitive stomach dog food. The ingredients are specifically chosen to benefit these dogs and help combat their problem.</p>
+`,
+  headings: [
+    { id: 'How often we should be offering food', text: 'How often we should be offering food', level: 2 },
+    { id: 'How much to put in the bowl', text: 'How much to put in the bowl', level: 2 },
+    { id: 'For over-weight dogs', text: 'For over-weight dogs', level: 3 },
+    { id: 'For under-weight dogs', text: 'For under-weight dogs', level: 3 },
+    { id: 'Choosing a wet or dry diet', text: 'Choosing a wet or dry diet', level: 2 },
+    { id: 'What about Prescription Diets?', text: 'What about Prescription Diets?', level: 2 },
+  ]
+},
+
+
+
+'to-feed-wet-or-dry-dog-food': {
+  title: 'Wet vs dry dog food: what’s best?',
+  category: 'Pets',
+  snippet: "Wet food is more hydrating and palatable, while dry food helps with dental health and is more convenient. Both types can be nutritious depending on your dog's needs.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/Blog_-_wet_or_dry750_x_420_500x_crop_center.jpg?v=1621428752",
+    alt: "Wet vs dry dog food: what’s best?",
+    caption: "No caption available"
+  },
+  content: `
+<div>
+  <p><b>To feed wet or dry dog food to my dog?</b> If you’re a first-time dog owner or just concerned about your dog’s dietary health, you may have spent time pondering this question. It’s worth consideration, and as the pros and cons of wet and dry dog food are relatively balanced, it can be hard to know which one is best for your pooch. Read on as we lay out the differences between wet and dry dog food to help you decide on your dog’s daily menu.</p>
+
+  <h3>What is wet dog food?</h3>
+  <p>As you may have guessed, wet dog food is the sloppy stuff – the chunks of meat often drenched in gravy or jelly. It tends to come in cans or small pouches and smells a lot stronger than dry food. By definition, wet dog food is a lot wetter than dry dog food, too – it contains up to 84% moisture, in fact – and therefore needs to be eaten sooner after opening to stay tasty and fresh.</p>
+
+  <h3>What is dry dog food?</h3>
+  <p>At the other end of the scale is dry dog food, which, in comparison to wet food, only contains 3-12% water. Dry dog food is often called ‘dog biscuits’ in the UK, or ‘kibble’ in the USA – and comes in the form of small, brown pellets usually sold in larger sacks or containers than wet food. Generally, it lasts a lot longer, too – and isn’t as messy (more on that below).</p>
+
+  <h3>Wet or dry dog food: what is the best food for dogs?</h3>
+  <p>The thing is, there doesn’t have to be much of a difference between wet and dry food in terms of nutritional content – if you are choosing high-quality food, that is – so the answer over which is the best option for dogs isn’t a straightforward one. There are variations between the two, so it all comes down to which would work best for your particular pooch and you.</p>
+
+  <h3>Benefits of wet dog food</h3>
+  <p>First, let’s unload the benefits of wet dog food…</p>
+
+  <ul>
+    <li><b>More appetising:</b> We’re sure you’d agree that if you were a dog, you’d probably prefer food that smells and tastes nicer and provides varying textures in the mouth. Indeed, wet food is probably more exciting to your dog's palate than dry food. Dogs aren’t quite as choosy as humans, though – so don’t worry if your pooch has a diet of primarily dry dog food as they’ll be perfectly satisfied.</li>
+
+    <li><b>Easier to chew:</b> Soft, meaty chunks are much easier to munch on than solid pellets, so if your dog has sensitive or small teeth, wet food could be a winner. What’s more, it can also be easier for those with dental disease to manage. If your dog is scheduled for a dental procedure or has just had one, wet food is a good option to ensure they are still getting all of the calories and nutrients they need.</li>
+
+    <li><b>Keeps dogs fuller for longer:</b> Wet food with a lot of moisture is naturally more satiating than dry food, so you’ll have a fuller dog who needs to be fed at a lower frequency.</li>
+
+    <li><b>It’s protein rich:</b> Wet foods often contain more protein-rich meat, which can be beneficial for those dogs that are very active and need plenty of protein to maintain their lean muscle mass.</li>
+
+    <li><b>Better for sensitive stomachs:</b> Dogs with sensitive stomachs and those prone to constipation often do better on wet food diets made from all-natural ingredients. Opt for a specially formulated sensitive stomach dog food or one enriched with prebiotics and/or probiotics when possible.</li>
+  </ul>
+</div>
+
+`,
+  headings: [
+  ]
+},
+
+
+
+'meet-the-pooch-mutt-vip-s-very-important-pooches': {
+  title: 'Meet the Pooch & Mutt VIP’s (Very Important Pooches)',
+  category: 'Pets',
+  snippet: "The Pooch & Mutt VIPs are special dogs with a variety of dietary needs that are addressed with high-quality, natural dog food from Pooch & Mutt.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/Lauren_and_elton_cockapoo_dog_500x_crop_center.jpg?v=1643377539",
+    alt: "Meet the Pooch & Mutt VIP’s (Very Important Pooches)",
+    caption: "No caption available"
+  },
+  content: `
+<p>It’s no secret that at Pooch & Mutt we’re a team of animal lovers, so we thought it was about time we introduced you to the pooches behind the people that supply your dog’s their dinner! Meet some of the team members that work at Pooch & Mutt and learn about our very important pooches! They’re the taste testers to all our products, so find out what we feed our own pooches and why.</p>
+      <b>Owner:</b>
+      <b>Role:</b>
+      <b>Pooch:</b>
+      <b>Breed:</b>
+      <a>Meaty Treat</a>
+      <a>Puppy Superfood</a>
+      <a>Puppy Wet Food</a>
+      <h2><b>Owner:</b> Paula <br><b>Role:</b> CRM Manager <br><b>Pooches:</b> Bonnie (aka Bon) &amp; Max <br><b>Breed:</b> Bon is a 12 ½ year old German Shepherd who I got when she was just 8 weeks old, she’s still my baby even though she’s a senior! I also have a 5-year-old&nbsp;<strong>CRAZY</strong>&nbsp;Chocolate Labrador named Max; he was rescued around 3 years ago. <br>&nbsp; <br>I started here in October 2021 but have been feeding my two dogs Pooch &amp; Mutt for 2 years now! Both of my pooches have suffered with joint problems terribly. Bon is an old girl who experiences arthritis, and Max has had multiple operations after damaging his Cruciate Ligament (I said he was crazy). I originally discovered Pooch &amp; Mutt whilst looking for grain free alternatives to the previous food I was using… this led me to discover the Joint Care range!&nbsp; Since using <a href="https://www.poochandmutt.co.uk/products/joint-care-dry-food" title="Joint Care Dry Food" target="_blank"><strong>Joint Care dry food</strong></a>, I've seen a vast improvement in their mobility. They no longer struggle as much as before, and their walks become longer. I also add some of our <a href="https://www.poochandmutt.co.uk/products/salmon-oil" title="Salmon Oil" target="_blank"><strong>Salmon Oil</strong></a> to their food, which is also known to aid stiff joints, and they have honestly never looked healthier! Their coats are soft and shiny, and they certainly enjoy it too!</h2>
+      <b>Owner:</b>
+      <b>Role:</b>
+      <b>Pooch:</b>
+      <b>Breed:</b>
+      <a>Calm & Relaxed</a>
+      <a>Wet Food</a>
+      <a>Mobile Bones</a>
+      <a>Salmon Oil</a>
+      <a>Bionic Biotic</a>
+      <a>Meaty Treats</a>
+      <a>Calming Treats</a>
+      <p>Owner: Cat
+Role: Partnerships Manager
+Pooch: Tilly
+Breed: 12 year old rescue Staffy</p>
+      <h2>"I'm Cat, the (ironically named) Partnership Manager here at Pooch &amp; Mutt. I live up by the Peak District with my partner and 12 year old rescue Staffy, Tilly.&nbsp; <br>&nbsp; <br>We've been feeding Tilly the <a href="https://www.poochandmutt.co.uk/products/joint-care-dry-food" title="Joint Care Dry Food" target="_blank"><strong>Joint Care dry food</strong></a>&nbsp;recipe with a topping of <a href="https://www.poochandmutt.co.uk/products/chicken-pumpkin-pea-wet-food" title="chicken pumpkin and pea wet food carton" target="_blank"><strong>Chicken Pumpkin &amp; Pea wet food</strong></a> and a teaspoon of the <a href="https://www.poochandmutt.co.uk/products/mobile-bones" title="mobile bones supplement" target="_blank"><strong>Mobile Bones</strong></a>&nbsp;supplement for almost 2 years now and the difference in her mobility has been incredible. She began struggling on long walks in the hills and couldn’t jump up onto her favourite armchair at home around 2 years ago, so we actually built her a makeshift step to help her get up and switched her diet to Pooch &amp; Mutt. After about 6 weeks of her new Pooch &amp; Mutt diet, we were able to remove the makeshift step and she's even been mistaken for a bouncy pup a few times, when running around our local park recently, the difference is incredible.&nbsp; <br>&nbsp; <br>It's been amazing working for Pooch &amp; Mutt and learning more about Tilly’s nutritional needs, but nothing beats seeing the real life benefits and happiness her new diet has given her!</h2>
+      <b>Owner:</b>
+      <b>Role:</b>
+      <b>Pooch:</b>
+      <b>Breed:</b>
+      <a>Meaty Treats</a>
+      <a>Calm & Relaxed</a>
+      <a>Chicken Pumpkin & Pea wet food</a>
+      <b>Owner:</b>
+      <b>Role:</b>
+      <b>Pooch:</b>
+      <b>Breed:</b>
+      <a>Bionic Biotic</a>
+      <strong>supplement</strong>
+      <a>Daily Care Joint supplements</a>
+      <a>Turkey & Hemp Meaty Treats</a>
+      <p>Owner: James
+Role: Head of eCommerce
+Pooch: Parson
+Breed: Fox Red Labrador, from a littler of 9, Parson made the move from the North to become a Pooch living the London life.</p>
+      <p>In the words of Parson...I just love a tennis ball and I've been known at times to do a runner with some of my fellow dog friends balls in hope of adding to my current collection of around 7! I also recently learnt a new trick of how to open the pantry cupboard so I can go and help myself to some of my favourite treats, however, my owners for some reason have now moved them really high up that I can't reach them anymore. I love human ears and if you give me the chance, I'll lick them at any opportunity. I also love long walks in the fields and enjoy nothing more than playing with my dog friends in a game of stick chase.</p>
+      <p>My tail never stops wagging, I'm a really happy kind of boy, who just loves to make my Pooch parents and any other humans happy.
+I'm never not hungry, if you left a 10kg bag of my favourite Pooch & Mutt dog food, I cam promise you I could eat it all.
+Play time is all the time for me, and I love to learn new things, my most recent new trick is how to do a spin and then roll over. I love the ladies and I think I'm a real ladies man, but at the moment I don't have a girlfriend to look after.</p>
+      <h2>Parson was born with a small elbow dysplasia issue on one of his front legs which as we know can be a very common issue within Labradors. So the food we wanted to give Parson had to support his joint issue so he can live a great and active life.<br><br>Parson takes the <strong><a href="https://www.poochandmutt.co.uk/products/joint-care-supplement" title="Joint supplements for dogs which help keep dogs bones healthy">Joint Supplements</a></strong>&nbsp;daily which have been a true help in reducing any issues for him, one of the main reasons we give them to him are that they are packed with the key ingredient Glucosamine, which is what his, and the Pooch &amp; Mutt vet recommended. We also give him a small amount of <strong><a href="https://www.poochandmutt.co.uk/products/salmon-oil" title="Salmon oil for dogs which helps improve joint health and their skin and coats">Salmon oil</a></strong> on top of his dry food, which is full of Omega 3 and can be a great support in improving and maintaining good joints.<br><br>For his food, we feed him <strong><a href="https://www.poochandmutt.co.uk/products/health-digestion-dry-food" title="Healthy grain free dry food for dogs which helps keep the stomach and digestion in good condition">Health &amp; Digestion dry food</a></strong> due to him not doing well with higher fat percentage foods, along with either the <strong><a href="https://www.poochandmutt.co.uk/products/chicken-pumpkin-pea-wet-food" title="Grain free wet food for dogs">Chicken, Pumpkin &amp; Pea</a></strong> or <strong><a href="https://www.poochandmutt.co.uk/products/fish-wet-food-for-dogs" title="Grain free wet food for dogs, low fat food which is good for stomach issues in dogs">Fish, Potato and Pea wet food</a></strong> as a topper.</h2>
+      <h2>We hope you found the insights into our Pooches and Purr fun, interesting and educational. To see our full range of food and supplements, simply click the link here: <strong><a href="https://www.poochandmutt.co.uk/collections/all" title="Shop all for Pooch &amp; Mutt health led dog food">Shop Pooch &amp; Mutt</a></strong></h2>
+      <h2><strong>Feel free to also leave us a comment below letting us know all about your pooch and their favourite pooch food!</strong></h2>
+`,
+  headings: [
+  ]
+},
+
+
+
+'dog-food-nutrition-do-you-really-know-what-s-in-your-dog-s-food': {
+  title: 'Dog Food Nutrition: Do you really know what’s in your dog’s food?',
+  category: 'Pets',
+  snippet: "Check the ingredients list for high-quality protein sources, healthy fats, and essential vitamins and minerals. Avoid fillers like corn or soy that don’t provide nutritional value.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/Blog-Images-food_500x_crop_center.jpg?v=1641997765",
+    alt: "Dog Food Nutrition: Do you really know what’s in your dog’s food?",
+    caption: "The Jargon"
+  },
+  content: `
+<h5>Written by Veterinary Surgeon Dr. Linda Simon</h5>
+      <p>All complete dog foods sold in the UK must meet certain standards and should provide all of the nutrients your dog requires. However, there is a large difference in quality and nutrient profiles between different diets. Cheaper foods may only provide the very basic and minimum requirements that they have to.</p>
+      <p>For the consumer, it can be hard to know which food is the best for their pet. Indeed, some of the ‘poorer’ quality diets have the biggest ad campaigns and are better known than the higher end foods. Have a read of this article to learn how to be more discerning when it comes to reading pet food labels.</p>
+      <h2 id="The Jargon">The Jargon</h2>
+      <p>You might notice a lot of ‘jargon’ on cheaper dog foods. Phrases that may not state clearly what the ingredient contained is. These unclear descriptions make it very hard for an owner to know what they’re giving their pet. Here are some terms you will see on some dog food labels (though not on Pooch & Mutt labels!).</p>
+      <h2><strong>‘Meat and Animal Derivatives’.</strong> This is a vague term that makes it hard to know what exactly has been put into the food. While there could be some muscle meat, this is not guaranteed. The ‘meat’ could be any combination of feathers, hooves, offal and beaks. The manufacturer can use any combination of meat and animal derivatives and can change the recipe at any time. Changing recipes can cause stomach upset, especially in those with sensitive stomachs.</h2>
+      <h2><strong>‘Unknown cereals’</strong> or <strong>‘grains’</strong>. Many manufacturers put grains in their food as a source of energy. The issue with not stating which grain is used (e.g. barley, oats or wheat) is that if your dog has a grain intolerance, we won’t know which grain they are reacting to.</h2>
+      <h2><strong>‘Derivatives of vegetable origin’</strong>. This is a bulking agent added to dog food that is to be avoided. It is the derivatives that are left after vegetable products including cereals, vegetables and legumes are treated. It is a fibre source but is highly heat treated so does not contribute any real vitamins or minerals.</h2>
+      <h2 id="Other ingredients to be on the watch for">Other ingredients to be on the watch for</h2>
+      <h2><strong>‘Sugar’.</strong> Yes, you read that right. Some manufacturers add sugar to their food. The purpose of this is to make the gravy a brown colour. Sugar is not something we should be feeding to our dogs regularly as it can contribute to diabetes, obesity and dental disease. If your dog eats sugar-laced food, they may also become fussy and start to refuse healthier foods going forward.</h2>
+      <h2><strong>‘Animal Fats’.</strong> When the source of fat is not listed, it can change from batch to batch. These fats are sometimes obtained from factory by-products. Again, as we can’t know which fish or animal the fat comes from, we should avoid this ingredient in animals with intolerance or allergies.</h2>
+      <h2>‘<strong>Artifical colours and flavours’.</strong> Sadly, manufacturers may put chemicals in dog food to alter the flavour and appearance. These chemicals add no nutritional value and may cause adverse effects. When you consider that the artificial colour isn’t something the dog notices and is just put in for the owner’s benefit, you begin to appreciate how unnecessary it is.</h2>
+      <h2 id="What should we feed?">What should we feed?</h2>
+      <p>When affordable, we want to try and feed our pets the best quality food we can. Not only will this help maintain an optimal body condition score, feeding a healthy diet can prevent disease and will support your dog’s immune system.</p>
+      <p>Own brand supermarket foods tend to be inexpensive but may not provide the nutrients your dog needs for optimal health. The fillers, cheap meat and animal derivatives, unlisted vegetable derivatives and sugar are all to be avoided.</p>
+      <p>When you read a label, you should recognise every single ingredient. The recipe should be clear; a mixture of meats, carbohydrates, fruits, vegetables and supplements. Good quality foods often have supplements such as prebiotics and probiotics added, to help support your dog’s digestive health.</p>
+      <h2 id="Why choose Pooch and Mutt?">Why choose Pooch and Mutt?</h2>
+      <p>We want to stick to foods containing a high quantity of fresh meat as well as a listed carbohydrate source (such as a root vegetable), fruit, vegetables and supplements. Every single one of the Pooch & Mutt recipes sticks to this healthy formula.</p>
+      <p>A better quality food will be more calorific gram per gram as it is more nutrient dense. You will get more meals out of the same size can. This is especially important for dogs who can be fussy and may struggle to eat a lot at meal times. Smaller breeds and elderly pets tend to benefit most from eating calorie dense food.</p>
+      <p>Nutrition plays a key role in your dog’s overall health. Premium diets are more digestible and better tolerated by most pets. Dogs enjoy a healthier skin and coat as well as a bolstered immune system, keeping them fighting fit.</p>
+      <p>If any of the ingredients in a recipe changes, this will be clearly labelled by Pooch & Mutt. It is crucial you know just what you are feeding your dog, especially if they become unwell or develop a stomach upset.</p>
+`,
+  headings: [
+    { id: 'The Jargon', text: 'The Jargon', level: 2 },
+    { id: 'Other ingredients to be on the watch for', text: 'Other ingredients to be on the watch for', level: 2 },
+    { id: 'What should we feed?', text: 'What should we feed?', level: 2 },
+    { id: 'Why choose Pooch and Mutt?', text: 'Why choose Pooch and Mutt?', level: 2 },
+  ]
+},
+
+
+
+'why-we-changed-our-wet-food-recipe': {
+  title: 'Why we changed our wet food recipe in 2022',
+  category: 'Pets',
+  snippet: "Pooch & Mutt updated their wet food recipe in 2022 to improve nutritional balance, reduce preservatives, and include more natural ingredients for better health benefits.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/New_Recipe_500x_crop_center.jpg?v=1631274578",
+    alt: "Why we changed our wet food recipe in 2022",
+    caption: "No caption available"
+  },
+  content: `
+<p>As many of you will have noticed we have recently updated our wet foods recipes, which means that the texture, consistency and smell have changed. I appreciate that there have been some negative comments about this change and I wanted to let you know a bit more detail about what has happened with the changes, why, and what we are doing about it.</p>
+      <p>We had started work with a new manufacturer on improving the wet food range. There was nothing wrong with the range, but we are always looking to improve all of our products and this change was primarily looking at food miles, locally sourcing ingredients, and mitigating the effects of Brexit.</p>
+      <p>Then in May our existing manufacturing facility suffered a horrendous fire.</p>
+      <p>The fire meant that our existing manufacturer would not be able to produce our food for nearly a year. At this point, we had to speed up the process of moving to the new supplier that we had started working with.</p>
+      <p>The team was “all hands on deck” and did an incredible job. I am very proud that the team managed to get the new production up and running in just 11 weeks, to ensure that our customers didn’t go without food for their dogs.</p>
+      <p>As mentioned the first run of the product itself did not turn out to match the previous product. This is not unexpected, it wasn’t meant to be a perfect copy, it was supposed to be an improvement and a product that we had to develop at a far quicker pace than usual. Even though there is a difference in texture and smell we were happy to release the product, as it (as all Pooch & Mutt products) is made with the highest quality ingredients.</p>
+      <p>To explain the changes.</p>
+      <p>We had had some negative comments about the amount of jelly in the previous product. Even though many dogs liked it (including mine!) it was something that we were looking at. Removing the jelly has had some consequences.</p>
+      <p>Smell: A lot of smell comes from evaporation. Materials in a liquid state evaporate more quickly than those in a more solid state, like jelly. What this means is that because there is liquid around the product instead of jelly the smell is stronger. We are now working with the manufacturer to bring some of the jelly back to the product.</p>
+      <p>Moisture: To be consistent we tried to keep the moisture levels the same in the new product as in the old product. However, in the old product, some of the moisture was trapped in the jelly and not in the meat and vegetables. Reducing the jelly has meant that there is more moisture in the meat and vegetables, which has made that part of the product less firm. We also added fibre to the foods, which is generally a good thing, however the fibre is absorbing the moisture and making the texture of the food softer. We have done trials without the fibre and the product is firmer. We will be developing this further on the next batch.</p>
+      <p>Vegetables: We are equally proud of the great quality fresh vegetables that go into the foods and the slow-cooking process that we use to prepare them. In the new recipes we are using the same amounts of high-quality vegetables that we used in the old recipes, the difference is that with the new recipes the vegetables come from a farm just down the road from the manufacturing facility. However, as we all know from cooking at home, vegetables like carrots can break down quite quickly when cooked in too much moisture for too long. That is exactly what has happened here. The vegetables are still in there, but the higher moisture content surrounding them has meant that they have broken down more, so they are not as visible. Removing the fibre and adding the jelly could fix this, we will know when we get the results of our next trial.</p>
+      <p>When swapping a dog’s food it is always best to do it gradually over about a week. In hindsight, we didn’t make it clear enough in our communications that this should apply to the recipe change too. We should have got ahead of this and we didn’t. It is something that we need to look at for any future recipe changes. We did try to make it clear on our website, social media and on the packaging that this is a new recipe, but we could have done more to explain what that means for you and your dog. This is our fault, it is something I can only apologise for.</p>
+      <p>The team is working tirelessly to develop the food following the customer feedback we have received.</p>
+      <p>I can assure you that, despite what many people seem to think, we have not reduced the quality of the food, or made it any cheaper. We have, in fact, increased the quality of the ingredients used and reduced food miles. However, we know that you want the product to be closer to how it was previously and this is being worked on.</p>
+      <p>We are a small company with just thirteen employees. We are doing our best to get the product closer to the one that our customers love and we are working as quickly as we can. We will have results soon. We hope that you stay with us.</p>
+      <p>Best regards</p>
+      <p>Guy Blaskey, Founder, Pooch & Mutt.</p>
+`,
+  headings: [
+  ]
+},
+
+
+
+'benefits-of-low-fat-foods-for-dogs': {
+  title: 'Benefits of low fat foods for dogs',
+  category: 'Pets',
+  snippet: "Low-fat dog foods help prevent obesity, support digestive health, and can be beneficial for dogs with pancreatitis or other fat-sensitive conditions.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/download_1_2da9ac38-f036-4726-9f91-03f290ba7c1c_500x_crop_center.jpg?v=1629890024",
+    alt: "Benefits of low fat foods for dogs",
+    caption: "No caption available"
+  },
+  content: `
+<div>For some dogs, feeding ‘regular’ dog food is not the most appropriate option. Many will benefit from tailored or prescribed diets that best support their medical needs. Low fat dog foods are one of the most common types of tailored diets purchased in the UK today. Read on below to discover what they offer and why they are so popular among the canine population.</div>
+`,
+  headings: [
+  ]
+},
+
+
+
+'superfood-for-super-dogs': {
+  title: 'Superfood for super dogs',
+  category: 'Pets',
+  snippet: "Superfoods like blueberries, kale, sweet potatoes, and salmon provide extra antioxidants, vitamins, and healthy fats, supporting overall health and vitality in dogs.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/IMPROVING-DOG-COAT-BLOG-1_1ec6d2f5-e8e7-4630-bedc-4e24bb12c454_500x_crop_center.jpg?v=1663236843",
+    alt: "Superfood for super dogs",
+    caption: "No caption available"
+  },
+  content: `
+<div>
+  <p><b>As is true of humans, the brain and the body of our canines are closely intertwined.</b> It is rarely possible for one to be healthy when the other is not. More recently in veterinary medicine, we are focusing on a pet’s mental well-being rather than just their physical health, as our understanding of how the two are closely connected grows.</p>
+
+  <p>We all know that what we eat can affect our mood as well as our long-term health. Of course, the same holds true for dogs. Feeding your pet one of our Superfood diets can go a long way towards keeping both their mind and body in good shape.</p>
+
+  <h3>What is a superfood?</h3>
+  <p>‘Superfood’ is a term that has been coined relatively recently and can be used to describe a range of foods that offer multiple benefits and are seen as being generally healthy. When we talk about a ‘superfood’, we mean one that is nutritionally dense and offers a variety of benefits.</p>
+
+  <h3>What superfoods would you recommend for my dog?</h3>
+  <p>Let’s take a look at some of our favourite ingredients here at Pooch & Mutt:</p>
+
+  <ul>
+    <li><b>Spinach:</b> Naturally packed with vitamins A, C, and E, spinach is like a leafy multi-vitamin! It is also rich in iron and calcium and can naturally reduce inflammation. While we shouldn’t believe everything we see in cartoons, it seems Popeye was on to something when he said: 
+      <i>"I'm strong to the finish, cause I eats me spinach, I'm Popeye the Sailor Man!"</i>
+    </li>
+    
+    <li><b>Cranberries:</b> Cranberries are especially beneficial for urinary tract health and are often advised for those suffering with chronic UTIs and cystitis. Research has also shown that they can bolster the immune system and ward off infection. These sweet, red berries are packed with antioxidants and pack a real punch considering their small size.</li>
+    
+    <li><b>Seaweed:</b> While seaweed may look like soggy weeds, it is both tasty and packed full of healthy nutrients. The omega 3 and 6 fatty acids are joint protective and can also help to protect the heart by reducing inflammation and preventing abnormal heart rhythms.</li>
+    
+    <li><b>Pomegranate:</b> Brimming with vitamin C, potassium, and folic acid, these exotic fruits are delicious and good for your pooch. Vitamin C is a vital antioxidant that may help to prevent cognitive decline as dogs get older. The abundant polyphenols contained within pomegranates are known to be beneficial for those with neurodegenerative disease.</li>
+    
+    <li><b>Sweet Potato:</b> Did you know that while potato doesn’t count as one of your five a day, sweet potato does? This is because it is nutrient-dense and is rich in vitamins and minerals as well as fibre, to help keep your dog regular. The slow-releasing carbohydrates provide energy that will last all day long.</li>
+  </ul>
+
+  <h3>Can diet affect mood?</h3>
+  <p>While this is hard to quantify, especially in pets, recent studies in humans indicate that diet is strongly linked to mood. In fact, researchers in the UK established that a healthy diet is directly linked to less depression and stress. It makes sense that a body and brain that is properly fuelled will function better. Similarly, supporting your dog’s general health will generally lead to an improved quality of life.</p>
+
+  <h3>How else can I ensure my dog is content?</h3>
+  <p>We all want our beloved pets to be happy and fulfilled. Diet is just one aspect that will affect how they are feeling. Other areas to focus on will include:</p>
+
+  <ul>
+    <li><b>Exercise:</b> A dog that is tuckered out in the evening can better relax and wind down. Try to provide your dog with all of the exercise they need on a daily basis.</li>
+
+    <li><b>Mental Stimulation:</b> Exercise alone is not enough for most dogs, who enjoy having their minds tickled. Puzzles and interactive toys as well as obstacle courses are a fun way to keep your pupper happy and engaged.</li>
+
+    <li><b>Praise and rewards:</b> We all like to be complemented when we’re doing well. Remind your furry friend when you’re happy with their behaviour and watch their tail wag.</li>
+
+    <li><b>Keeping it fresh:</b> Just like us, your dog can get bored with the same routine. Try to rotate their toys and bring them on new and exciting walking routes.</li>
+
+    <li><b>Making meal time fun:</b> Things like food puzzles can help spice things up. Pop some of our new treats (like our Turkey & Hemp Calming Probiotic Meaty Treats) inside a feeding ball or hide them around the home and garden for a fun game of ‘find the treat’.</li>
+  </ul>
+</div>
+
+      <section>References</section>
+`,
+  headings: [
+  ]
+},
+
+
+
+'probiotic-meaty-treats': {
+  title: 'Benefits of Meaty Treats',
+  category: 'Pets',
+  snippet: "Meaty treats are high in protein, providing energy and supporting muscle growth. They’re also often more palatable, making them great for training or rewarding good behavior.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/Blog_-_probiotic_meaty_treats750_x_420_500x_crop_center.jpg?v=1621429267",
+    alt: "Benefits of Meaty Treats",
+    caption: "No caption available"
+  },
+  content: `
+<div>We are very excited to introduce something special we have been working on behind the scenes here at Pooch & Mutt. This new range of tasty treats targets some important areas of canine health and offers a range of benefits. From skin and coat to mental wellbeing and oral hygiene, there is something here for every pooch and mutt.</div>
+      <div>As well as helping to address underlying issues, the ingredients in these Meaty Treats can also prevent problems from developing in the first place. These treats can be fed whenever you like, such as during training sessions and as little rewards for good behaviour but remember, treats should never make up more than 10% of your furry friend’s diet.</div>
+      <div>Shrimp & Coconut for Skin and Coat</div>
+      <div>Why not treat your furry friend to a taste of Thailand? These delicious treats have a tropical flavour and are sure to go down a storm. These are the perfect snack for those dogs that are prone to dry or itchy skin or who may need a little bit of help developing their glossy coat.</div>
+      <div>Packed with Collagen and Omega 3 that can improve skin barrier function, skin remains healthy and hydrated. A broken skin barrier can result in more infections and an urge to itch so we must do all we can to keep it intact.</div>
+      <div>The Melon is a natural source of Anti-oxidants which can help to reduce inflammation; something which is especially important for patients with Atopic Dermatitis and Allergies.</div>
+      <div>We’ve also added Biotin. Research has proven that this B vitamin is key for healthy skin, coat and claws and it must be supplemented as dogs cannot manufacture themselves.</div>
+      <div>Of course, we haven’t forgotten those all-important Probiotics. Here at Pooch & Mutt, we are proud to take a holistic approach to canine health. We understand the many positive effects that probiotics exert. Healthy skin and a shiny coat, oftentimes, begins in the gut.</div>
+      <div>Duck & Rosemary for Dental Health</div>
+      <div>These traditionally flavoured treats are sure to go down well. The duck offers a rich and irresistible taste experience; your dog won’t believe it when you tell them just how good for them these treats really are!</div>
+      <div>Herbs such as Rosemary and Sage have long been seen as medicinal and are known to provide antibacterial and antioxidant effects. Reducing bacteria levels can lead to reduced plaque formation and can help maintain healthy gums. On top of this, breath will automatically smell fresher.</div>
+      <div>Collagen, a structural protein, has been added to aid in gum healing and to bolster jaw and tooth health. When we support the tissues around the teeth, we can help keep them in good shape for longer.</div>
+      <div>As a real bonus, the Sodium HMP has been scientifically proven to help to soften and remove calculus (without you even having to get that dreaded toothbrush out!). This results in less gingivitis and an overall healthier mouth.</div>
+      <div>Turkey & Hemp for Calming</div>
+      <div>Even the most laid-back dog can suffer with their nerves from time to time. These calming treats are a great way to help our four-legged friends relax and unwind.</div>
+      <div>Hemp is an exciting ingredient that has a whole host of benefits. It is an all-natural stress reliever and is rich in Omega 3s, Omega 6s and Antioxidants. While the research is in its infancy and the benefits are still not fully understood, hemp is anecdotally a very effective stress reliever. For some, it seems to be able to reduce stress and even offer mild pain relief. It is worth trying for those dogs with behavioral issues linked to nervousness, such as noise phobias and separation anxiety.</div>
+      <div>Valerian root has been used in the treatment of sleep disorders for hundreds of years. It acts as a mild sedative on the central nervous system and can help your dog get their forty winks. It can be especially useful for older dogs who struggle to nod off and stay sleeping.</div>
+      <div>The amino acid L Tryptophan has been added to these treats for a ‘good mood boost’. Your clever dog will turn this nutrient into the brain chemical called Serotonin. Serotonin promotes feeling of well-being and happiness and is great at ‘taking the edge off’.</div>
+      <div>We couldn’t help but add Probiotics to these meaty treats too. Their benefits are vast reaching and they are especially useful for anxious dogs. They help to settle the gut and support cognitive function. The gut-brain axis is the link between the gastrointestinal tract and the brain, and it needs to be well supported to ensure a calm and happy dog.</div>
+`,
+  headings: [
+  ]
+},
+
+
+
+'why-pooch-mutt': {
+  title: 'Why Pooch & Mutt?',
+  category: 'Pets',
+  snippet: "Pooch & Mutt offers high-quality, natural dog food with ingredients that support health, vitality, and happiness for dogs of all life stages.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/Blog_-_why_P_M750_x_420_500x_crop_center.jpg?v=1621429304",
+    alt: "Why Pooch & Mutt?",
+    caption: "No caption available"
+  },
+  content: `
+<p>Functional Foods: When your dog needs a food that does more than just sustain them, our Functional Foods are the ideal solution. A range of practical dry diets, dogs will benefit from the fresh, all-natural ingredients that have been purposefully chosen to fulfil specific purposes. One of our most popular offerings is our ‘Calm & Relaxed’ dry food which helps settle excitable dogs. Or, for those with chronic joint disease, we would highly recommend our ‘Joint Care’ diet which is rich in glucosamine and chondroitin sulphate.</p>
+      <p>Superfoods: For the pampered pooches in the pack, Pooch & Mutt have developed a stand-out range of Superfood dry diets. We have included a host of nutritious and beneficial ingredients including cranberries, spinach and sweet potato. All fresh and natural, your pet’s diet may soon put yours to shame! Naturally hypoallergenic, all superfood diets are easy to digest and well-tolerated by most. This collection caters to puppies, adults, small dogs and seniors.</p>
+      <p>Wet Foods: Choose from ‘Turkey & Duck’, ‘Chicken, Pumpkin & Pea’, ‘Chicken & Beef’ or ‘Turkey & Chicken’ and watch as your merry mutt scoffs the lot. Packed full of vitamins and minerals, while this may be ‘health food’, we promise your dog will never know! The addition of prebiotics ensures that the healthy bacteria in the gut are able to thrive, keeping your pooch in tip-top condition. Oh, and the packaging is 100% recyclable, so this is one guilt-free purchase.</p>
+      <p>Supplements: Supplements can be added to your dog’s bowl on a daily basis to enhance their meals and offer additional health benefits. Our much-loved ‘Bionic Biotic’ is a best-seller for a good reason. Packed with anti-oxidants, probiotics, fish oil, vitamins and minerals this natural supplement complements all of our diets perfectly.</p>
+      <p>Mobile Bones is the ideal powder for those with joint disease and can help slow down the progression of arthritis and minimise inflammation. Or, for those who need some extra Omega oils in their life, opt for our popular, sustainably-sourced Salmon Oil liquid.</p>
+`,
+  headings: [
+  ]
+},
+
+
+
+'benefits-of-a-hypoallergenic-dog-food': {
+  title: 'Benefits of a hypoallergenic dog food',
+  category: 'Pets',
+  snippet: "Hypoallergenic dog food helps manage food allergies or sensitivities by using novel proteins and avoiding common allergens like wheat, soy, or dairy.d",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/Blog_-_hypoallergenic_dog_food_750_x_420_500x_crop_center.jpg?v=1621429631",
+    alt: "Benefits of a hypoallergenic dog food",
+    caption: "No caption available"
+  },
+  content: `
+<h2><strong>What is Hypoallergenic dog food?</strong></h2>
+      <p>Hypoallergenic dog food is food that is free from artificial colours, preservatives or flavours as these can be harmful to a dogs health. It is defined as “having little likelihood of causing an allergic response.” Hypoallergenic dog food should limit any ingredients that can trigger an allergic reaction.</p>
+      <p>Some symptoms of food allergies to look out for include vomiting or diarrhoea, frequent scratching and red, inflamed skin.</p>
+      <h2><strong>What are the benefits of feeding a hypoallergenic dog food?</strong></h2>
+      <ul>
+        <li>Your dog is unlikely to be allergic to the food or have any adverse effects.</li>
+        <li>Hypo-allergenic dog food can reduce the number of health problems that are common in dogs such as arthritis and obesity.</li>
+      </ul>
+      <h2><strong>Switching to a hypoallergenic dog food</strong></h2>
+      <p>As we want the best for our pooches, it’s important to feed them healthy, natural grain-free food. At Pooch & Mutt, our whole range of foods is hypoallergenic, so you have the choice of either wet or dry food, or both! When switching dog foods it is recommended that you introduce the new food gradually replacing 25% of their existing food for the first 2-3 days, then 50% for a further 2-3 days, then 75% for a final 2-3 days.</p>
+`,
+  headings: [
+  ]
+},
+
+
+
+'pineapple-and-coconut-dog-biscuit-recipe': {
+  title: 'Pineapple And Coconut Dog Biscuit Recipe',
+  category: 'Pets',
+  snippet: "Pineapple and coconut dog biscuits are made with coconut flour, pineapple puree, and a bit of peanut butter for a healthy, tasty treat your dog will love.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/30571856_602950043383132_4912779323414413312_n_1_500x_crop_center.jpg?v=1559296961",
+    alt: "Pineapple And Coconut Dog Biscuit Recipe",
+    caption: "No caption available"
+  },
+  content: `
+<p>Wholesome, healthy (and human-friendly too!) this simple 4-ingredient dog biscuit recipe will get your dog’s tail wagging. Coconut oil can act as a great source of energy for the brain.</p>
+      <h2><strong>Ingredients:</strong></h2>
+      <ul>
+        <li>225g fresh pineapple</li>
+        <li>2 tablespoon coconut oil</li>
+        <li>1 large egg</li>
+        <li>300g oat flour (you can buy oat flour or make your own by blending oats. Set some extra aside for rolling your biscuits).</li>
+      </ul>
+      <h2><strong>How to:</strong></h2>
+      <ol>
+        <li>Preheat oven to 175 degrees.</li>
+        <li>Chop your pineapple and pop it into a blender to puree.</li>
+        <li>Add your pureed pineapple, egg and coconut oil in a mixing bowl and whisk until smooth.</li>
+        <li>Begin mixing in your oat flour. The finished consistency should be easy to handle and not too sticky; you can judge as you go and use less/more oat flour.</li>
+        <li>Sprinkle a surface with oat flour and roll the mixture out to about ¼” thick.</li>
+        <li>Cut out your shapes! If you find the dough getting sticky in between cutting out your biscuits, gently dip your cutter in oat flour before cutting out a new treat. Feeling fruity? Go for a pineapple cookie cutter.</li>
+        <li>Bake for 20 minutes, then flip the biscuits so they can brown evenly. Bake for a further 20 minutes and then set aside to cool.</li>
+      </ol>
+      <p>As they contain fresh pineapple, these biscuits will keep for 3-5 days if you seal them in an airtight container and store in a cool dry place.</p>
+`,
+  headings: [
+  ]
+},
+
+
+
+'what-human-foods-can-dogs-eat-what-foods-toxic': {
+  title: 'What Human Food Can Dogs Eat & What Foods Are Toxic?',
+  category: 'Pets',
+  snippet: "Safe human foods for dogs include apples, carrots, and plain cooked chicken. Toxic foods include chocolate, grapes, onions, and garlic.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/Blog_-_human_foods_750_x_420_500x_crop_center.jpg?v=1621429913",
+    alt: "What Human Food Can Dogs Eat & What Foods Are Toxic?",
+    caption: "Human food that is good for dogs"
+  },
+  content: `
+<p>Any pooch parent will know how hard it is to ignore your favourite four legged friend as they longingly stare at you anytime you eat a snack or when you sit down for a meal. While it’s difficult to ignore your pooch and not share your food, it is important to keep in mind that not all human foods are suitable for dogs and in some instances can be dangerous for dogs.</p>
+      <p>On the other hand, there are some human foods that are perfectly safe for dog consumption and can make a delicious and nutritious snack.</p>
+      <p>While it’s important to ensure your dog mostly sticks to their doggy diet, sometimes it’s nice to share a healthy human snack with them too!</p>
+      <p>There’s a variety of healthy human foods that are safe for your pooch to eat, as long as you consider a few points:</p>
+      <ul>
+        <li>As with any food, feed in moderation</li>
+        <li>Keep your dog's specific dietary requirements/allergies in mind</li>
+        <li>Make sure the food size is suitable for your dog to eat</li>
+      </ul>
+      <p>Read on to find out which foods are OK for sharing in moderation and which should be avoided.</p>
+      <h2 id="Human food that is good for dogs">Human food that is good for dogs</h2>
+      <h3 id="Carrots">Carrots</h3>
+      <p>Carrots rich in fibre, biotin, potassium and beta-carotene which produces vitamin A, its true that carrots help improve eyesight. Vitamin A supports the eye in converting light into brain signals resulting in improved vision in low light. Beyond supporting eye health, the high levels of Vitamin A found in carrots support our dogs immune systems and promote a healthy skin and coat.
+
+All of our tasty wet food recipes contain carrots to support a thriving immune system.</p>
+      <p>Not only are carrots healthy for pooches, crunching on a carrot is great for your dog's teeth.</p>
+      <h3 id="Pumpkin">Pumpkin</h3>
+      <p>Pumpkin is a healthy human food for dogs. It's rich in fatty acids, which are important for skin and coat health. Pumpkin also contains natural antioxidants and minerals, making it great for digestion; which is why it's often used in high-quality dog foods.</p>
+      <h3 id="Sweet potato">Sweet potato</h3>
+      <p>Sweet potato is a great example of foods dogs can eat. Naturally high in dietary fibre, sweet potato can aid your dog’s digestive health; that's why you'll find it in Pooch & Mutt functional foods! They also contain Vitamins B6 and C and are low in fat, making them a great shareable human snack. As a side note; while you’re cooking up some sweet potatoes, you can even use them to make your pooch their very own indestructible toy.</p>
+      <h3 id="Green beans">Green beans</h3>
+      <p>Green beans are a dog-friendly human treat. They're rich in vitamins (especially B vitamins) and contain omega-3 fatty acids. They’re also a good source of calcium, copper, fibre, folic acid, iron, manganese and potassium. As long as they're plain (no added salt!) your dog can enjoy green beans in any form; steamed, canned, even raw.</p>
+      <h3 id="Cucumber">Cucumber</h3>
+      <p>Cucumbers are rich in vitamins and minerals and are a great refreshing snack (for you and your dog!). They're a particularly good choice for overweight dogs, as they hold very little fat, oils and carbohydrates.</p>
+      <h3 id="Peanut butter">Peanut butter</h3>
+      <p>Peanut butter is rich in healthy fats and niacin, which helps regulate the digestive system. It also contains vitamin E, which is important for maintaining your dog's healthy skin and coat. But a word of warning, be careful which brand you choose! Make sure your peanut butter of choice doesn’t include Xylitol, as this ingredient is found in some brands and is toxic to dogs.</p>
+      <p>Feel free to share the foods listed above with your pooch in moderate doses. If your pet has any allergies, or you have any other concerns regarding their diet, please contact your vet.</p>
+      <h3 id="Apples">Apples</h3>
+      <p>Apples are an excellent source of Vitamin A & C, as well as fiber for your pooch. Apples are also low in protein and fat making them a great snack for senior dogs too.
+When feeding your dog an apple, make sure to remove the apple seeds and core.
+You could even try freezing the apple to create a refreshing summer snack.</p>
+      <h3 id="Blueberries">Blueberries</h3>
+      <p>Blueberries are a safe and nutritious snack for dogs. Blueberries are a superfood and rich in antioxidants which prevents cell damages in dogs. Apart from this, they also contain lots of vitamins, minerals and fibre bringing lots of benefits to your pooch’s health.
+
+Teaching your dog some new tricks? Why not try using blueberries as a tasty reward.</p>
+      <p>Did you know our Pooch & Mutt Turkey & Chicken wet food contains blueberries that are rich in vitamin K which the body needs to help wounds to heal. There's also anecdotal evidence that vitamin K supports strong and healthy bones.</p>
+      <h3 id="Cranberries">Cranberries</h3>
+      <p>Both cranberries and dried cranberries are safe for dogs to eat in small quantities.</p>
+      <p>Sweet tasting cranberries can actually help to improve your dog's bladder health, reducing the risks of UTIs. These tiny berries can also reduce tartar and plaque build up leading to healthier gums and have anti-bacterial benefits. The anti-bacterial benefits of cranberries have even been known to help prevent cancer, among other illnesses and ailments.</p>
+      <p>Our Superfood range combines chicken with a whole host of superfoods including cranberries.</p>
+      <h3 id="Broccoli">Broccoli</h3>
+      <p>Dogs can eat both raw and cooked broccoli in moderation.</p>
+      <p>Broccoli is an excellent source of both fibre and protein. It contains a whole host of vitamins (A, C, E and K) and minerals (iron, potassium, calcium) that help keep our dogs bones strong and hearts healthy.</p>
+      <p>It also contains many antioxidants that work to reduce inflammation in the body. Naturally occurring lutein is known to support eye and heart health too.</p>
+      <p>When feeding your pooch broccoli, make sure to remove the stalks beforehand.</p>
+      <h2 id="Harmful and toxic foods for dogs">Harmful and toxic foods for dogs</h2>
+      <h3 id="Chocolate">Chocolate</h3>
+      <p>Chocolate is a delicious sweet treat for humans, but is poisonous for dogs.
+Chocolate contains theobromine and caffeine which are two stimulants that dogs cannot efficiently metabolize.</p>
+      <p>Dark chocolate tends to contain more theobromine than milk chocolate so is more poisonous for dogs but all types of chocolate should be avoided.</p>
+      <h3 id="Grapes and Raisins">Grapes and Raisins</h3>
+      <p>Grapes and Raisins are toxic for dogs even in small quantities, so it’s important to not feed your pooch any of these.</p>
+      <h3 id="Onions">Onions</h3>
+      <p>Onions in every form (dry, raw and cooked) as well as leeks and any vegetable from the onion family are poisonous to dogs.</p>
+      <p>They contain N-propyl disulfide, a compound that is toxic to dogs as it can damage your pooch’s red blood cells, reducing the cell’s ability to carry oxygen around the body.</p>
+      <h3 id="Artificial Sweetener">Artificial Sweetener</h3>
+      <p>Xylitol is an artificial sweetener that is found in lots of different types of products such as baked goods and sweets.</p>
+      <h3 id="Macadamia Nuts">Macadamia Nuts</h3>
+      <p>Macadamia nuts contain a toxin that can affect your dog's muscles and nervous system so are best avoided.</p>
+      <h3 id="What to do if your dog has consumed harmful foods">What to do if your dog has consumed harmful foods</h3>
+      <p>If your dog consumes any of these foods even in small amounts, it is important to act quickly and take them to the vets.</p>
+`,
+  headings: [
+    { id: 'Human food that is good for dogs', text: 'Human food that is good for dogs', level: 2 },
+    { id: 'Carrots', text: 'Carrots', level: 3 },
+    { id: 'Pumpkin', text: 'Pumpkin', level: 3 },
+    { id: 'Sweet potato', text: 'Sweet potato', level: 3 },
+    { id: 'Green beans', text: 'Green beans', level: 3 },
+    { id: 'Cucumber', text: 'Cucumber', level: 3 },
+    { id: 'Peanut butter', text: 'Peanut butter', level: 3 },
+    { id: 'Apples', text: 'Apples', level: 3 },
+    { id: 'Blueberries', text: 'Blueberries', level: 3 },
+    { id: 'Cranberries', text: 'Cranberries', level: 3 },
+    { id: 'Broccoli', text: 'Broccoli', level: 3 },
+    { id: 'Harmful and toxic foods for dogs', text: 'Harmful and toxic foods for dogs', level: 2 },
+    { id: 'Chocolate', text: 'Chocolate', level: 3 },
+    { id: 'Grapes and Raisins', text: 'Grapes and Raisins', level: 3 },
+    { id: 'Onions', text: 'Onions', level: 3 },
+    { id: 'Artificial Sweetener', text: 'Artificial Sweetener', level: 3 },
+    { id: 'Macadamia Nuts', text: 'Macadamia Nuts', level: 3 },
+    { id: 'What to do if your dog has consumed harmful foods', text: 'What to do if your dog has consumed harmful foods', level: 3 },
+  ]
+},
+
+
+
+'oats-sweet-potato-dog-treats': {
+  title: 'Oats And Sweet Potato Dog Biscuit Recipe',
+  category: 'Pets',
+  snippet: "Oats and sweet potato dog biscuits are made by mixing cooked sweet potato with oat flour and baking until firm, providing a fiber-rich, tasty snack.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/cookie-cutter-497133_1920_500x_crop_center.jpg?v=1559230866",
+    alt: "Oats And Sweet Potato Dog Biscuit Recipe",
+    caption: "No caption available"
+  },
+  content: `
+<p>Show your pooch some love this Valentine's Day (or any time of year!) with this healthy homemade dog biscuit recipe.</p>
+      <h2><strong><span style="text-decoration: underline;">Ingredients:</span></strong></h2>
+      <ul>
+        <li>180g rolled oats or quick oats</li>
+        <li>100g cooked & peeled sweet potato</li>
+        <li>2 tablespoons coconut oil</li>
+        <li>2 - 3 tablespoons water (depending on the consistency of the mix!)</li>
+      </ul>
+      <h2>This dog biscuit recipe is easy to follow and will get your dog's tail wagging!<br><br><span style="text-decoration: underline;"><strong>How to:</strong></span></h2>
+      <p>1. Preheat oven to 175 degrees.</p>
+      <p>2. Pop the oats into a blender and blitz until they are course and flour-like.</p>
+      <p>3. Add the coconut oil and cooked sweet potato.</p>
+      <p>4. Blitz again until all ingredients are well combined.</p>
+      <p>5. Add water 1 tablespoon at a time. Blitz the mixture in between each addition, until it can be made into a dough with your fingers.</p>
+      <p>6. Knead the mixture into a ball and roll out to around 3 to 4 mm thick. (you may need to sprinkle some flour on a surface to stop the dough from sticking).</p>
+      <p>7. Use a cookie cutter to shape the biscuits. As it’s Valentine’s Day, you could go for a heart-shaped cutter!</p>
+      <p>8. Pop your biscuits onto a grease proofed baking tray and bake for 20 - 25 minutes.</p>
+      <p>Store your biscuits in an airtight container and they’ll keep for around 2 months.</p>
+`,
+  headings: [
+  ]
+},
+
+
+
+'recipe-festive-cinnamon-pumpkin-peanut-butter-biscuits': {
+  title: 'Cinnamon, Pumpkin And Peanut Butter Dog Treat Recipe',
+  category: 'Pets',
+  snippet: "A cinnamon, pumpkin, and peanut butter dog treat is made by mixing peanut butter, pumpkin puree, and a pinch of cinnamon into dough and baking it into biscuits.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/3432127b95b3325855d0ca623de547c6_500x_crop_center.jpg?v=1561538828",
+    alt: "Cinnamon, Pumpkin And Peanut Butter Dog Treat Recipe",
+    caption: "Recipe makes approximately 9 biscuits"
+  },
+  content: `
+<h2 id="Recipe makes approximately 9 biscuits">Recipe makes approximately 9 biscuits</h2>
+      <h4>Ingredients:</h4>
+      <ul>
+        <li>2 eggs</li>
+        <li>2 1/2 cups whole wheat flour</li>
+        <li>1/2 cup cooked pumpkin (you can substitute this with butternut squash)</li>
+        <li>2 tbsp peanut butter - make sure you choose one that's Xylitol free!</li>
+        <li>1/2 tsp cinnamon</li>
+      </ul>
+      <h4>How to:</h4>
+      <p>1. Preheat oven to 180 degrees.</p>
+      <p>2. Whisk up flour, eggs, pumpkin, peanut butter, salt, and cinnamon in a bowl. You may need to add a little water for consistency.</p>
+      <p>3. Roll the mixture into a ball - don't let your dog chase it!</p>
+      <p>4. Coat a hard surface with flour, and use a rolling pin to roll your dough to around 1/2 an inch thick.</p>
+      <p>5. Feeling festive? Opt for a Christmas tree cookie cutter to cut out your shapes.</p>
+      <p>6. Bake for 25-30 minutes, until biscuits are hard.</p>
+      <p>Deck the halls - your festive doggy biscuits are ready! Bonus: they're human-friendly too.</p>
+`,
+  headings: [
+    { id: 'Recipe makes approximately 9 biscuits', text: 'Recipe makes approximately 9 biscuits', level: 2 },
+  ]
+},
+
+
+
+'recipe-banana-peanut-butter-pupcakes': {
+  title: 'Banana And Peanut Butter Pupcake Recipe',
+  category: 'Pets',
+  snippet: "A banana and peanut butter pupcake recipe uses mashed banana, peanut butter, and oat flour to create a moist, healthy cake that’s safe for dogs.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/90fac63fc52efb1fced4c8fecca3bf6f_1296x_e4991368-ae3a-4aff-b860-b37873abf4e6_500x_crop_center.jpg?v=1559231049",
+    alt: "Banana And Peanut Butter Pupcake Recipe",
+    caption: "No caption available"
+  },
+  content: `
+<h2><strong>Recipe makes 9<span>&nbsp;</span></strong><strong>pupcakes</strong></h2>
+      <h2><strong>Ingredients:</strong></h2>
+      <ul>
+        <li>1 cup plain flour</li>
+        <li>1/3 cup porridge oats</li>
+        <li>1 tsp baking soda</li>
+        <li>1 cup shredded carrots</li>
+        <li>1/3 cup smooth (xylitol-free) peanut butter</li>
+        <li>1 banana</li>
+        <li>1 large egg</li>
+        <li>1/4 cup vegetable oil</li>
+        <li>1/4 cup honey</li>
+        <li>1 tsp pure vanilla extract</li>
+      </ul>
+      <h2><strong>Frosting:</strong></h2>
+      <ul>
+        <li>2 x tubs low-fat cream cheese</li>
+        <li>Smooth (xylitol-free) peanut butter</li>
+        <li>Dog treats of your choice</li>
+      </ul>
+      <h2><strong>How to:<br></strong><br>1. Preheat oven to 170 degrees Celsius</h2>
+      <p>2. Line cupcake tins with paper cases (don’t forget to take these off to serve, especially if you have a greedy pooch!)</p>
+      <p>3. In a large bowl mix all ingredients. Add the carrots last and stir in</p>
+      <p>4. Distribute the mixture evenly and bake for 15-minutes</p>
+      <p>5. For the frosting, mix the cream cheese and peanut butter. Use a spoon to dollop on top of pupcakes once they’ve cooled</p>
+      <p>6. Top with treats of your choice (our Peanut Butter Nutty Treats make the perfect addition!)</p>
+      <p>Mary Berry would be proud.</p>
+`,
+  headings: [
+  ]
+},
+
+
+
+'what-to-do-with-your-halloween-pumpkin': {
+  title: 'What to do with your Halloween Pumpkin',
+  category: 'Pets',
+  snippet: "Use leftover Halloween pumpkin to make dog-safe pumpkin treats or puree it and mix it into your dog’s food for added fiber and digestive benefits.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/ffd63fda51f47be2764dd151a008d13a_500x_crop_center.jpg?v=1557495472",
+    alt: "What to do with your Halloween Pumpkin",
+    caption: "Make Spooky Halloween Dog Treats"
+  },
+  content: `
+<h2 id="Make Spooky Halloween Dog Treats">Make Spooky Halloween Dog Treats</h2>
+      <h2 id="Pooch and Mutt’s recipe for spooky Halloween treats with pumpkin and mint to keep your dog’s breath fresh.">Pooch and Mutt’s recipe for spooky Halloween treats with pumpkin and mint to keep your dog’s breath fresh.</h2>
+      <h2><strong>Prep Time</strong>: 25 mins</h2>
+      <h2><strong>Cook Time</strong>: 25 mins</h2>
+      <p>Total Time: 50 mins</p>
+      <h2><strong>Ingredients: </strong></h2>
+      <p>1 cup pumpkin puree</p>
+      <p>2 large eggs</p>
+      <p>4 cups whole wheat flour</p>
+      <p>1 apple cored and grated</p>
+      <p>1/2 cup fresh mint leaves, chopped</p>
+      <p>1/4 cup fresh parsley leaves, chopped</p>
+      <h2><strong>Directions</strong>:</h2>
+      <ol>
+        <li>Preheat oven to 175 degrees C. Line a baking sheet with parchment paper or a silicone baking mat; set aside.</li>
+        <li>Beat the pumpkin puree and eggs until well combined, about 1­2 minutes.</li>
+        <li>Gradually add 2 1/2 cups flour, beating just until incorporated. Add an additional 1 1/2 cup flour at a time just until the dough is no longer sticky. Add apple, mint and parsley, beating just until incorporated.</li>
+        <li>Working on a lightly floured surface, knead the dough 3-­4 times until it comes together. Using a rolling pin, roll the dough to just under 1cm thickness. Using cookie cutters, cut out desired spooky shapes and place onto the prepared baking sheet.</li>
+        <li>Place into oven and bake until the edges are golden brown, about 20 ­- 25 minutes.*</li>
+        <li>Let cool completely</li>
+      </ol>
+      <p>*Baking time will vary depending on the size and thickness of the treats.</p>
+`,
+  headings: [
+    { id: 'Make Spooky Halloween Dog Treats', text: 'Make Spooky Halloween Dog Treats', level: 2 },
+    { id: 'Pooch and Mutt’s recipe for spooky Halloween treats with pumpkin and mint to keep your dog’s breath fresh.', text: 'Pooch and Mutt’s recipe for spooky Halloween treats with pumpkin and mint to keep your dog’s breath fresh.', level: 2 },
+  ]
+},
+
+
+
+'what-you-might-not-know-about-your-dogs-digestion': {
+  title: 'What you might not know about your dogs digestion',
+  category: 'Pets',
+  snippet: "Dogs have a shorter digestive tract than humans, which helps them digest protein quickly. Their stomach acids are stronger, making them more tolerant of certain foods.",
+  featuredImage: {
+    url: "https://cdn.poochandmutt.co.uk/cdn/shop/articles/Blog-Images-Digestion_500x_crop_center.jpg?v=1623251114",
+    alt: "What you might not know about your dog's digestion",
+    caption: "Why we eat"
+  },
+  content: `
+<p>All dogs are different, just like all human are different, and different dogs do better on different diets. To help your dog be as happy and healthy as they can possibly be it is good to understand the basics of how their digestion works.</p>
+      <h2 id="Why we eat">Why we eat</h2>
+      <p>The process of living is basically a lot of individual chemical reactions. The chemicals come in to our bodies in the form of food. Digesting is essentially breaking down the food into it's component parts, so that the body can use what it needs and excrete the waste. For example when you eat a piece of salmon the body breaks this down and sends the omega 3 around the body, with some being used for joint function, some for heart function, some for skin and coat/hair etc.</p>
+      <h2 id="Why digestive enzymes are important">Why digestive enzymes are important</h2>
+      <p>The digestive enzymes are what breaks down the food into it's component parts. If this doesn't happen efficiently then you can end up wasting the beneficial nutrients that you are eating. The best way to ensure effective working of the digestive system is to manage the levels of good bacteria. This is why at Pooch & Mutt we suggest that all dogs either have a digestive supplement for dogs added to their food, or they have a dog food that contains probiotics and prebiotics.</p>
+      <h2 id="Why skin and coat are important">Why skin and coat are important</h2>
+      <p>Your dog's body uses the same nutrients for different things. As mentioned above Omega 3 is used for brain function and joint function as well as skin and coat. Similar is true for many other nutrients. The body is also efficient and clever, it knows that a brain is more important to survival than joints, and that joints are more important to survival than coat, so the body allocates the nutrients to the parts of the body that need it most. This is why skin and coat are important. If the skin and coat are not in good condition you know that the body is not getting enough of the right nutrients. If the skin and coat are in good condition this is a good sign that your dog is getting enough of the right nutrients, as it has enough left over to allocate some to the skin and coat.</p>
+      <h2 id="Why feed grain-free">Why feed grain-free</h2>
+      <p>The best thing to feed your dog is the best food that you can afford, that your dog looks good on, behaves well on and is generally happy with. At Pooch & Mutt we recommend that your dog is fed on a grain-free dog food. Whilst there are arguments both ways on whether or not dogs can digest grain, what we know for sure is that most dogs do not do well on a diet high in grains such as wheat. The foods that do contain grain tend to contain a high level of grain, so it is best to stick to grain-free dog food.</p>
+      <h2 id="What can improve digestion">What can improve digestion</h2>
+      <p>There are certain natural ingredients that can help a dog's digestion; Adding a fibre source like psyllium will both help to firm up stool and clear out the digestive system. Charcoal works to absorb gasses in the digestive system, so reduces bloating and flatulence. Parsley is a natural digestive aid that has been used for centuries. There are also certain things that are easier to digest than others, for example fish is easier to digest than meat, so fish is a better protein source than meat for animals with digestive issues. Probiotics and prebiotics, as mentioned above can improve digestive efficiency. To make feeding easier Pooch & Mutt created Health & Digestion Grain-Free dog food, which uses fish as it's protein source, and has probiotics, prebiotics, charcoal, parsley and psyllium added to it. Browse our full range of dog food and treats for sensitive stomachs here.</p>
+`,
+  headings: [
+    { id: 'Why we eat', text: 'Why we eat', level: 2 },
+    { id: 'Why digestive enzymes are important', text: 'Why digestive enzymes are important', level: 2 },
+    { id: 'Why skin and coat are important', text: 'Why skin and coat are important', level: 2 },
+    { id: 'Why feed grain-free', text: 'Why feed grain-free', level: 2 },
+    { id: 'What can improve digestion', text: 'What can improve digestion', level: 2 },
+  ]
+},
+
+
 };
