@@ -10,7 +10,7 @@ import { generateWebsiteStructuredData } from '@/lib/seo';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://peoplealsoask.netlify.app'),
+  metadataBase: new URL('https://peoplealsoask.vercel.app'),
   title: {
     default: 'People Also Ask - Your Questions Answered',
     template: '%s | People Also Ask'
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://peoplealsoask.netlify.app',
+    url: 'https://peoplealsoask.vercel.app',
     title: 'People Also Ask - Your Questions Answered',
     description: 'Find comprehensive answers to your most pressing questions. Expert insights and detailed explanations on various topics.',
     siteName: 'People Also Ask'
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     }
   },
   alternates: {
-    canonical: 'https://peoplealsoask.netlify.app'
+    canonical: 'https://peoplealsoask.vercel.app'
   },
   robots: {
     index: true,

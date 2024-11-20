@@ -2,7 +2,7 @@ import { type MetadataRoute } from 'next';
 import { articles } from '@/data/articles';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://peoplealsoask.netlify.app';
+  const baseUrl = 'https://peoplealsoask.vercel.app';
   const lastModified = new Date();
 
   // Generate article URLs

@@ -1,7 +1,7 @@
 import { type MetadataRoute } from 'next';
 
 export default function robots(): MetadataRoute.Robots {
-  const baseUrl = 'https://peoplealsoask.netlify.app';
+  const baseUrl = 'https://peoplealsoask.vercel.app';
   
   return {
     rules: {
