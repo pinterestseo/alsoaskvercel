@@ -10,8 +10,6 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true
   },
-  output: 'export',
-  distDir: 'out',
   compress: true,
   poweredByHeader: false,
   experimental: {
