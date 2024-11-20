@@ -31,7 +31,10 @@ export const metadata: Metadata = {
     description: 'Find comprehensive answers to your most pressing questions. Expert insights and detailed explanations on various topics.'
   },
   verification: {
-    google: 'd23by8QOGnw_inlpGsIXqIwZsrUANYSt3523AiLHN7w',
+    google: [
+      'd23by8QOGnw_inlpGsIXqIwZsrUANYSt3523AiLHN7w',
+      'phIx2eBeilpPlYVbxB2ONY2faGxPc9oKw9v--VKmVDU'
+    ],
     other: {
       'msvalidate.01': 'FED4E424C265702D43135DD8C7338545'
     }
